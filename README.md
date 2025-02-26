@@ -615,217 +615,213 @@
   * https://svgedit.netlify.app/editor/index.html
   * https://github.com/SVG-Edit/svgedit
 
+### медиа
+* https://ffmpegwasm.netlify.app/
+  * https://ffmpegwasm.netlify.app/docs/getting-started/usage/
+* video and audio codecs for javascript based on ffmpeg and asm.js
+  * http://duanyao.github.io/codecbox.js/
+  * https://github.com/duanyao/codecbox.js
+* Free Open Source No-Download HTML5 Media Player for Video, Music, Audio, Android, iPhone, FLV, MP4, WEBM
+  * https://bestmediaplayer.org/
+  * https://github.com/bestmediaplayer/mediaplayer
+* JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten
+  * https://brooke.vibber.net/misc/ogv.js/demo/
+  * https://github.com/bvibber/ogv.js
+* качать видео с каналов
+  * https://cobalt.tools/
+  * не смогла скачать целиком видос
+  * https://youtu.be/J9YpU_5YXJM
+* https://github.com/buzz/mediainfo.js
+  * https://mediainfo.js.org/
+* Audio Tag Analyzer
+  * https://audio-tag-analyzer.netlify.app/
+* fastest and most versatile JS EXIF reading library
+  * https://mutiny.cz/exifr/
+  * https://github.com/MikeKovarik/exifr
+* Create short shareable screen recordings – all using web APIs 
+  * https://clips.formidable.dev/
+  * https://github.com/FormidableLabs/clips
+  * https://github.com/FormidableLabs/clips/issues/27
+* ⚠️⚠️⚠️ https://github.com/Vanilagy/mp4-muxer
+* Online Voice Recorder
+  * https://online-voice-recorder.com/
+* speech recognition
+  * https://whisper.ggerganov.com/
+* сжатие видео
+  * https://tools.rotato.app/
+* Video compression in the browser using FFMPEG.wasm
+  * https://github.com/addyosmani/video-compress
+* shrink.video is a tool that allows you to convert
+  * https://shrink.video/
+* list of free video and free audio tools for use without login
+  * https://tools.vadoo.tv/
+  * https://github.com/Anil-matcha/Free-Video-Tools
+* видеоредактор
+  * https://pikimov.com/app/
+  * https://news.ycombinator.com/item?id=40843867
+* субтитры для видео
+  * https://subtitles.fframes.studio/
+  * https://github.com/dmtrKovalenko/subtitler
+  * https://fframes.studio/
+* Online Video Editor
+  * https://online-video-cutter.com/video-editor
+* FFmpeg 6 and VLC.js
+  * https://youtu.be/c6JirD4qm48
+  * https://videolabs.io/communication/vlcjs-demo/vlc.html
+* Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity
+  * https://github.com/feross/timidity
+* MOD/S3M/XM module player for Web Audio
+  * https://mod.haxor.fi/
+  * https://github.com/electronoora/webaudio-mod-player
+
+### атмосфера для настроения
+* https://56k-modem.online/
+  * https://56k-modem.online/post/733310882697904128
+  * https://56k-modem.online/post/723547089433477120/text-mode-if-you-delete-all-fonts-in-xp-youre
+* https://never-obsolete.tumblr.com/
+  * https://64.media.tumblr.com/64f27e087fb1105cb9eb785e5893d0d8/a3b11c1c47faa839-4b/s1280x1920/cc18af86525b434fe7cd8b94f5aefc2cd6412cf5.png
+* https://www.linux.org.ru/gallery/archive/
+* дефрагментация симуляция
+  * http://defrag98.com
+* дизайнерский архив нокия
+  * https://nokiadesignarchive.aalto.fi/
+* graphical user interface gallery
+  * https://guidebookgallery.org/index
+* https://github.com/pi0/clippyjs
+* https://github.com/Adrianotiger/web-esheep
+* 90's Cursor Effects
+  * https://tholman.com/cursor-effects/
+* floor796
+  * https://floor796.com/
+  * https://runet.news/interview/50112
+  * https://www.youtube.com/channel/UCribkEGzOuMQ9ozb0ektMCQ
+  * Отрисовка в браузере большой анимации или как я ушел с mp4 к своему формату видео
+  * https://habr.com/ru/companies/floor796/articles/673318/
+  * https://www.artstation.com/floor796
+  * https://floor796.com/editor/l0
+* Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
+  * https://magenta.tensorflow.org/lofi-player
+  * https://github.com/magenta/lofi-player
+* интерактивные комнаты
+  * https://rooms.xyz/welcome
+* Million dollar homepage
+  * http://www.milliondollarhomepage.com/
+
+### списки игр
+  * https://www.mobygames.com/attributes/tech-specs/
+* списки мульплеерных игр
+  * https://www.co-optimus.com/
+* игры список nintendo ds
+  * https://t.me/pxldevil/2177
+  * https://docs.google.com/spreadsheets/d/1V-rm31D1xt9Bt5AYu05gg7xvZLmxAF2n28wR41yjqbw/edit?usp=sharing
+* список кооперативных игр
+  * https://docs.google.com/spreadsheets/d/e/2PACX-1vSV41AswEt3EpzSyd85YRVtoJaIIXWjtBy347dISJg4fs6xSNPqcgfsh76TxX_l-mnT7pjMlSqTW-87/pubhtml
+  * https://www.reddit.com/r/CoOpGaming/comments/1ha3fbk/what_are_some_really_good_solo_games_that_have/?rdt=53727
+  * https://t.me/dvachannel/139876
+  * https://m.vk.com/wall-125438636_494266
+* список сериалов нулевых
+  * https://m.vk.com/topic-92492508_39021519
+* 1001 игра, которые надо поиграть за свою жизнь
+  * https://en.m.wikipedia.org/wiki/1001_Video_Games_You_Must_Play_Before_You_Die
+  * https://web.archive.org/web/20140713145009/http://1001beforeyoudie.com/1001_video_games_uk.html
+  * https://web.archive.org/web/20130715140635/http://www.1001beforeyoudie.com/qssUS/1001_video_games_us.html
+* База переводов приставочных игр
+  * http://rgdb.info/
+* новости переводов игр
+  * https://www.zoneofgames.ru/
+  * https://t.me/zoneofgames
+* 500+ переводов консольных игр на русский язык
+  * https://teletype.in/@karnovdima/russian-translated-console-games-list
+  * https://t.me/karnovdima/96
+  * обзоры на игры и прочее игровое
+* https://vsrecommendedgames.miraheze.org/wiki/Main_Page
+* игры со статуями с острова Пасхи
+  * https://moai.games/
+  * https://www.zimmerit.moe/moe-for-moai-bandai-emotion/
+* The Video Game Soda Machine Project
+  * https://vgsmproject.com/
+  * https://t.me/karnovdima/111
+* проект по каталогизации новых игр для Sega Mega Drive
+  * https://newmd.games/
+  * https://t.me/newmdgames
+  * https://retrodrom.games/news/my-zapuskaem-proekt-po-katalogizaczii-novyh-igr-dlya-sega-mega-drive/
+  * https://t.me/retrodrom/2019
+* Hardcore Gaming 101
+  * http://www.hardcoregaming101.net/
+  * http://www.hardcoregaming101.net/hg101s-top-47k-games-of-all-time/
+* everything possible about Sega from the 1940s to today
+  * https://segaretro.org/
+* bringing the biggest news and features from the world of retro and classic gaming
+  * https://www.timeextension.com/
+* данные по играм
+  * https://www.mobygames.com/
+* Поиск и каталог обзоров старых игр для IBM PC
+  * https://retroindex.github.io/
+  * https://t.me/karnovdima/173
+* новая реальность информационный игровой портал
+  * http://tv-games.ru/
+* эксклюзивы пс2
+  * https://docs.google.com/spreadsheets/d/1a5U5WL8188cIuIEMNe_tttUY5FVb2aevdhEOUpB47v0/edit?gid=1849388576#gid=1849388576
+
+### источник игр
+* https://www.old-games.ru/game/download/4639.html
+* https://www.emu-land.net/consoles/
+* video game content archive
+  * https://myrient.erista.me/files/
+* https://archive.org/details/@ckau
+* https://archive.org/details/dendy-translated-games-into-russian
+* https://archive.org/details/nes_Ckau
+* https://github.com/CkauNui/ckau-book
+* https://ckaunui.github.io/www/
+* https://4pda.to/forum/index.php?showtopic=802556
+* https://youtube.com/@Ckau
+* Ckau-Book 2.0 Update - 02.04.24
+* https://youtu.be/ZZAhYxToddg
+* https://archive.org/details/snes_drago557_202206
+* https://www.romhacking.net
+* https://teletype.in/@karnovdima/russian-translated-console-games-list
+
+### источники игр, приложений
+* https://github.com/Emupedia/emupedia.github.io/blob/master/beta/emuos/assets/data/desktop.json
+* https://github.com/KilledByAPixel/OS13k
+* аналог
+  * https://github.com/chinonso098/CheetahOS/issues/3
+  * https://raw.githubusercontent.com/chinonso098/CheetahOS/refs/heads/main/src/Things%20to%20do.txt
+  * https://github.com/chinonso098/CheetahOS/blob/main/src/osdrive/Users/Documents/Credits.md
+* http://old-dos.ru
+* https://github.com/midzer/awesome-emscripten
+* https://github.com/emscripten-core/emscripten/wiki/Porting-Examples-and-Demos
+* https://www.retrogames.cc
+* https://freebie.games/
+* https://okgamer.ru
+* https://ytch.xyz/
+* https://t.me/malepeg/8277
+
+### источники портов, в том числе браузерных
+* модификации для игр: патчи, наборы текстур, source-ports и т.д.
+  * https://www.gamesrevival.ru/
+* list of github repositories of idTech engines
+  * https://quakeengines.github.io/#
+* list of github source code repositories, related to Half-Life
+  * https://hlsources.github.io/
+* Open Source Clones of Popular Games
+  * https://osgameclones.com/
+* Free Gamer, a blog dedicated to open source game news
+  * https://freegamer.blogspot.com/
+* Unix ASCII games, a list of opensource text-based games
+  * https://bronevichok.ru/ttygames/
+* List of Open Source Games, list of open source games in mature/beta state
+  * https://trilarion.github.io/opensourcegames/
+* Awesome Open Source Games, list of open source games and game-related projects that can be found on GitHub
+  * https://github.com/michelpereira/awesome-open-source-games
+* LibreGameWiki, the free gaming encyclopedia
+  * https://libregamewiki.org/Main_Page
+* homebrew порты
+  * https://t.me/yellow_room_nerdcave/1131
+* Emscripten ported libraries. See emscripten-core for the core repos
+  * https://github.com/orgs/emscripten-ports/repositories
+
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-
-медиа
-	* https://ffmpegwasm.netlify.app/
-		* https://ffmpegwasm.netlify.app/docs/getting-started/usage/
-video and audio codecs for javascript based on ffmpeg and asm.js
-http://duanyao.github.io/codecbox.js/
-https://github.com/duanyao/codecbox.js
-Free Open Source No-Download HTML5 Media Player for Video, Music, Audio, Android, iPhone, FLV, MP4, WEBM
-https://bestmediaplayer.org/
-https://github.com/bestmediaplayer/mediaplayer
-JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten
-https://brooke.vibber.net/misc/ogv.js/demo/
-https://github.com/bvibber/ogv.js
-качать видео с каналов
-https://cobalt.tools/
-не смогла скачать целиком видос
-https://youtu.be/J9YpU_5YXJM
-https://github.com/buzz/mediainfo.js
-  https://mediainfo.js.org/
-Audio Tag Analyzer
-https://audio-tag-analyzer.netlify.app/
-fastest and most versatile JS EXIF reading library
-https://mutiny.cz/exifr/
-https://github.com/MikeKovarik/exifr
-Create short shareable screen recordings – all using web APIs 
-https://github.com/FormidableLabs/clips
-https://clips.formidable.dev/
-https://github.com/FormidableLabs/clips/issues/27
-https://github.com/Vanilagy/mp4-muxer
-Online Voice Recorder
-https://online-voice-recorder.com/
-speech recognition
-https://whisper.ggerganov.com/
-сжатие видео
-https://tools.rotato.app/
-Video compression in the browser using FFMPEG.wasm
-https://github.com/addyosmani/video-compress
-shrink.video is a tool that allows you to convert
-https://shrink.video/
-list of free video and free audio tools for use without login
-https://tools.vadoo.tv/
-https://github.com/Anil-matcha/Free-Video-Tools
-видеоредактор
-https://pikimov.com/app/
-	https://news.ycombinator.com/item?id=40843867
-субтитры для видео
-https://subtitles.fframes.studio/
-https://github.com/dmtrKovalenko/subtitler
-https://fframes.studio/
-Online Video Editor
-https://online-video-cutter.com/video-editor
-FFmpeg 6 and VLC.js
-https://youtu.be/c6JirD4qm48
-https://videolabs.io/communication/vlcjs-demo/vlc.html
-Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity
-https://github.com/feross/timidity
-MOD/S3M/XM module player for Web Audio
-https://mod.haxor.fi/
-https://github.com/electronoora/webaudio-mod-player
-
-атмосфера для настроения
-https://56k-modem.online/
-* https://56k-modem.online/post/733310882697904128
-* https://56k-modem.online/post/723547089433477120/text-mode-if-you-delete-all-fonts-in-xp-youre
-https://never-obsolete.tumblr.com/
-https://64.media.tumblr.com/64f27e087fb1105cb9eb785e5893d0d8/a3b11c1c47faa839-4b/s1280x1920/cc18af86525b434fe7cd8b94f5aefc2cd6412cf5.png
-https://www.linux.org.ru/gallery/archive/
-дефрагментация симуляция
-http://defrag98.com
-дизайнерский архив нокия
-https://nokiadesignarchive.aalto.fi/
-graphical user interface gallery
-https://guidebookgallery.org/index
-помощник
-https://github.com/pi0/clippyjs
-https://github.com/Adrianotiger/web-esheep
-90's Cursor Effects
-https://tholman.com/cursor-effects/
-
-floor796
-https://floor796.com/
-https://runet.news/interview/50112
-https://www.youtube.com/channel/UCribkEGzOuMQ9ozb0ektMCQ
-Отрисовка в браузере большой анимации или как я ушел с mp4 к своему формату видео
-https://habr.com/ru/companies/floor796/articles/673318/
-https://www.artstation.com/floor796
-https://floor796.com/editor/l0
-Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
-https://magenta.tensorflow.org/lofi-player
-https://github.com/magenta/lofi-player
-интерактивные комнаты
-https://rooms.xyz/welcome
-Million dollar homepage
-http://www.milliondollarhomepage.com/
-
-ИГРЫ
-списки игр
-https://www.mobygames.com/attributes/tech-specs/
-списки мульплеерных игр
-https://www.co-optimus.com/
-игры список nintendo ds
-https://t.me/pxldevil/2177
-https://docs.google.com/spreadsheets/d/1V-rm31D1xt9Bt5AYu05gg7xvZLmxAF2n28wR41yjqbw/edit?usp=sharing
-список кооперативных игр
-https://docs.google.com/spreadsheets/d/e/2PACX-1vSV41AswEt3EpzSyd85YRVtoJaIIXWjtBy347dISJg4fs6xSNPqcgfsh76TxX_l-mnT7pjMlSqTW-87/pubhtml
-https://www.reddit.com/r/CoOpGaming/comments/1ha3fbk/what_are_some_really_good_solo_games_that_have/?rdt=53727
-https://t.me/dvachannel/139876
-https://m.vk.com/wall-125438636_494266
-список сериалов нулевых
-  https://m.vk.com/topic-92492508_39021519
-1001 игра, которые надо поиграть за свою жизнь
-https://en.m.wikipedia.org/wiki/1001_Video_Games_You_Must_Play_Before_You_Die
-  https://web.archive.org/web/20140713145009/http://1001beforeyoudie.com/1001_video_games_uk.html
-  https://web.archive.org/web/20130715140635/http://www.1001beforeyoudie.com/qssUS/1001_video_games_us.html
-База переводов приставочных игр
-http://rgdb.info/
-новости переводов игр
-  https://www.zoneofgames.ru/
-  https://t.me/zoneofgames
-   500+ переводов консольных игр на русский язык
-  https://teletype.in/@karnovdima/russian-translated-console-games-list
-   https://t.me/karnovdima/96
-   обзоры на игры и прочее игровое
-  https://vsrecommendedgames.miraheze.org/wiki/Main_Page
- игры со статуями с острова Пасхи
-  https://moai.games/
-  https://www.zimmerit.moe/moe-for-moai-bandai-emotion/
-  The Video Game Soda Machine Project
-  https://vgsmproject.com/
-    https://t.me/karnovdima/111
-проект по каталогизации новых игр для Sega Mega Drive
-https://newmd.games/
-https://t.me/newmdgames
-https://retrodrom.games/news/my-zapuskaem-proekt-po-katalogizaczii-novyh-igr-dlya-sega-mega-drive/
-https://t.me/retrodrom/2019
-Hardcore Gaming 101
-http://www.hardcoregaming101.net/
-http://www.hardcoregaming101.net/hg101s-top-47k-games-of-all-time/
-everything possible about Sega from the 1940s to today
-https://segaretro.org/
-bringing the biggest news and features from the world of retro and classic gaming
-https://www.timeextension.com/
-данные по играм
-https://www.mobygames.com/
-Поиск и каталог обзоров старых игр для IBM PC
-https://retroindex.github.io/
-https://t.me/karnovdima/173
-новая реальность информационный игровой портал
-http://tv-games.ru/
-эксклюзивы пс2
-https://docs.google.com/spreadsheets/d/1a5U5WL8188cIuIEMNe_tttUY5FVb2aevdhEOUpB47v0/edit?gid=1849388576#gid=1849388576
-
-ПРОСМОТРЕТЬ ИГРЫ
-источник качать
-https://www.old-games.ru/game/download/4639.html
-https://www.emu-land.net/consoles/
-video game content archive
-https://myrient.erista.me/files/
-https://archive.org/details/@ckau
-https://archive.org/details/dendy-translated-games-into-russian
-https://archive.org/details/nes_Ckau
-https://github.com/CkauNui/ckau-book
-https://ckaunui.github.io/www/
-https://4pda.to/forum/index.php?showtopic=802556
-https://youtube.com/@Ckau
-Ckau-Book 2.0 Update - 02.04.24
-https://youtu.be/ZZAhYxToddg
-https://archive.org/details/snes_drago557_202206
-https://www.romhacking.net
-https://teletype.in/@karnovdima/russian-translated-console-games-list
-
-источники игр, приложений
-- https://github.com/Emupedia/emupedia.github.io/blob/master/beta/emuos/assets/data/desktop.json
-- https://github.com/KilledByAPixel/OS13k
-- аналог
-  https://github.com/chinonso098/CheetahOS/issues/3
-  https://raw.githubusercontent.com/chinonso098/CheetahOS/refs/heads/main/src/Things%20to%20do.txt
-  https://github.com/chinonso098/CheetahOS/blob/main/src/osdrive/Users/Documents/Credits.md
-- http://old-dos.ru
-- https://github.com/midzer/awesome-emscripten
-- https://github.com/emscripten-core/emscripten/wiki/Porting-Examples-and-Demos
-- https://www.retrogames.cc
-- https://freebie.games/
-- https://okgamer.ru
-- https://ytch.xyz/
-https://t.me/malepeg/8277
-
-порты, в том числе браузерные
-модификации для игр: патчи, наборы текстур, source-ports и т.д.
-https://www.gamesrevival.ru/
-list of github repositories of idTech engines
-https://quakeengines.github.io/#
-list of github source code repositories, related to Half-Life
-https://hlsources.github.io/
-Open Source Clones of Popular Games
-https://osgameclones.com/
-Free Gamer, a blog dedicated to open source game news
-https://freegamer.blogspot.com/
-Unix ASCII games, a list of opensource text-based games
-https://bronevichok.ru/ttygames/
-List of Open Source Games, list of open source games in mature/beta state
-https://trilarion.github.io/opensourcegames/
-Awesome Open Source Games, list of open source games and game-related projects that can be found on GitHub
-https://github.com/michelpereira/awesome-open-source-games
-LibreGameWiki, the free gaming encyclopedia
-https://libregamewiki.org/Main_Page
-homebrew порты
-https://t.me/yellow_room_nerdcave/1131
-Emscripten ported libraries. See emscripten-core for the core repos
-https://github.com/orgs/emscripten-ports/repositories
 
 источник играть
 https://archive.org/details/stream_only
