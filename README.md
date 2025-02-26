@@ -1198,6 +1198,7 @@
   * https://lrusso.github.io/Quake3/Quake3.htm
   * https://github.com/lrusso/Quake3
 
+#### игры в пдф
 * как создать документ пдф
   * https://mariomalwareanalysis.blogspot.com/2012/02/how-to-manually-create-pdf.html
 * как добавить джс в пдф
@@ -1258,7 +1259,6 @@
 * https://vk.com/topic-43869021_38924032 — gamecube
 * https://www.emuparadise.me/emuparadise-changing
 * https://archive.org/details/softwarelibrary_win3_games
-
 * https://goldlocke.itch.io/dottie-dreads-nought
 * https://goldlocke.itch.io/dottie-flowers
 * https://goldlocke.itch.io/dottie-flowers/devlog/678713/creating-a-turrican-fangame-for-the-snes
@@ -1308,6 +1308,7 @@
 * репозиторий игр на движке instead
   * https://instead-games.ru/index.php?online=1
 
+#### прохождения
 * most friendly and passionate PC gamers motivated in helping others with their problems
   * https://www.pcgamingwiki.com/wiki/Home
 * прохождения игр
@@ -1333,6 +1334,7 @@
     * http://dgmag.in/N38/DowngradeN38.pdf
     * http://dgmag.in/N46/DowngradeN46.pdf
 
+#### статьи и новости
 * https://habr.com/ru/articles/top/monthly/
 * https://xakep.ru/
 * https://www.opennet.ru/
