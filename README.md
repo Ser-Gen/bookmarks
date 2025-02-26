@@ -68,6 +68,9 @@
   * https://www.duttke.de/en/
 * ассемблерное представление кода
   * https://godbolt.org/
+* вим для писателей
+  * https://www.linux.org.ru/gallery/screenshots/17699511
+  * https://sfwriter.com/wordstar.htm
 
 ### JS obfuscation
 * powerful obfuscator for JavaScript and Node.js
@@ -821,241 +824,229 @@
 * Emscripten ported libraries. See emscripten-core for the core repos
   * https://github.com/orgs/emscripten-ports/repositories
 
+### источник игр, чтобы играть
+* https://archive.org/details/stream_only
+  * https://archive.org/details/arcade_speedup
+  * https://archive.org/details/arcade_slipstrm
+  * https://archive.org/details/psx_rainbow6
+  * https://archive.org/details/arcade_aerofgts
+  * https://archive.org/details/arcade_dendego
+  * https://archive.org/details/softwarelibrary_win3_games
+  * https://archive.org/details/Civilization1
+  * https://archive.org/details/calc_20210602
+* https://www.retrogames.onl/
+* https://gam.onl/
+* Play Retro Games Online
+  * https://oldgameshelf.com/
+* http://playminigames.ru
+  * https://playminigames.net/
+* https://retroonline.net/GameList?os=windows#!
+  * https://ddyx.me/GameList?os=windows
+* https://topfuns.net/
+* https://gamedistribution.com/games
+* https://www.crazygames.com
+* Over 6000+ DOS/Windows and Console games preserved for future generations
+  * https://classicreload.com/
+* https://allackony.net
+* https://freebie.games/
+* https://gamaverse.ru/c/retro/
+* https://itch.io/games/top-rated/html5
+* флеш
+  * https://ooooooooo.ooo/
+  * https://evilgames.eu/flashgames.htm
+    * https://evilgames.eu/flashgames.htm#bejeweled-2
+    * https://evilgames.eu/flashgames/plants-vs-zombies.htm
+  * https://www.newgrounds.com/games/popular?interval=all&sort=views&genre=0
+  * https://www.flashgamehistory.com/
+  * https://flashpointarchive.org/
+    * https://flashpointproject.github.io/flashpoint-database/search/#
+  * preservation of flash based gaming
+    * http://www.flashgamearchive.com/
+    * http://arcade.flashgamearchive.com/
+  * https://dondido.github.io/flash-store/
+    * https://github.com/dondido/flash-store
+  * https://archive.org/details/softwarelibrary_flash
+* игры про марио
+  * https://www.smbgames.be/
+* дос
+  * https://dos.zone/
+    * https://dos.zone/multiplayer/
+    * https://dos.zone/ru/
+    * https://js-dos.com/6.22/examples/
+    * https://epicport.com/ru
+  * https://dosgamer.com/
+  * https://dosgames.com/
+  * https://dosdeck.com/
+    * https://www.reddit.com/r/dosdeck/comments/17z7aq4/is_there_a_github/
+  * https://emupedia.net/emupedia-app-dosbox/
+* игры джс
+  * https://github.com/proyecto26/awesome-jsgames
+  * https://js13kgames.com/
+    * https://2013.js13kgames.com/
+  * https://xem.github.io/articles/gamedevjs2024.html
+    * https://xemstudio.itch.io/
+  * https://js1k.com/
+  * https://play.unity.com/
+  * https://yandex.ru/games/
+  * https://yell0wsuit.page/games.html
+  * https://armorgames.com/play/18580/day-of-meat
+  * https://igroutka.ru/dlya-malchikov/zombi/17324-rasteniya-protiv-zombi-2.html
+  * https://www.nintendo.com.au/nintendo-switch-family/online-service/classic-game-selection
+  * https://emulatoronline.com/snes-games/	
+  * https://www.playroms.net/snes-roms/super-mario-odyssey/
+  * https://www.retrogames.cc/arcade-games
+  * https://poki.com/en/flash
+  * https://armorgames.com/category/flash-games
+  * https://poki.com/ru/3d
+  * https://poki.com/ru/%D1%84%D0%BB%D0%B5%D1%88
+  * https://kevin.games
+  * https://www.classicdosgames.com/win9x.html
+    * https://www.classicdosgames.com/game/Worms_2.html
+    * https://www.classicdosgames.com/game/SkiFree.html
+  * Moto X3M 2
+    * https://ru.y8.com/games/moto_x3m_2
+  * https://playclassic.games/games/real-time-strategy-dos-games-online/play-counter-action-online/
+  * https://flasharch.com/ru/archive/play/22795c94c79f7ddb0095e0a4df8a2db3
+    * https://flasharch.com/en/archive/play/a6a8b09944d6a3d93d53ad504d4c0f43
+
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
-источник играть
-https://archive.org/details/stream_only
-https://archive.org/details/arcade_speedup
-https://archive.org/details/arcade_slipstrm
-https://archive.org/details/psx_rainbow6
-https://archive.org/details/arcade_aerofgts
-https://archive.org/details/arcade_dendego
-https://archive.org/details/softwarelibrary_win3_games
-https://archive.org/details/Civilization1
-https://archive.org/details/calc_20210602
-https://classicreload.com/year/1996
-https://www.retrogames.onl/
-https://gam.onl/
-Play Retro Games Online
-https://oldgameshelf.com/
-http://playminigames.ru
-https://playminigames.net/
-https://retroonline.net/GameList?os=windows#!
-https://ddyx.me/GameList?os=windows
-https://topfuns.net/
-https://gamedistribution.com/games
-https://www.crazygames.com
-Over 6000+ DOS/Windows and Console games preserved for future generations
-https://classicreload.com/
-https://allackony.net
-https://freebie.games/
-https://gamaverse.ru/c/retro/
-https://itch.io/games/top-rated/html5
-флеш
-https://ooooooooo.ooo/
-https://evilgames.eu/flashgames.htm
-https://evilgames.eu/flashgames.htm#bejeweled-2
-https://evilgames.eu/flashgames/plants-vs-zombies.htm
-https://www.newgrounds.com/games/popular?interval=all&sort=views&genre=0
-- https://www.flashgamehistory.com/
-https://flashpointarchive.org/
-https://flashpointproject.github.io/flashpoint-database/search/#
-preservation of flash based gaming
-http://www.flashgamearchive.com/
-http://arcade.flashgamearchive.com/
-https://dondido.github.io/flash-store/
-https://github.com/dondido/flash-store
-https://archive.org/details/softwarelibrary_flash
-игры про марио
-https://www.smbgames.be/
-дос
-https://dos.zone/
-https://dos.zone/multiplayer/
-https://dos.zone/ru/
-https://js-dos.com/6.22/examples/
-https://epicport.com/ru
-https://dosgamer.com/
-https://dosgames.com/
-https://dosdeck.com/
-https://www.reddit.com/r/dosdeck/comments/17z7aq4/is_there_a_github/
-https://emupedia.net/emupedia-app-dosbox/
-игры джс
-https://github.com/proyecto26/awesome-jsgames
-https://js13kgames.com/
-https://2013.js13kgames.com/
-https://xem.github.io/articles/gamedevjs2024.html
-https://xemstudio.itch.io/
-https://js1k.com/
-https://play.unity.com/
-https://yandex.ru/games/
-https://yell0wsuit.page/games.html
-https://armorgames.com/play/18580/day-of-meat
-https://igroutka.ru/dlya-malchikov/zombi/17324-rasteniya-protiv-zombi-2.html
-https://www.nintendo.com.au/nintendo-switch-family/online-service/classic-game-selection
-https://emulatoronline.com/snes-games/	
-https://www.playroms.net/snes-roms/super-mario-odyssey/
-https://www.retrogames.cc/arcade-games
-https://poki.com/en/flash
-https://armorgames.com/category/flash-games
-https://poki.com/ru/3d
-https://poki.com/ru/%D1%84%D0%BB%D0%B5%D1%88
-https://kevin.games
-https://www.classicdosgames.com/win9x.html
-https://www.classicdosgames.com/game/Worms_2.html
-https://www.classicdosgames.com/game/SkiFree.html
-Moto X3M 2
-https://ru.y8.com/games/moto_x3m_2
-https://playclassic.games/games/real-time-strategy-dos-games-online/play-counter-action-online/
-- https://flasharch.com/ru/archive/play/22795c94c79f7ddb0095e0a4df8a2db3
-https://flasharch.com/en/archive/play/a6a8b09944d6a3d93d53ad504d4c0f43
-
-отдельные игры
-хром дино
-chrome://dino/
-https://wayou.github.io/t-rex-runner/
-https://github.com/wayou/t-rex-runner
-labs.google/gendino/ — уничтожена
-hover
-https://www.reddit.com/r/gamedev/comments/1nl5nk/i_worked_with_microsoft_to_bring_hover_to_html5/?rdt=58697
-https://www.geekwire.com/2013/windows-95-game-hover-reborn-indie-developer-happen/
-https://answers.microsoft.com/en-us/windows/forum/all/ways-to-play-hover-ie/ebfb778e-4e8a-4d8a-a835-8108a8ee1532
-http://web.archive.org/web/20140301000000*/hover.ie
-doom 2d
-https://dosgamer.com/games/play/doom2d-8632.html
-doom roguelike
-https://dosgames.com/game/doom-the-roguelike/
-https://drl.chaosforge.org/downloads
-квейк мультиплеер
-https://www.netquake.io/multiplayer
-квейк 3
-https://github.com/inolen/quakejs
-  https://github.com/gionko/content.quakejs.com
-http://playminigames.ru/game/quake-3-arena-kveyk-3-arena
-syobon action
-https://www.jezng.com/open-syobon-action.js/
-https://sourceforge.net/projects/opensyobon/
-puzzloop
-https://archive.org/details/arcade_puzzloop
-https://archive.org/details/arcade_pzloop2
-https://www.retrogames.cc/arcade-games/puzz-loop-usa.html
-https://www.emu-land.net/en/arcade/mame/roms?act=showonly&id=5959
-Pipe
-https://archive.org/details/win3_PipeDr3x
-guitarflash3
-https://guitarflash3.com/
-superhotline-miami
-https://albatr.itch.io/superhotline-miami
-bloxd
-https://bloxd.io/
-бичмарк дос
-https://dos.zone/dhrystone-2-test-jul-2020/
-minesweeper
-https://minesweeper.online/
-https://minesweepergame.com/
-https://minesweepergame.com/website/authoritative-minesweeper/wiki/Main_Page
-The Ultimate Beginners Guide to Minesweeper
-https://youtu.be/ytKOmS8vJng
-How the Heck Do You Speedrun Minesweeper?
-https://youtu.be/lOqxU4hnmr8
-HOW TO BECOME A PRO MINESWEEPER PLAYER
-https://youtu.be/iempzKo2t3c
-Minesweeper is Hardcore Gaming
-https://youtu.be/ouCe9OTmTUs
-Minesweeper Expert :: 00:31.133 *World Record* Speed Run by Kamil M. (2010 SDA)
-https://youtu.be/HDUVKUnr0I8
-The Rise and Fall of Minesweeper's Greatest Player - Kamil Murański
-https://youtu.be/Lue4A0kRWIc
-рпг сапёр
-https://hojamaka.com/game/mamono_sweeper_h2/html5/en.html
-варианты сапёра
-https://blog.doredel.com/14-minesweeper-variants/
-supaplex
-https://www.supaplex.online/
-https://github.com/NeedForKillTheGame/nfk-web
-Jedi knight
-https://github.com/lklacar/openjk-emscripten
-https://jk.qubit.rs/
-пираты мультиплеер
-https://yohoho.io/
-Carnivores
-https://github.com/Game3DEE/webcarnivores
-https://www.old-games.ru/game/download/1738.html
-Google dino
-https://wayou.github.io/t-rex-runner/
-https://github.com/wayou/t-rex-runner
-serious sam demo
-https://martinmullins.github.io/ssam/
-Binding of Isaac DEMO
-https://www.newgrounds.com/portal/view/581168
-тетрис
-https://akouzoukos.com/apotris
-inkball
-https://flashmuseum.org/inkball/
-симулятор вождения
-https://avtoline-nsk.ru/c/simuljator-vozhdenija/besplatnyy-realistichnyy-simulyator-vojdeniya.html
-https://gameforge.com/en-US/littlegames/city-car-driving-simulator/#
-https://igroutka.ru/dlya-malchikov/gonki/50591-simulyator-vozhdeniya-gorodskogo-avtomobilya.html
-Zuma
-- http://zuma-deluxe.ru/flash/zuma-suma-lost-treasure.html
-http://zuma-deluxe.ru/games/flash
-http://zuma-deluxe.ru/02-zuma-history.html
-https://pikabu.ru/story/zumas_revenge_v_brauzere_11449836
-Puzz Loop
-https://archive.org/details/arcade_puzzloop
-https://archive.org/details/arcade_pzloop2
-Fallout и Крис Аввелон
-https://archive.org/details/fallout-bible-rus/
-https://chrisavellone.medium.com/
-https://chrisavellone.medium.com/fallout-apocrypha-77c75954641a
-https://chrisavellone.medium.com/fallout-apocrypha-tv-series-review-part-1-c4714083a637
-https://chrisavellone.medium.com/fallout-apocrypha-tv-series-review-part-2-1744b68fe4f2
-https://core-rpg.net/articles/crpgs/fallout/fallout_apocrypha
-https://core-rpg.net/articles/crpgs/fallout/fallout-apocrypha-amazon-tv-series-review-by-chris-avellone
-https://t.me/karnovdima/39
-https://t.me/karnovdima/39?comment=50
-вим для писателей
-https://www.linux.org.ru/gallery/screenshots/17699511
-  https://sfwriter.com/wordstar.htm
-xmoto
-- https://github.com/michaelhoste/xmoto.js
-cube2 Sauerbraten
-http://sauerbraten.org/
-https://dtf.ru/games/627319-horosho-zabytoe-staroe-the-cube-2-sauerbraten
-старый порт
-https://kripken.github.io/misc-js-benchmarks/banana/index.html
-https://kripken.github.io/BananaBread/cube2/bb.html
-cube2 Sauerbraten активная версия
-https://github.com/cfoust/sour
-https://sourga.me/
-Cubes Game Engine
-https://github.com/kpreid/cubes/
-Yet another block/voxel game
-https://github.com/kpreid/all-is-cubes
-InTheCube
-https://github.com/ArthurSonzogni/InTheCube
-https://arthursonzogni.com/en/InTheCube
-тетрис
-https://vk.com/topic-66162180_53675436
-хак кооп супер Марио
-https://www.emu-land.net/forum/index.php/topic,81090.0.html
-пико8 поездка на поезде
-https://www.lexaloffle.com/bbs/?tid=41332
-web-based rhythm game written in HTML, CSS and JavaScript
-https://chloeliang.github.io/rhythm-game/
-https://github.com/ChloeLiang/rhythm-game
-JavaScript game inspired by Osmos 
-https://github.com/rsamp/OsmoVirus
-QWOP
-https://www.foddy.net/Athletics.html
-https://www.foddy.net/2017/09/plan-bee/
-little master cricket
-https://www.foddy.net/2010/10/little-master-cricket/
-https://www.foddy.net/Cricket.html
-Super Hexagon
-https://en.gameslol.net/super-hexagon-933.html
-worms-armageddon
-  https://playminigames.ru/game/worms-armageddon-chervyachki-armageddon
-https://poki.com/ru/g/little-master-cricket#utm_source=redirect-en-ru
+### отдельные игры
+* хром дино
+  * chrome://dino/
+  * https://wayou.github.io/t-rex-runner/
+  * https://github.com/wayou/t-rex-runner
+  * labs.google/gendino/ — уничтожена
+* hover
+  * https://www.reddit.com/r/gamedev/comments/1nl5nk/i_worked_with_microsoft_to_bring_hover_to_html5/?rdt=58697
+  * https://www.geekwire.com/2013/windows-95-game-hover-reborn-indie-developer-happen/
+  * https://answers.microsoft.com/en-us/windows/forum/all/ways-to-play-hover-ie/ebfb778e-4e8a-4d8a-a835-8108a8ee1532
+  * http://web.archive.org/web/20140301000000*/hover.ie
+* doom 2d
+  * https://dosgamer.com/games/play/doom2d-8632.html
+* doom roguelike
+  * https://dosgames.com/game/doom-the-roguelike/
+  * https://drl.chaosforge.org/downloads
+* квейк мультиплеер
+  * https://www.netquake.io/multiplayer
+* квейк 3
+  * https://github.com/inolen/quakejs
+  * https://github.com/gionko/content.quakejs.com
+  * http://playminigames.ru/game/quake-3-arena-kveyk-3-arena
+* syobon action
+  * https://www.jezng.com/open-syobon-action.js/
+  * https://sourceforge.net/projects/opensyobon/
+* puzzloop
+  * https://archive.org/details/arcade_puzzloop
+  * https://archive.org/details/arcade_pzloop2
+  * https://www.retrogames.cc/arcade-games/puzz-loop-usa.html
+  * https://www.emu-land.net/en/arcade/mame/roms?act=showonly&id=5959
+* Pipe
+  * https://archive.org/details/win3_PipeDr3x
+* guitarflash3
+  * https://guitarflash3.com/
+* superhotline-miami
+  * https://albatr.itch.io/superhotline-miami
+* bloxd
+  * https://bloxd.io/
+* бенчмарк дос
+  * https://dos.zone/dhrystone-2-test-jul-2020/
+* minesweeper
+  * https://minesweeper.online/
+  * https://minesweepergame.com/
+  * https://minesweepergame.com/website/authoritative-minesweeper/wiki/Main_Page
+  * The Ultimate Beginners Guide to Minesweeper
+    * https://youtu.be/ytKOmS8vJng
+  * How the Heck Do You Speedrun Minesweeper?
+    * https://youtu.be/lOqxU4hnmr8
+  * HOW TO BECOME A PRO MINESWEEPER PLAYER
+    * https://youtu.be/iempzKo2t3c
+  * Minesweeper is Hardcore Gaming
+    * https://youtu.be/ouCe9OTmTUs
+  * Minesweeper Expert :: 00:31.133 *World Record* Speed Run by Kamil M. (2010 SDA)
+    * https://youtu.be/HDUVKUnr0I8
+  * The Rise and Fall of Minesweeper's Greatest Player - Kamil Murański
+    * https://youtu.be/Lue4A0kRWIc
+  * рпг сапёр
+    * https://hojamaka.com/game/mamono_sweeper_h2/html5/en.html
+  * варианты сапёра
+    * https://blog.doredel.com/14-minesweeper-variants/
+* supaplex
+  * https://www.supaplex.online/
+* Need For Kill
+  * https://github.com/NeedForKillTheGame/nfk-web
+  * https://github.com/NeedForKillTheGame/nfk-web/pull/2
+* Jedi knight
+  * https://github.com/lklacar/openjk-emscripten
+  * https://jk.qubit.rs/
+* пираты мультиплеер
+  * https://yohoho.io/
+* Carnivores
+  * https://github.com/Game3DEE/webcarnivores
+  * https://www.old-games.ru/game/download/1738.html
+* Google dino
+  * https://wayou.github.io/t-rex-runner/
+  * https://github.com/wayou/t-rex-runner
+* serious sam demo
+  * https://martinmullins.github.io/ssam/
+* Binding of Isaac DEMO
+  * https://www.newgrounds.com/portal/view/581168
+* тетрис
+  * https://akouzoukos.com/apotris
+* inkball
+  * https://flashmuseum.org/inkball/
+* симулятор вождения
+  * https://avtoline-nsk.ru/c/simuljator-vozhdenija/besplatnyy-realistichnyy-simulyator-vojdeniya.html
+  * https://gameforge.com/en-US/littlegames/city-car-driving-simulator/#
+  * https://igroutka.ru/dlya-malchikov/gonki/50591-simulyator-vozhdeniya-gorodskogo-avtomobilya.html
+* Zuma
+  * http://zuma-deluxe.ru/flash/zuma-suma-lost-treasure.html
+  * http://zuma-deluxe.ru/games/flash
+  * http://zuma-deluxe.ru/02-zuma-history.html
+  * https://pikabu.ru/story/zumas_revenge_v_brauzere_11449836
+* Puzz Loop
+  * https://archive.org/details/arcade_puzzloop
+  * https://archive.org/details/arcade_pzloop2
+* xmoto
+  * https://github.com/michaelhoste/xmoto.js
+* cube2 Sauerbraten
+  * http://sauerbraten.org/
+  * https://dtf.ru/games/627319-horosho-zabytoe-staroe-the-cube-2-sauerbraten
+  * старый порт
+    * https://kripken.github.io/misc-js-benchmarks/banana/index.html
+    * https://kripken.github.io/BananaBread/cube2/bb.html
+  * cube2 Sauerbraten активная версия
+    * https://github.com/cfoust/sour
+    * https://sourga.me/
+* Cubes Game Engine
+  * https://github.com/kpreid/cubes/
+* Yet another block/voxel game
+  * https://github.com/kpreid/all-is-cubes
+* InTheCube
+  * https://github.com/ArthurSonzogni/InTheCube
+  * https://arthursonzogni.com/en/InTheCube
+* тетрис
+  * https://vk.com/topic-66162180_53675436
+* хак кооп супер Марио
+  * https://www.emu-land.net/forum/index.php/topic,81090.0.html
+* пико8 поездка на поезде
+  * https://www.lexaloffle.com/bbs/?tid=41332
+* web-based rhythm game written in HTML, CSS and JavaScript
+  * https://chloeliang.github.io/rhythm-game/
+  * https://github.com/ChloeLiang/rhythm-game
+* JavaScript game inspired by Osmos 
+  * https://github.com/rsamp/OsmoVirus
+* QWOP
+  * https://www.foddy.net/Athletics.html
+  * https://www.foddy.net/2017/09/plan-bee/
+* little master cricket
+  * https://www.foddy.net/2010/10/little-master-cricket/
+  * https://www.foddy.net/Cricket.html
+* Super Hexagon
+  * https://en.gameslol.net/super-hexagon-933.html
+* worms-armageddon
+  * https://playminigames.ru/game/worms-armageddon-chervyachki-armageddon
+⚠️⚠️⚠️ https://poki.com/ru/g/little-master-cricket#utm_source=redirect-en-ru
 http://www.nitrome.com/games/testsubjectgreen/
 https://www.nethack.org/
 https://alt.org/nethack/
@@ -3076,6 +3067,16 @@ https://t.me/nerdcave_live
 https://t.me/yellow_room_nerdcave
 Вне границ: Краткая история пиксельной графики
 https://www.youtube.com/watch?v=dJCUjORKMfw
+* Fallout и Крис Аввелон
+  * https://archive.org/details/fallout-bible-rus/
+  * https://chrisavellone.medium.com/
+  * https://chrisavellone.medium.com/fallout-apocrypha-77c75954641a
+  * https://chrisavellone.medium.com/fallout-apocrypha-tv-series-review-part-1-c4714083a637
+  * https://chrisavellone.medium.com/fallout-apocrypha-tv-series-review-part-2-1744b68fe4f2
+  * https://core-rpg.net/articles/crpgs/fallout/fallout_apocrypha
+  * https://core-rpg.net/articles/crpgs/fallout/fallout-apocrypha-amazon-tv-series-review-by-chris-avellone
+  * https://t.me/karnovdima/39
+  * https://t.me/karnovdima/39?comment=50
 
 
 
