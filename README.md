@@ -1344,350 +1344,336 @@
 * social news website focusing on computer science and entrepreneurship
   * https://news.ycombinator.com/
 
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-
-эмуляторы
-wiki dedicated to all things emulation
-https://emulation.gametechwiki.com/
-https://emulation.gametechwiki.com/index.php/List_of_games_that_support_pressure-sensitive_buttons#PlayStation_2_Emulation
-The Old School Emulation Center (TOSEC)
-https://www.tosecdev.org/the-project
-Visual Transistor-level Simulation of the 6502 CPU and other chips!
-http://visual6502.org/
-http://www.visual6502.org/JSSim/
-Integrated Circuit (IC) Reverse Engineering (RE) Wiki
-https://siliconpr0n.org/
-guide to your perfect gaming handheld
-https://retrocatalog.com/
-https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/edit?gid=0#gid=0
-web-based frontend for RetroArch
-https://demo.emulatorjs.org/
-	* https://github.com/EmulatorJS/EmulatorJS
-	* https://github.com/EmulatorJS/EmulatorJS/issues/485
-	https://github.com/EmulatorJS/EmulatorJS/issues/315
-	* что умеет
-		* Nintendo
-			* Game Boy Advance
-			* Famicom / NES
-			* Virtual Boy
-			* Game Boy
-			* SNES
-			* DS
-			* 64
-		* Sega
-			* Master System
-			* Mega Drive
-			* Game Gear
-			* Saturn
-			* 32X
-			* CD
-		* Atari
-			* 2600
-			* 5200
-			* 7800
-			* Lynx
-			* Jaguar
-		* Other
-			* PlayStation
-			* Arcade
-			* 3DO
-			* MAME 2003
-	* альтернативы
-		* https://github.com/lrusso/Emulatrix
-		* https://web.libretro.com/
-	* https://neptunjs.xyz/
-		* https://github.com/lyarinet/NeptunJS
+### эмуляторы
+* wiki dedicated to all things emulation
+  * https://emulation.gametechwiki.com/
+    * https://emulation.gametechwiki.com/index.php/List_of_games_that_support_pressure-sensitive_buttons#PlayStation_2_Emulation
+* список нативных эмуляторов и сравнение
+  * https://tasvideos.org/EmulatorResources
+* The Old School Emulation Center (TOSEC)
+  * https://www.tosecdev.org/the-project
+* Visual Transistor-level Simulation of the 6502 CPU and other chips!
+  * http://visual6502.org/
+  * http://www.visual6502.org/JSSim/
+* Integrated Circuit (IC) Reverse Engineering (RE) Wiki
+  * https://siliconpr0n.org/
+* guide to your perfect gaming handheld
+  * https://retrocatalog.com/
+  * https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/edit?gid=0#gid=0
+* emulatorjs
+  * web-based frontend for RetroArch
+  * https://demo.emulatorjs.org/
+    * https://github.com/EmulatorJS/EmulatorJS
+    * https://github.com/EmulatorJS/EmulatorJS/issues/485
+    * https://github.com/EmulatorJS/EmulatorJS/issues/315
+    * что умеет
+		* Nintendo: Game Boy Advance, Famicom / NES, Virtual Boy, Game Boy, SNES, DS, 64
+		* Sega: Master System, Mega Drive, Game Gear, Saturn, 32X, CD
+		* Atari: 2600, 5200, 7800, Lynx, Jaguar
+		* Other: PlayStation, Arcade, 3DO, MAME 2003
+* Emulatrix
+  * https://github.com/lrusso/Emulatrix
+* https://web.libretro.com/
+* https://neptunjs.xyz/
+  * https://github.com/lyarinet/NeptunJS
 * https://tic80.com/
-	* https://github.com/nesbox/TIC-80
-	https://tic80.com/dev?id=2178
-	tic!osu
-https://tic80.com/play?cart=1058
+  * https://github.com/nesbox/TIC-80
+  * https://tic80.com/dev?id=2178
+  * tic!osu
+    * https://tic80.com/play?cart=1058
 * https://exoticorn.github.io/microw8/
 * https://www.pico-8-edu.com/
-	* https://lexaloffle.com/pico-8.php?page=resources
-	* https://github.com/pico-8/awesome-PICO-8
-	* https://memalign.github.io/p/pico8.html
-	* https://freds72.itch.io/another-world
-	* https://itch.io/games/tag-pico-8
-	https://www.lexaloffle.com/bbs/?cat=7
-	4 Sample Pico8 Games for Beginners
-	https://www.lexaloffle.com/bbs/?tid=144823
-some tutorials for Pico-8 and other game development topics
-https://demoman.net/
-enhanced PICO-8 cheat sheet
-https://www.lexaloffle.com/bbs/?tid=28207
-pico8 top-Down Adventure Game Tutorial
-https://www.lexaloffle.com/bbs/?tid=35135
-run PICO-8 carts in browser without exporting them
-https://github.com/egordorichev/pico-player
-Picotron
-	https://www.lexaloffle.com/bbs/?cat=8
-https://www.lexaloffle.com/picotron.php?page=faq
-https://web.archive.org/web/20230101000000*/https://www.lexaloffle.com/picotron.php?page=playground
-https://web.archive.org/web/20230101000000*/https://www.lexaloffle.com/picotron.php?page=playground
-https://web.archive.org/web/20231121193730/https://www.lexaloffle.com/picotron.php?page=playground
-https://www.reddit.com/r/picotron/comments/1bgd7c5/did_a_blind_first_look_video_on_picotron_cant/
-https://www.youtube.com/watch?v=ba-hG6Ex8PU
-https://itch.io/jam/picotron-game-jam
-https://www.lexaloffle.com/picotron.php
-Picotron Playground | FIRST LOOK
-https://www.youtube.com/watch?v=e8LXpPwW3FI
-PixelVision8
-Awesome Virtual Console Now Free During Voldemort's Reign!
-https://youtu.be/__1zxu8_ttc
-https://github.com/PixelVision8/PixelVision8
-https://pixelvision8.github.io/Website/
-https://wasm4.org/play/
-* https://github.com/aduros/wasm4
-https://wasm4.org/docs/guides/multiplayer/
+  * https://lexaloffle.com/pico-8.php?page=resources
+  * https://github.com/pico-8/awesome-PICO-8
+  * https://memalign.github.io/p/pico8.html
+  * https://freds72.itch.io/another-world
+  * https://itch.io/games/tag-pico-8
+  * https://www.lexaloffle.com/bbs/?cat=7
+  * 4 Sample Pico8 Games for Beginners
+    * https://www.lexaloffle.com/bbs/?tid=144823
+  * some tutorials for Pico-8 and other game development topics
+    * https://demoman.net/
+  * enhanced PICO-8 cheat sheet
+    * https://www.lexaloffle.com/bbs/?tid=28207
+  * pico8 top-Down Adventure Game Tutorial
+    * https://www.lexaloffle.com/bbs/?tid=35135
+  * run PICO-8 carts in browser without exporting them
+    * https://github.com/egordorichev/pico-player
+* Picotron
+  * https://www.lexaloffle.com/bbs/?cat=8
+  * https://www.lexaloffle.com/picotron.php?page=faq
+  * https://web.archive.org/web/20230101000000*/https://www.lexaloffle.com/picotron.php?page=playground
+  * https://web.archive.org/web/20230101000000*/https://www.lexaloffle.com/picotron.php?page=playground
+  * https://web.archive.org/web/20231121193730/https://www.lexaloffle.com/picotron.php?page=playground
+  * https://www.reddit.com/r/picotron/comments/1bgd7c5/did_a_blind_first_look_video_on_picotron_cant/
+  * https://www.youtube.com/watch?v=ba-hG6Ex8PU
+  * https://itch.io/jam/picotron-game-jam
+  * https://www.lexaloffle.com/picotron.php
+  * Picotron Playground | FIRST LOOK
+    * https://www.youtube.com/watch?v=e8LXpPwW3FI
+* PixelVision8
+  * Awesome Virtual Console Now Free During Voldemort's Reign!
+    * https://youtu.be/__1zxu8_ttc
+  * https://github.com/PixelVision8/PixelVision8
+  * https://pixelvision8.github.io/Website/
+* https://wasm4.org/play/
+  * https://github.com/aduros/wasm4
+  * https://wasm4.org/docs/guides/multiplayer/
 * https://dos.zone/
-	* https://github.com/caiiiycuk/js-dos
+  * https://github.com/caiiiycuk/js-dos
 * https://github.com/copy/v86
-https://github.com/copy/images
-	* https://github.com/lrusso/VirtualXP
-	* https://nepx.github.io/halfix-demo/
-	* https://github.com/felixrieseberg/windows95
+  * https://github.com/copy/images
+* https://github.com/lrusso/VirtualXP
+* https://nepx.github.io/halfix-demo/
+* https://github.com/felixrieseberg/windows95
 * http://www.boxedwine.org/
-	* http://www.boxedwine.org/demo/
+  * http://www.boxedwine.org/demo/
 * https://archive.org/details/softwarelibrary_palm
 * http://www.pica-pic.com/
-	* https://www.emutalk.net/threads/backup-simulators-of-pica-pic-com.56531/
-	https://www.emutalk.net/threads/backup-simulators-of-pica-pic-com.56531/#post-462312
-  https://www.brianapps.net/juggle/webgl.html
-  https://www.brianapps.net/tossup/html5/
-	* https://flasharch.com/en/archive/play/4461e16d5ad80672b4fe8e883ade73d6
-	* https://web.archive.org/web/20230000000000*/https://pica-pic.com/
-	* https://oladaniel.com/pica-pic
-* https://github.com/BdR76/lcdgame.js/
-	* https://g2.igroutka.ru/games/72/nu_pogodi/wolf-on-the-farm/
-	* https://shtange.github.io/catch-the-egg/
-	* https://github.com/shtange/catch-the-egg
-	* https://habr.com/ru/articles/131419/
-	* http://www.emulator3000.org/rus-hq.htm
-	* https://www.emu-land.net/forum/index.php?topic=85165.0
+  * https://www.emutalk.net/threads/backup-simulators-of-pica-pic-com.56531/
+  * https://www.emutalk.net/threads/backup-simulators-of-pica-pic-com.56531/#post-462312
+  * https://www.brianapps.net/tossup/html5/
+  * https://flasharch.com/en/archive/play/4461e16d5ad80672b4fe8e883ade73d6
+  * https://web.archive.org/web/20230000000000*/https://pica-pic.com/
+  * https://oladaniel.com/pica-pic
+  * https://github.com/BdR76/lcdgame.js/
+    * https://g2.igroutka.ru/games/72/nu_pogodi/wolf-on-the-farm/
+    * https://shtange.github.io/catch-the-egg/
+    * https://github.com/shtange/catch-the-egg
+    * Тайны океана: Перезагрузка
+      * https://habr.com/ru/articles/131419/
+    * http://www.emulator3000.org/rus-hq.htm
+    * https://www.emu-land.net/forum/index.php?topic=85165.0
 * https://morskoy-boy.15kop.ru/
-	* https://15kop.ru/rent/
+  * https://15kop.ru/rent/
 * https://ruffle.rs/
-https://ruffle.rs/demo/
-	* https://ruffle.rs/blog/
+  * https://ruffle.rs/demo/
+  * https://ruffle.rs/blog/
 * https://github.com/azya52/BrickEmuPy
-Так какой же процессор использовался в играх Brick Game?
-	* https://habr.com/ru/articles/767520/
-	Так какой же процессор использовался в играх Brick Game? Часть 2
-	* https://habr.com/ru/articles/773040/
-	* pip3 install pyqt6
-	* python3 main
-	* https://github.com/kosukhin/brick-game-simulator
+  * Так какой же процессор использовался в играх Brick Game?
+    * https://habr.com/ru/articles/767520/
+  * Так какой же процессор использовался в играх Brick Game? Часть 2
+    * https://habr.com/ru/articles/773040/
+    * pip3 install pyqt6
+    * python3 main
+    * https://github.com/kosukhin/brick-game-simulator
 * https://dosdeck.com/
-box86js: run 32-bit linux binary directly in browser
-* https://github.com/raoofha/box86js
-https://raoofha.github.io/box86js/
-https://www.emu-land.net/forum/
-https://github.com/fcambus/jsemu
-https://github.com/jspspemu
-https://aarongiles.com/dreamm/
-дос
-https://dos.zone/studio-v8/
-https://js-dos.com/jsdos-bundle.html
-https://js-dos.com/mobile-support-v7.html
-https://www.boxedwine.org/demo/
-  https://github.com/danoon2/Boxedwine/issues/94
-  https://www.boxedwine.org/documentation/web-build-configuration/
-  https://www.old-games.ru/forum/threads/boxedwine-wine-dlja-windows-i-ne-tolko.88446/
-  https://hlb0.octt.eu.org/Misc/BoxedWine/
-контейнеры
-https://github.com/danoon2/Boxedwine/issues/80
-https://ktock.github.io/container2wasm-demo/
-https://github.com/ktock/container2wasm
-список нативных эмуляторов и сравнение
-https://tasvideos.org/EmulatorResources
-игры Спектрум
-http://zxonline.ru/
-mobile-friendly ZX Spectrum emulator for the browser
-https://zxplay.org/
-ZX Spectrum emulator in the browser
-https://jsspeccy.zxdemo.org/
-Elite
-http://zxonline.ru/game/elite/#
-эмулятор БК
-https://chessforeva.neocities.org/BK/bk
-https://www.megainformatic.ru/games/b/bk/files/
-МК-85С
-https://mk.bs0dd.net/index.php?lang=rus&page=jsemu/mk85c/main
-МК-85С. Оживляем шифровальный калькулятор
-https://habr.com/ru/companies/timeweb/articles/843864/
-Kahvibreak is a collection of Java 2 Micro Edition mobile phone games
-https://bluemaxima.org/kahvibreak/
-https://flashpointarchive.org/datahub/Kahvibreak_Game_List
-https://www.pcem-emulator.co.uk/downloads.html
-https://archive.org/details/nesticle_dos
-https://en.m.wikipedia.org/wiki/NESticle
-ScummVM Web Demo (unofficial) 
-- https://github.com/chkuendig/scummvm-demo
-	- https://scummvm.kuendig.io/
-t.me/segagamesbot
-Squeak Smalltalk VM in Javascript
-https://squeak.js.org/run/
-bbc micro
-https://bbc.xania.org/
-https://github.com/mattgodbolt/jsbeeb
-Minimal x86-64 emulator for WebAssembly - run ELF binaries in your browser
-https://ax.010.one/
-https://github.com/xarantolus/ax
-jor1k: OpenRISC OR1K Javascript Emulator Running Linux With Network Support
-https://s-macke.github.io/jor1k/demos/main.html?user=OA8d4HuICY&cpu=asm&n=1&relayURL=wss%3A%2F%2Frelay.widgetry.org%2F
-Browsix is a Unix-like operating system for the browser
-https://browsix.org/
-https://github.com/plasma-umass/browsix
-https://news.ycombinator.com/item?id=34367767
+* box86js: run 32-bit linux binary directly in browser
+  * https://github.com/raoofha/box86js
+  * https://raoofha.github.io/box86js/
+* https://www.emu-land.net/forum/
+* https://github.com/fcambus/jsemu
+* https://github.com/jspspemu
+* https://aarongiles.com/dreamm/
+* дос
+  * https://dos.zone/studio-v8/
+  * https://js-dos.com/jsdos-bundle.html
+  * https://js-dos.com/mobile-support-v7.html
+* https://www.boxedwine.org/demo/
+  * https://github.com/danoon2/Boxedwine/issues/94
+  * https://www.boxedwine.org/documentation/web-build-configuration/
+  * https://www.old-games.ru/forum/threads/boxedwine-wine-dlja-windows-i-ne-tolko.88446/
+  * https://hlb0.octt.eu.org/Misc/BoxedWine/
+* контейнеры
+  * https://github.com/danoon2/Boxedwine/issues/80
+  * https://ktock.github.io/container2wasm-demo/
+  * https://github.com/ktock/container2wasm
+* Спектрум
+  * игры Спектрум
+    * http://zxonline.ru/
+  * mobile-friendly ZX Spectrum emulator for the browser
+    * https://zxplay.org/
+  * ZX Spectrum emulator in the browser
+    * https://jsspeccy.zxdemo.org/
+  * Elite
+    * http://zxonline.ru/game/elite/#
+* эмулятор БК
+  * https://chessforeva.neocities.org/BK/bk
+  * https://www.megainformatic.ru/games/b/bk/files/
+* МК-85С
+  * https://mk.bs0dd.net/index.php?lang=rus&page=jsemu/mk85c/main
+  * МК-85С. Оживляем шифровальный калькулятор
+    * https://habr.com/ru/companies/timeweb/articles/843864/
+* Kahvibreak is a collection of Java 2 Micro Edition mobile phone games
+  * https://bluemaxima.org/kahvibreak/
+  * https://flashpointarchive.org/datahub/Kahvibreak_Game_List
+* https://www.pcem-emulator.co.uk/downloads.html
+* https://archive.org/details/nesticle_dos
+  * https://en.m.wikipedia.org/wiki/NESticle
+* ScummVM Web Demo (unofficial) 
+  * https://scummvm.kuendig.io/
+  * https://github.com/chkuendig/scummvm-demo
+* t.me/segagamesbot
+* Squeak Smalltalk VM in Javascript
+  * https://squeak.js.org/run/
+* bbc micro
+  * https://bbc.xania.org/
+  * https://github.com/mattgodbolt/jsbeeb
+* Minimal x86-64 emulator for WebAssembly - run ELF binaries in your browser
+  * https://ax.010.one/
+  * https://github.com/xarantolus/ax
+* jor1k: OpenRISC OR1K Javascript Emulator Running Linux With Network Support
+  * https://s-macke.github.io/jor1k/demos/main.html?user=OA8d4HuICY&cpu=asm&n=1&relayURL=wss%3A%2F%2Frelay.widgetry.org%2F
+* Browsix is a Unix-like operating system for the browser
+  * https://browsix.org/
+  * https://github.com/plasma-umass/browsix
+  * https://news.ycombinator.com/item?id=34367767
+* attempt to catalog, obtain, and make playable every game developed for the DOS and PC Booter platform
+*  https://www.retro-exo.com/exodos.html
 
-attempt to catalog, obtain, and make playable every game developed for the DOS and PC Booter platform
-https://www.retro-exo.com/exodos.html
-
-онлайн эмуляторы для мультиплеера
-* https://nes.party/
-* https://kosmi.io/openarena
-* https://kosmi.io/
-* https://github.com/orgs/kosmigramma/repositories
-* https://github.com/kosmigramma/kosmigramma.github.io
+#### онлайн эмуляторы для мультиплеера
+* kosmi
+  * https://nes.party/
+  * https://kosmi.io/openarena
+  * https://kosmi.io/
+  * https://kosmi.io/snes/
+  * https://psxparty.kosmi.io/
+  * https://github.com/orgs/kosmigramma/repositories
+  * https://github.com/kosmigramma/kosmigramma.github.io
 * https://ryanwmoore.github.io/fceux/
-* https://kosmi.io/snes/
-* https://psxparty.kosmi.io/
 * https://github.com/hordeparty/prototype
 
-https://vk.com/my_videogame
-https://www.youtube.com/@VideoGame822
-https://2gis.ru/voronezh/firm/70000001061195741
-Вспомнить Всё – место, в котором смотрят кино, говорят о кино, любят кино
-https://vk.com/club222785630
-Dendy магазин в Нижнем Новгороде
-https://vk.com/dendynn
-Retrostuff Market
-https://vk.com/retrostuff_market
-музей эволюции, технологий, магазин полезных вещей
-https://museum.yandex.ru/
-музей советских игровых автоматов
-https://15kop.ru/
-List of video game museums
-https://en.m.wikipedia.org/wiki/List_of_video_game_museums
-List of computer museums
-https://en.m.wikipedia.org/wiki/List_of_computer_museums
-видеоигровые товары из Японии
-https://vk.com/nippongame
-изготавливает реплики легендарных аркадных и советских игровых автоматов 80-х годов
-https://arcadagame.ru/
-retro video game store
-https://www.classicgamejunkie.com/
-ultimate Amiga games & demo scene setup for MiSTer & Pocket FPGAs + emulators
-https://amiga.vision/
-best DOS setup for MiSTer FPGA
-https://0mhz.net/
+#### места
+* https://vk.com/my_videogame
+  * https://www.youtube.com/@VideoGame822
+  * https://2gis.ru/voronezh/firm/70000001061195741
+  * Вспомнить Всё – место, в котором смотрят кино, говорят о кино, любят кино
+    * https://vk.com/club222785630
+* Dendy магазин в Нижнем Новгороде
+  * https://vk.com/dendynn
+* музей эволюции, технологий, магазин полезных вещей
+  * https://museum.yandex.ru/
+* музей советских игровых автоматов
+  * https://15kop.ru/
+* List of video game museums
+  * https://en.m.wikipedia.org/wiki/List_of_video_game_museums
+* List of computer museums
+  * https://en.m.wikipedia.org/wiki/List_of_computer_museums
 
-Chaos Constructions
-https://events.retroscene.org/cc2024
-https://chaosconstructions.ru/
-https://vk.com/album-225689_304232663
-https://chaosconstructions.ru/donate.html
-https://ru.wikipedia.org/wiki/Русскоязычная_демосцена
-https://demoscene.ru/forum/viewtopic.php?p=13826
-https://hype.retroscene.org/blog/misc/1074.html
-https://www.youtube.com/@ChaosConstructions/videos
-https://vk.com/chaosconstructions
-https://old.computerra.ru/2003/487/201870/
-https://old.computerra.ru/readitorial/392196/
-https://ru.wikinews.org/wiki/Старейший_российский_компьютерный_фестиваль_вскрыл_крупную_утечку_из_ФСБ
-https://xakep.ru/2018/08/16/chaos-constructions-2018/
-https://chaosconstructions.ru/start/where.html
+#### магазины и устройства
+* Retrostuff Market
+  * https://vk.com/retrostuff_market
+* видеоигровые товары из Японии
+  * https://vk.com/nippongame
+* изготавливает реплики легендарных аркадных и советских игровых автоматов 80-х годов
+  * https://arcadagame.ru/
+* retro video game store
+  * https://www.classicgamejunkie.com/
+* ultimate Amiga games & demo scene setup for MiSTer & Pocket FPGAs + emulators
+  * https://amiga.vision/
+* best DOS setup for MiSTer FPGA
+  * https://0mhz.net/
 
-правила соревнований
-premiere name for classic gaming tournaments
-https://retroworldseries.com/info/gameplay-rules/
-Console Game Match Play Rules
-https://gameatl.com/console-game-match-play-rules/
-video game challenges
-https://tvtropes.org/pmwiki/pmwiki.php/Main/SelfImposedChallenge
-https://tvtropes.org/pmwiki/pmwiki.php/Main/ChallengeRun
-https://tvtropes.org/pmwiki/pmwiki.php/Main/NintendoHard
-https://www.tumblr.com/nowrongwaytoplay
-https://www.antsylabs.com/blogs/the-ant-hill/11-video-game-challenges-to-spice-up-your-next-replay
-https://www.reddit.com/r/retrogaming/comments/6y4bw8/looking_for_some_retroold_schoolclassic_game/
-NEKKETSU SPORTS TOURNAMENTS
-https://vk.com/nekketsu
-https://vk.com/video/@nekketsu
-https://vk.com/board66162180
-https://www.romhacking.net/hacks/3123/
-https://vk.com/topic-66162180_32401891
-список с играми и правилами был там
-https://m.vk.com/topic-66162180_49650767
-Random Game Gauntlet
-https://rgg.land/about
-https://t.me/nuke73
-https://rgg.land/solo
-https://t.me/rgg_tg
-https://disk.yandex.ru/d/v21SXV4CjSfZNA
-Шаблон для Solo RGG
-https://docs.google.com/spreadsheets/d/1dMoSB9kfRWBrQjtgXiXMTE7jA_bK6cCa43PSP_gQ9Co/
-https://emulation.gametechwiki.com/index.php/Main_Page
-https://rgg.nitrus.top/
-История Retro Game Gauntlet
-https://m.youtube.com/watch?v=QvQzKWq6ylY
-Турнир по PvP-играм. Сезон 2
-* https://vk.com/topic-66162180_49650767
+#### Chaos Constructions
+* https://events.retroscene.org/cc2024
+* https://chaosconstructions.ru/
+* https://vk.com/album-225689_304232663
+* https://chaosconstructions.ru/donate.html
+* https://ru.wikipedia.org/wiki/Русскоязычная_демосцена
+* https://demoscene.ru/forum/viewtopic.php?p=13826
+* https://hype.retroscene.org/blog/misc/1074.html
+* https://www.youtube.com/@ChaosConstructions/videos
+* https://vk.com/chaosconstructions
+* https://old.computerra.ru/2003/487/201870/
+* https://old.computerra.ru/readitorial/392196/
+* https://ru.wikinews.org/wiki/Старейший_российский_компьютерный_фестиваль_вскрыл_крупную_утечку_из_ФСБ
+* https://xakep.ru/2018/08/16/chaos-constructions-2018/
+* https://chaosconstructions.ru/start/where.html
 
-Фейнман: что такое наука
-http://www.fotuva.org/feynman/what_is_science.html
+### правила соревнований
+* premiere name for classic gaming tournaments
+  * https://retroworldseries.com/info/gameplay-rules/
+* Console Game Match Play Rules
+  * https://gameatl.com/console-game-match-play-rules/
+* video game challenges
+  * https://tvtropes.org/pmwiki/pmwiki.php/Main/SelfImposedChallenge
+  * https://tvtropes.org/pmwiki/pmwiki.php/Main/ChallengeRun
+  * https://tvtropes.org/pmwiki/pmwiki.php/Main/NintendoHard
+  * https://www.tumblr.com/nowrongwaytoplay
+  * https://www.antsylabs.com/blogs/the-ant-hill/11-video-game-challenges-to-spice-up-your-next-replay
+  * https://www.reddit.com/r/retrogaming/comments/6y4bw8/looking_for_some_retroold_schoolclassic_game/
+* NEKKETSU SPORTS TOURNAMENTS
+  * https://vk.com/nekketsu
+  * https://vk.com/video/@nekketsu
+  * https://vk.com/board66162180
+  * https://www.romhacking.net/hacks/3123/
+  * https://vk.com/topic-66162180_32401891
+  * список с играми и правилами был там
+  * Турнир по PvP-играм. Сезон 2
+    * https://m.vk.com/topic-66162180_49650767
+* Random Game Gauntlet
+  * https://rgg.land/about
+  * https://t.me/nuke73
+  * https://rgg.land/solo
+  * https://t.me/rgg_tg
+  * https://disk.yandex.ru/d/v21SXV4CjSfZNA
+  * Шаблон для Solo RGG
+    * https://docs.google.com/spreadsheets/d/1dMoSB9kfRWBrQjtgXiXMTE7jA_bK6cCa43PSP_gQ9Co/
+  * https://emulation.gametechwiki.com/index.php/Main_Page
+  * https://rgg.nitrus.top/
+  * История Retro Game Gauntlet
+    * https://m.youtube.com/watch?v=QvQzKWq6ylY
 
-logical fallacies
-https://yourlogicalfallacyis.com/
-https://yourbias.is/
+### Учёба
+* Фейнман: что такое наука
+  * http://www.fotuva.org/feynman/what_is_science.html
+* logical fallacies
+  * https://yourlogicalfallacyis.com/
+  * https://yourbias.is/
+* Biggest Educational and training Platfrom in the world
+  * https://mindluster.com
+* правила русского языка
+  * https://therules.ru/
+* ффф
+  * https://bureau.ru/about/fff/
+* ководство Лебедева
+  * https://www.artlebedev.ru/kovodstvo/sections/
+* советы бюро Горбунова
+  * https://bureau.ru/soviet/
+* Советы о тексте, редактуре и рекламе
+  * https://soviet.glvrd.ru/
+* collection of best practices that designers can consider when building user interfaces
+  * https://lawsofux.com/
+* сложности разработки шрифта
+  * https://darkside.paratype.ru/
+  * книга для тех, кому действительно важно знать, как работают кривые Безье
+    * https://pomax.github.io/bezierinfo/
+* free platform to explore, create, and publicly share data visualizations online
+  * https://public.tableau.com/app/discover
+* Основы фотографии
+  * https://www.cambridgeincolour.com/ru/learn-photography-concepts.htm
+* Как работает видеокодек
+  * https://github.com/leandromoreira/digital_video_introduction
+  * https://habr.com/ru/companies/edison/articles/481418/
+  * https://habr.com/ru/company/edison/blog/480430/
+* biggest forum about the data compression software and algorithms
+  * https://encode.su/
+* 152 Visual Phenomena & Optical Illusions with explanations by Michael Bach
+  * https://michaelbach.de/ot/
+* Visual Test- and Stimulator Systems by Prof. Michael Bach
+  * https://michaelbach.de/sci/stim/
+* обучение математике
+  * https://www.mathsisfun.com/
+  * https://www.mathopolis.com/
 
-Biggest Educational and training Platfrom in the world
-mindluster.com
+#### маршрут учёбы
+* Community created roadmaps, guides and articles to help developers grow in their career
+  * https://roadmap.sh/
+* visual overview of useful skills to learn as a web developer
+  * https://andreasbm.github.io/web-skills/
+  * https://github.com/andreasbm/web-skills
+* Front-end thread tutorial
+  * https://github.com/acilsd/wrk-fet
+* How to learn front-end or back-end development
+  * https://github.com/fullstack-development
+  * https://github.com/fullstack-development/developers-roadmap
+* Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
+  * https://github.com/TheAlgorithms
+  * https://the-algorithms.com/ru
 
-правила русского языка
-https://therules.ru/
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
-ффф
-https://bureau.ru/about/fff/
-ководство Лебедева
-https://www.artlebedev.ru/kovodstvo/sections/
-советы бюро Горбунова
-https://bureau.ru/soviet/
-Советы о тексте, редактуре и рекламе
-https://soviet.glvrd.ru/
-
-фронтенд это не больно
-https://github.com/bespoyasov/front-not-pain
-https://bespoyasov.ru/front-not-pain
-
-collection of best practices that designers can consider when building user interfaces
-https://lawsofux.com/
-сложности разработки шрифта
-https://darkside.paratype.ru/
-книга для тех, кому действительно важно знать, как работают кривые Безье
-https://pomax.github.io/bezierinfo/
-
-free platform to explore, create, and publicly share data visualizations online
-https://public.tableau.com/app/discover
-
-Основы фотографии
-https://www.cambridgeincolour.com/ru/learn-photography-concepts.htm
-Как работает видеокодек
-https://github.com/leandromoreira/digital_video_introduction
-https://habr.com/ru/companies/edison/articles/481418/
-https://habr.com/ru/company/edison/blog/480430/
-biggest forum about the data compression software and algorithms
-https://encode.su/
-
-152 Visual Phenomena & Optical Illusions with explanations by Michael Bach
-https://michaelbach.de/ot/
-Visual Test- and Stimulator Systems by Prof. Michael Bach
-https://michaelbach.de/sci/stim/
- 
-обучение математике
-https://www.mathsisfun.com/
-https://www.mathopolis.com/
-
+### программирование
 Философия проекта GNU
 https://www.gnu.org/philosophy/
 The Mentor’s “A Hacker Manifesto,” also called “The Conscience of a Hacker.”
@@ -1696,23 +1682,9 @@ http://www.phrack.org/archives/issues/7/3.txt
 https://web.archive.org/web/20170402014901/http://www.phrack.org/archives/issues/7/3.txt
 Linux Information Project
 https://www.linfo.org/linfo_about.html
-
-Community created roadmaps, guides and articles to help developers grow in their career
-https://roadmap.sh/
-visual overview of useful skills to learn as a web developer
-https://andreasbm.github.io/web-skills/
-https://github.com/andreasbm/web-skills
-Front-end thread tutorial
-https://github.com/acilsd/wrk-fet
-How to learn front-end or back-end development
-https://github.com/fullstack-development
-https://github.com/fullstack-development/developers-roadmap
-
-Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
-https://github.com/TheAlgorithms
-https://the-algorithms.com/ru
-
-программирование
+фронтенд это не больно
+https://github.com/bespoyasov/front-not-pain
+https://bespoyasov.ru/front-not-pain
 PHP
 запустить полки или компоненты
 https://github.com/WordPress/wordpress-playground
@@ -2029,6 +2001,8 @@ https://habr.com/ru/articles/302394/
 https://habr.com/ru/articles/302834/
 Мультиплеер в быстрых играх (Часть IV: Хэдшот! Путешествуем во времени)
 https://habr.com/ru/articles/303006/
+WebGL Juggler
+https://www.brianapps.net/juggle/webgl.html
 
 разработка под приставки
 нес
