@@ -909,8 +909,6 @@
   * https://flasharch.com/ru/archive/play/22795c94c79f7ddb0095e0a4df8a2db3
     * https://flasharch.com/en/archive/play/a6a8b09944d6a3d93d53ad504d4c0f43
 
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-
 ### отдельные игры
 * хром дино
   * chrome://dino/
@@ -1042,204 +1040,212 @@
 * little master cricket
   * https://www.foddy.net/2010/10/little-master-cricket/
   * https://www.foddy.net/Cricket.html
+  * https://poki.com/ru/g/little-master-cricket
 * Super Hexagon
   * https://en.gameslol.net/super-hexagon-933.html
 * worms-armageddon
   * https://playminigames.ru/game/worms-armageddon-chervyachki-armageddon
-⚠️⚠️⚠️ https://poki.com/ru/g/little-master-cricket#utm_source=redirect-en-ru
-http://www.nitrome.com/games/testsubjectgreen/
-https://www.nethack.org/
-https://alt.org/nethack/
-https://dos.zone/nethack-1992/
-https://ru.wikipedia.org/wiki/Roguelike
-https://ru.wikipedia.org/wiki/NetHack
-https://www.reddit.com/r/nethack/comments/j1h273/best_way_to_play_nethack/?rdt=38764
-https://habr.com/ru/articles/70391/
-https://habr.com/ru/articles/70391/comments/#comment_2021867
-https://ru-nethack.livejournal.com/68600.html#cutid1
-https://habr.com/ru/articles/69738/
-https://nethackwiki.com/index.php?title=File%3ANethack_Keyboard_Commands.pdf&page=1
-https://nethackwiki.com/images/a/ac/Nethack_Keyboard_Commands.pdf
-http://www.kongregate.com/games/coolwanglu/browserhack
-http://coolwanglu.github.io/BrowserHack
-https://github.com/coolwanglu/BrowserHack
-https://github.com/coolwanglu/BrowserHack/wiki/BrowserHack-Help
-Шахматы Алана Тьюринга
-https://bolknote.ru/all/shahmaty-alana-tyuringa/
-https://en.m.wikipedia.org/wiki/Turochamp
-https://mdoege.github.io/nimTUROCHAMP/
-#1 Chess Site for Kids
-https://www.chesskid.com/
-chessboard3.js
-WebAssembly port of the strong chess engine Stockfish
-https://lichess.org/analysis
-https://github.com/lichess-org/stockfish.wasm
-https://jtiscione.github.io/chessboard3js/play.html
-https://jtiscione.github.io/chessboard3js/index.html
-Город детства: что будет, если продолжить игру в SimCity 2000 спустя 25 лет
-https://habr.com/ru/companies/timeweb/articles/871736/
-Snake
-https://github.com/KaeruCT/svanac
-musicSnake
-http://kaeruct.github.io/musicSnake
-https://github.com/KaeruCT/musicSnake
-SkiFree
-https://basicallydan.github.io/skifree.js/
-https://github.com/basicallydan/skifree.js
-http://www.danielhough.co.uk/blog/skifree-js/
-sandbox game in which you navigate challenging obstacle courses by timing your jumps and movements accurately.
-https://bloxd.io/
-remake of Classic 0.0.23a_01, made to celebrate 10 years of Minecraft and was uploaded to the Minecraft website
-https://classic.minecraft.net/
-sandbox block game inspired by other similar sandbox block games
-https://www.classicube.net/
-https://github.com/UnknownShadow200/ClassiCube
-Port of Another World game engine & assets to PICO8
-https://freds72.itch.io/another-world
-doom-style game for pico8
-https://freds72.itch.io/poom
-pico-8 Music Theory Tutorial
-https://www.lexaloffle.com/bbs/?tid=53972
-https://bikibird.itch.io/music-theory
-tiny flight simulator based on a Cessna-172R with a G1000 glass cockpit
-https://freds72.itch.io/tiny-sim
-https://drive.google.com/file/d/1nuQb7-b5rt0Hrfiyq7UBZMbsBKLwfZhi/view
-Cab ride
-https://www.lexaloffle.com/bbs/?tid=41332#playing
-https://flashmuseum.org/?s=moorhuhn
-Minecraft
-https://eaglercraft.com/
-про бесплатный майнкрафт
-https://youtu.be/0qOCuLgX_lw
-https://youtu.be/BKNx7chzuJ4
-https://youtu.be/qjIPf1d356U
-crazy taxi
-https://oldgameshelf.com/ru/games/gba/crazy-taxi-catch-a-ride-3503
-https://archive.org/details/win3_PipeDr3x
-flash
-Wolfenstein 1-D
-https://archive.org/details/wolfenstein-1-d
-Game Boy Color
-Heroes of Might and Magic
-Nintendo DS
-"Osu! Tatakae! Ouendan"!
-Freshly-Picked Tingle's Rosy Rupeeland
-Sunday Drive
-https://vk.com/app51919721
-https://t.me/rdclr_chat/16591
-https://daz.itch.io/aglobo
-quake 3
-https://thelongestyard.link/
-https://openarena.live/
-https://news.ycombinator.com/item?id=18068275
-https://thelongestyard.link/cave-story/
-https://gooberdash.winterpixel.io/
-https://krunker.io/
-https://venge.io/
-https://poncle.itch.io/vampire-survivors
-Кто хочет стать миллионером?
-https://ru.wwbm.com/
-Doom
-https://silentspacemarine.com/
-https://github.com/cloudflare/doom-wasm
-https://wadcmd.com/
-https://github.com/lazarv/wasm-doom
-Jazz Jackrabbit 2
-https://deat.tk/jazz2/
-https://github.com/deathkiller/jazz2-native
-Wipeout
-https://phoboslab.org/wipegame/
-https://github.com/phoboslab/wipeout-rewrite
-https://phoboslab.org/log/2023/08/rewriting-wipeout
-Diablo
-https://d07riv.github.io/diabloweb/
-Minesweeper
-https://ziebelje.github.io/minesweeper/
-https://github.com/ziebelje/minesweeper
-https://mines.vercel.app/
-https://github.com/ShizukuIchi/minesweeper
-S.U.R.F.
-https://surf.jackbuehner.com/
-https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.
-Game of Life
-http://skeeto.github.io/webgl-game-of-life/
-https://github.com/skeeto/webgl-game-of-life/
-Solitaire
-https://98.js.org/programs/js-solitaire/
-https://github.com/1j01/98/tree/master/programs/js-solitaire
-http://radovanjanjic.com/js-solitaire/
-https://github.com/rjanjic/js-solitaire
-Heroes of Might and Magic II
-https://ihhub.github.io/fheroes2/
-https://github.com/ihhub/fheroes2
-Doom 3
-https://wasm.continuation-labs.com/d3demo/
-ClassiCube
-https://www.classicube.net/server/play/?warned=true
-https://www.classicube.net/
-DX-Ball
-https://dx-ball.ru/
-https://habr.com/en/post/147339/
-Space Cadet Pinball
-https://alula.github.io/SpaceCadetPinball/
-https://github.com/alula/SpaceCadetPinball
-Quake III Arena ported to JavaScript and WebAssembly
-https://lrusso.github.io/Quake3/Quake3.htm
-https://github.com/lrusso/Quake3
+* http://www.nitrome.com/games/testsubjectgreen/
+* nethack
+  * https://www.nethack.org/
+  * https://alt.org/nethack/
+  * https://dos.zone/nethack-1992/
+  * https://ru.wikipedia.org/wiki/Roguelike
+  * https://ru.wikipedia.org/wiki/NetHack
+  * https://www.reddit.com/r/nethack/comments/j1h273/best_way_to_play_nethack/?rdt=38764
+  * Nethack. Советы на первые полсотни шагов
+  * https://habr.com/ru/articles/70391/
+  * https://habr.com/ru/articles/70391/comments/#comment_2021867
+  * Общие правила выживания
+  * https://ru-nethack.livejournal.com/68600.html#cutid1
+  * NetHack. Об игре
+  * https://habr.com/ru/articles/69738/
+  * https://nethackwiki.com/index.php?title=File%3ANethack_Keyboard_Commands.pdf&page=1
+  * https://nethackwiki.com/images/a/ac/Nethack_Keyboard_Commands.pdf
+  * http://www.kongregate.com/games/coolwanglu/browserhack
+  * http://coolwanglu.github.io/BrowserHack
+  * https://github.com/coolwanglu/BrowserHack
+  * https://github.com/coolwanglu/BrowserHack/wiki/BrowserHack-Help
+* Шахматы Алана Тьюринга
+  * https://bolknote.ru/all/shahmaty-alana-tyuringa/
+  * https://en.m.wikipedia.org/wiki/Turochamp
+  * https://mdoege.github.io/nimTUROCHAMP/
+* #1 Chess Site for Kids
+  * https://www.chesskid.com/
+  * chessboard3.js
+* WebAssembly port of the strong chess engine Stockfish
+  * https://lichess.org/analysis
+  * https://github.com/lichess-org/stockfish.wasm
+  * https://jtiscione.github.io/chessboard3js/play.html
+  * https://jtiscione.github.io/chessboard3js/index.html
+* SimCity 2000
+  * https://dos.zone/sim-city-2000-1993/
+  * Город детства: что будет, если продолжить игру в SimCity 2000 спустя 25 лет
+  * https://habr.com/ru/companies/timeweb/articles/871736/
+* Snake
+  * https://github.com/KaeruCT/svanac
+* musicSnake
+  * http://kaeruct.github.io/musicSnake
+  * https://github.com/KaeruCT/musicSnake
+* SkiFree
+  * https://basicallydan.github.io/skifree.js/
+  * https://github.com/basicallydan/skifree.js
+  * http://www.danielhough.co.uk/blog/skifree-js/
+* sandbox game in which you navigate challenging obstacle courses by timing your jumps and movements accurately.
+  * https://bloxd.io/
+* remake of Classic 0.0.23a_01, made to celebrate 10 years of Minecraft and was uploaded to the Minecraft website
+  * https://classic.minecraft.net/
+* sandbox block game inspired by other similar sandbox block games
+  * https://www.classicube.net/
+  * https://github.com/UnknownShadow200/ClassiCube
+* Port of Another World game engine & assets to PICO8
+  * https://freds72.itch.io/another-world
+* doom-style game for pico8
+  * https://freds72.itch.io/poom
+* pico-8 Music Theory Tutorial
+  * https://www.lexaloffle.com/bbs/?tid=53972
+  * https://bikibird.itch.io/music-theory
+  * tiny flight simulator based on a Cessna-172R with a G1000 glass cockpit
+  * https://freds72.itch.io/tiny-sim
+  * https://drive.google.com/file/d/1nuQb7-b5rt0Hrfiyq7UBZMbsBKLwfZhi/view
+  * Cab ride
+  * https://www.lexaloffle.com/bbs/?tid=41332#playing
+* moorhuhn
+  * https://flashmuseum.org/?s=moorhuhn
+* Minecraft
+  * https://eaglercraft.com/
+  * про бесплатный майнкрафт
+  * https://youtu.be/0qOCuLgX_lw
+  * https://youtu.be/BKNx7chzuJ4
+  * https://youtu.be/qjIPf1d356U
+* crazy taxi
+  * https://oldgameshelf.com/ru/games/gba/crazy-taxi-catch-a-ride-3503
+* Pipe Dream
+  * https://archive.org/details/win3_PipeDr3x
+* flash
+  * Wolfenstein 1-D
+    * https://archive.org/details/wolfenstein-1-d
+* Game Boy Color
+  * Heroes of Might and Magic
+* Nintendo DS
+  * "Osu! Tatakae! Ouendan"!
+  * Freshly-Picked Tingle's Rosy Rupeeland
+* Sunday Drive
+  * https://vk.com/app51919721
+  * https://t.me/rdclr_chat/16591
+* AGLOBO
+  * https://daz.itch.io/aglobo
+* quake 3
+  * https://thelongestyard.link/
+  * https://openarena.live/
+  * https://news.ycombinator.com/item?id=18068275
+* Cave Story
+  * https://thelongestyard.link/cave-story/
+* https://gooberdash.winterpixel.io/
+* https://krunker.io/
+* https://venge.io/
+* https://poncle.itch.io/vampire-survivors
+* Кто хочет стать миллионером?
+  * https://ru.wwbm.com/
+* Doom
+  * https://silentspacemarine.com/
+  * https://github.com/cloudflare/doom-wasm
+  * https://wadcmd.com/
+  * https://github.com/lazarv/wasm-doom
+  * https://speakerdeck.com/lorti/porting-doom-1993-to-webassembly
+  * doom-captcha.vercel.app
+    * https://github.com/rauchg/doom-captcha
+* Jazz Jackrabbit 2
+  * https://deat.tk/jazz2/
+  * https://github.com/deathkiller/jazz2-native
+* Wipeout
+  * https://phoboslab.org/wipegame/
+  * https://github.com/phoboslab/wipeout-rewrite
+  * https://phoboslab.org/log/2023/08/rewriting-wipeout
+* Diablo
+  * https://d07riv.github.io/diabloweb/
+* Minesweeper
+  * https://ziebelje.github.io/minesweeper/
+  * https://github.com/ziebelje/minesweeper
+  * https://mines.vercel.app/
+  * https://github.com/ShizukuIchi/minesweeper
+* S.U.R.F.
+  * https://surf.jackbuehner.com/
+  * https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.
+* Game of Life
+  * http://skeeto.github.io/webgl-game-of-life/
+  * https://github.com/skeeto/webgl-game-of-life/
+* Solitaire
+  * https://98.js.org/programs/js-solitaire/
+  * https://github.com/1j01/98/tree/master/programs/js-solitaire
+  * http://radovanjanjic.com/js-solitaire/
+  * https://github.com/rjanjic/js-solitaire
+* Heroes of Might and Magic II
+  * https://ihhub.github.io/fheroes2/
+  * https://github.com/ihhub/fheroes2
+* Doom 3
+  * https://wasm.continuation-labs.com/d3demo/
+* ClassiCube
+  * https://www.classicube.net/server/play/?warned=true
+  * https://www.classicube.net/
+* DX-Ball
+  * https://dx-ball.ru/
+  * https://habr.com/en/post/147339/
+* Space Cadet Pinball
+  * https://alula.github.io/SpaceCadetPinball/
+  * https://github.com/alula/SpaceCadetPinball
+* Quake III Arena ported to JavaScript and WebAssembly
+  * https://lrusso.github.io/Quake3/Quake3.htm
+  * https://github.com/lrusso/Quake3
 
-как создать документ пдф
-https://mariomalwareanalysis.blogspot.com/2012/02/how-to-manually-create-pdf.html
-как добавить джс в пдф
-https://mariomalwareanalysis.blogspot.com/2012/02/how-to-embed-javascript-into-pdf.html
-игра breakout в pdf
-https://github.com/osnr/horrifying-pdf-experiments
-тетрис в пдф
-https://github.com/ThomasRinsma/pdftris
-https://th0mas.nl/2025/01/12/tetris-in-a-pdf/
+* как создать документ пдф
+  * https://mariomalwareanalysis.blogspot.com/2012/02/how-to-manually-create-pdf.html
+* как добавить джс в пдф
+  * https://mariomalwareanalysis.blogspot.com/2012/02/how-to-embed-javascript-into-pdf.html
+* игра breakout в pdf
+  * https://github.com/osnr/horrifying-pdf-experiments
+* тетрис в пдф
+  * https://github.com/ThomasRinsma/pdftris
+  * https://th0mas.nl/2025/01/12/tetris-in-a-pdf/
+* doom в pdf
+  * https://github.com/ThomasRinsma/pdfdoom
+  * ещё один вариант
+    * doompdf.pages.dev/doom.pdf
+    * https://github.com/ading2210/doompdf
+* doom в ворде
+  * https://github.com/wojciech-graj/doom-docm/issues/1
+* Doom практически на всём
+  * https://habr.com/ru/companies/ruvds/articles/821281/
+  * website to track all the wonderfull people who ran Classic Doom on all sorts of devices
+    * https://canitrundoom.org/
+    * https://github.com/zvolchak/can-it-run-doom
 
-doom
-- https://speakerdeck.com/lorti/porting-doom-1993-to-webassembly
-doom-captcha.vercel.app
-https://github.com/rauchg/doom-captcha
-doom в pdf
-https://github.com/ThomasRinsma/pdfdoom
-ещё один вариант
-doompdf.pages.dev/doom.pdf
-https://github.com/ading2210/doompdf
-doom в ворде
-https://github.com/wojciech-graj/doom-docm/issues/1
-Doom практически на всём
-https://habr.com/ru/companies/ruvds/articles/821281/
-website to track all the wonderfull people who ran Classic Doom on all sorts of devices
-https://canitrundoom.org/
-https://github.com/zvolchak/can-it-run-doom
+#### генетические
+* https://github.com/subprotocol/genetic-js
+* https://rednuht.org/genetic_walkers/
+* https://rednuht.org/genetic_cars_2/
+* http://boxcar2d.com/
+* https://subprotocol.com/
+* https://nileshsah.github.io/reinforcement-learning-flappybird/
 
-генетические
-https://github.com/subprotocol/genetic-js
-https://rednuht.org/genetic_walkers/
-https://rednuht.org/genetic_cars_2/
-http://boxcar2d.com/
-https://subprotocol.com/
-https://nileshsah.github.io/reinforcement-learning-flappybird/
+#### песочницы
+* Play with fluids in your browser
+  * https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+  * https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
+* Powder Toy
+  * https://tptserv.starcatcher.us/Wasm.html
+  * https://sandspiel.club/
+  * https://studio.sandspiel.club/
+  * https://orb.farm/
+* 2D point-based physics sandbox
+  * https://github.com/1j01/pbj-sandbox
+  * https://1j01.github.io/pbj-sandbox/
 
-песочницы
-Play with fluids in your browser
-https://paveldogreat.github.io/WebGL-Fluid-Simulation/
-https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
-Powder Toy
-https://tptserv.starcatcher.us/Wasm.html
-https://sandspiel.club/
-https://studio.sandspiel.club/
-https://orb.farm/
-2D point-based physics sandbox
-https://github.com/1j01/pbj-sandbox
-https://1j01.github.io/pbj-sandbox/
-
-Ромы и игры
+#### Ромы и игры
 * https://www.emulatorgames.net/roms/
 * https://www.emu-land.net/consoles/dendy/roms/
 * https://www.old-games.ru/
-http://old-dos.ru/
+* http://old-dos.ru/
 * https://freebie.games/
 * https://playclassic.games/
 * https://romhacking.ru/
@@ -1250,26 +1256,25 @@ http://old-dos.ru/
 * https://t.me/Ps2ru — пс2
 * https://vk.com/topic-43869021_38891527 — Wii
 * https://vk.com/topic-43869021_38924032 — gamecube
-https://www.emuparadise.me/emuparadise-changing
-https://archive.org/details/softwarelibrary_win3_games
+* https://www.emuparadise.me/emuparadise-changing
+* https://archive.org/details/softwarelibrary_win3_games
 
-https://goldlocke.itch.io/dottie-dreads-nought
-https://goldlocke.itch.io/dottie-flowers
-	https://goldlocke.itch.io/dottie-flowers/devlog/678713/creating-a-turrican-fangame-for-the-snes
-	Dotty flowers by Genius
-	https://www.youtube.com/watch?v=lIMaH213E9c
-https://goldlocke.itch.io/supercooked
+* https://goldlocke.itch.io/dottie-dreads-nought
+* https://goldlocke.itch.io/dottie-flowers
+* https://goldlocke.itch.io/dottie-flowers/devlog/678713/creating-a-turrican-fangame-for-the-snes
+* Dotty flowers by Genius
+  * https://www.youtube.com/watch?v=lIMaH213E9c
+* https://goldlocke.itch.io/supercooked
 
-ещё игры и источники
-только источники ???
+#### ещё игры и источники
 * https://sandspiel.club/
 * https://alexnisnevich.github.io/untrusted/
-* https://ncase.me/trust/
-https://ncase.me/
-https://ncase.me/projects/
-https://ncase.itch.io/
-How To Explain Things Real Good (Stanford mini-talk)
-https://www.youtube.com/watch?v=b-M2U3Jl1Cg
+* https://ncase.me/
+  * https://ncase.me/projects/
+  * https://ncase.me/trust/
+  * https://ncase.itch.io/
+  * How To Explain Things Real Good (Stanford mini-talk)
+    * https://www.youtube.com/watch?v=b-M2U3Jl1Cg
   * https://notdotteam.github.io/trust/
 * https://explorabl.es/
 * https://mslivo.itch.io/sandtrix
@@ -1286,56 +1291,58 @@ https://www.youtube.com/watch?v=b-M2U3Jl1Cg
 * https://phoboslab.org/games
 * https://www.foddy.net/Athletics.html
 * https://now.gg/apps/plug-in-digital/51129/dumb-ways-to-die-2.html
-https://www.foddy.net/
-Porting Examples and Demos
-https://github.com/emscripten-core/emscripten/wiki/Porting-Examples-and-Demos
-https://johnnesky.com/
-радар Санта Клауса
-https://santatracker.google.com/
-https://doodles.google/
-https://danielx.net/
-https://danielx.net/wiki/zineos.html
-https://danielx.net/wiki/architecture.html
-https://www.cbc.ca/kids/games/all/
-https://itch.io/jam/demake-jam
-https://dendy.club/homebrew/
-https://snescentral.com/homebrew.php
-репозиторий игр на движке instead
-https://instead-games.ru/index.php?online=1
+* https://www.foddy.net/
+* Porting Examples and Demos
+  * https://github.com/emscripten-core/emscripten/wiki/Porting-Examples-and-Demos
+* https://johnnesky.com/
+* радар Санта Клауса
+  https://santatracker.google.com/
+* https://doodles.google/
+* https://danielx.net/
+  * https://danielx.net/wiki/zineos.html
+  * https://danielx.net/wiki/architecture.html
+* https://www.cbc.ca/kids/games/all/
+* https://itch.io/jam/demake-jam
+* https://dendy.club/homebrew/
+* https://snescentral.com/homebrew.php
+* репозиторий игр на движке instead
+  * https://instead-games.ru/index.php?online=1
 
-most friendly and passionate PC gamers motivated in helping others with their problems
-https://www.pcgamingwiki.com/wiki/Home
-прохождения игр
-https://gamefaqs.gamespot.com/
-collaborative and freely-licensed wiki for all your video game strategy guide and walkthrough needs!
-https://strategywiki.org/
+* most friendly and passionate PC gamers motivated in helping others with their problems
+  * https://www.pcgamingwiki.com/wiki/Home
+* прохождения игр
+  * https://gamefaqs.gamespot.com/
+* collaborative and freely-licensed wiki for all your video game strategy guide and walkthrough needs!
+  * https://strategywiki.org/
 
-журналы
-Российские игровые журналы
-https://disk.yandex.ru/d/YQLW6DUVCI9e1g
-https://archive.org/details/game_exe_magazine
-https://archive.org/search?query=subject%3A%22Gameland%22
-https://archive.org/details/Game_Land_1999-20-53
-https://archive.org/details/Game_Land_2002-04-109
-https://archive.org/details/library-Ckau
-https://archive.org/details/videogamemagazines
-https://archive.org/details/magazine_rack
-про игровые автоматы
-http://anatomyofarcades.tilda.ws/water
-старое программное и аппаратное обеспечение
-http://dgmag.in/
-http://dgmag.in/about.htm
-http://dgmag.in/N38/DowngradeN38.pdf
-http://dgmag.in/N46/DowngradeN46.pdf
+### журналы
+* Российские игровые журналы
+  * https://disk.yandex.ru/d/YQLW6DUVCI9e1g
+  * https://archive.org/details/game_exe_magazine
+  * https://archive.org/search?query=subject%3A%22Gameland%22
+  * https://archive.org/details/Game_Land_1999-20-53
+  * https://archive.org/details/Game_Land_2002-04-109
+  * https://archive.org/details/library-Ckau
+* https://archive.org/details/videogamemagazines
+* https://archive.org/details/magazine_rack
+* про игровые автоматы
+  * http://anatomyofarcades.tilda.ws/water
+* старое программное и аппаратное обеспечение
+  * http://dgmag.in/
+    * http://dgmag.in/about.htm
+    * http://dgmag.in/N38/DowngradeN38.pdf
+    * http://dgmag.in/N46/DowngradeN46.pdf
 
-https://habr.com/ru/articles/top/monthly/
-https://xakep.ru/
-https://www.opennet.ru/
-https://www.linux.org.ru/gallery/
-журнал «Яндекс Практикума» о технологиях и программировании
-https://thecode.media/
-social news website focusing on computer science and entrepreneurship
-https://news.ycombinator.com/
+* https://habr.com/ru/articles/top/monthly/
+* https://xakep.ru/
+* https://www.opennet.ru/
+* https://www.linux.org.ru/gallery/
+* журнал «Яндекс Практикума» о технологиях и программировании
+  * https://thecode.media/
+* social news website focusing on computer science and entrepreneurship
+  * https://news.ycombinator.com/
+
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 эмуляторы
 wiki dedicated to all things emulation
