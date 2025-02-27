@@ -710,8 +710,10 @@
 * Million dollar homepage
   * http://www.milliondollarhomepage.com/
 
-### списки игр
-  * https://www.mobygames.com/attributes/tech-specs/
+### списки
+* список сериалов нулевых
+  * https://m.vk.com/topic-92492508_39021519
+* https://www.mobygames.com/attributes/tech-specs/
 * списки мульплеерных игр
   * https://www.co-optimus.com/
 * игры список nintendo ds
@@ -722,8 +724,6 @@
   * https://www.reddit.com/r/CoOpGaming/comments/1ha3fbk/what_are_some_really_good_solo_games_that_have/?rdt=53727
   * https://t.me/dvachannel/139876
   * https://m.vk.com/wall-125438636_494266
-* список сериалов нулевых
-  * https://m.vk.com/topic-92492508_39021519
 * 1001 игра, которые надо поиграть за свою жизнь
   * https://en.m.wikipedia.org/wiki/1001_Video_Games_You_Must_Play_Before_You_Die
   * https://web.archive.org/web/20140713145009/http://1001beforeyoudie.com/1001_video_games_uk.html
@@ -1352,6 +1352,8 @@
   * https://tasvideos.org/EmulatorResources
 * The Old School Emulation Center (TOSEC)
   * https://www.tosecdev.org/the-project
+* как делать эмуляторы
+  * https://www.emu-land.net/forum/index.php/topic,80641.0.html
 * Visual Transistor-level Simulation of the 6502 CPU and other chips!
   * http://visual6502.org/
   * http://www.visual6502.org/JSSim/
@@ -1803,8 +1805,6 @@ structuredjs
 * Your language isn't broken, it's doing floating point math
   * https://0.30000000000000004.com/
 
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-
 #### тренировка программирования
 * https://leetcode.com/problemset/
 * https://coderun.yandex.ru/
@@ -1819,425 +1819,427 @@ structuredjs
 * https://code.golf/
 * https://cssbattle.dev/
 * CSS speedrun
-* https://css-speedrun.netlify.app/
+  * https://css-speedrun.netlify.app/
 * datalemur.com/sql-game
 
-разработка игр
-о дизайне уровней
-  https://level-design.ru/
-создание игр
-https://gcup.ru/
-база движков и сред разработки игр
-https://enginesdatabase.com/
-https://enginesdatabase.com/blog/make-games-from-anywhere-using-your-browser/
-ресурсы и инструменты для разработки игр
-https://js13kgames.github.io/resources/
-curated list of awesome JavaScript Games
-https://github.com/proyecto26/awesome-jsgames
-curated list of awesome JavaScript Games
-https://github.com/proyecto26/awesome-jsgames
-list of Game Development resources
-https://github.com/ellisonleao/magictools
+### разработка игр
+* о дизайне уровней
+  * https://level-design.ru/
+* создание игр
+  * https://gcup.ru/
+* база движков и сред разработки игр
+  * https://enginesdatabase.com/
+  * https://enginesdatabase.com/blog/make-games-from-anywhere-using-your-browser/
+* ресурсы и инструменты для разработки игр
+  * https://js13kgames.github.io/resources/
+* curated list of awesome JavaScript Games
+  * https://github.com/proyecto26/awesome-jsgames
+* curated list of awesome JavaScript Games
+  * https://github.com/proyecto26/awesome-jsgames
+* list of Game Development resources
+  * https://github.com/ellisonleao/magictools
 
-люди о любимых движках
-https://www.reddit.com/r/gamedev/comments/wbxb2u/are_there_any_game_engines_with_online_editors/?rdt=53413
-https://www.reddit.com/r/gamedev/comments/1efo5f6/game_engines_you_can_use_from_your_browser/
+#### люди о любимых движках
+* https://www.reddit.com/r/gamedev/comments/wbxb2u/are_there_any_game_engines_with_online_editors/?rdt=53413
+* https://www.reddit.com/r/gamedev/comments/1efo5f6/game_engines_you_can_use_from_your_browser/
 
-Web Application Framework in JavaScript and Objective-J
-https://www.cappuccino.dev/
-https://github.com/cappuccino/cappuccino
-https://michaelbach.de/ot/-misc/cappFrameworks/index.html
-Collaboratively build stunning HTML5 games and visualizations
-https://playcanvas.com/
-браузерный редактор игр
-https://editor.construct.net/
-бесплатный онлайн игровой движок
-https://microstudio.dev/ru/
-https://microstudio.dev/tutorials/
-text games
-Twine (choice based)
-https://twinery.org/
-Quest (parser based)
-https://textadventures.co.uk/quest
-little engine for little games, worlds, and stories
-https://bitsy.org/
-https://make.bitsy.org/
-click-and-place game maker for Playdate
-https://play.date/pulp/
-visual programming language inspired by Scratch
-https://snap.berkeley.edu/
-Node-Based Design & Animation Tool for the Web
-https://polygonjs.com/
-Make interactive 3D and VR scenes in your browser
-https://www.virtualmaker.net/
-fun way to make games, animations, stories and share them with the world
-https://make.gamefroot.com/
-Unity like game editor running in pure WASM
-https://raverie-us.github.io/raverie-engine/
-https://news.ycombinator.com/item?id=37663270
-быстрый и удобный игровой движок без кода
-https://gdevelop.io/ru-ru
-godot web editor
-https://editor.godotengine.org/releases/latest/
-https://docs.godotengine.org/en/latest/tutorials/editor/using_the_web_editor.html
-3D Development environment for the web
-https://webglstudio.org/
-JavaScript playground and sandbox
-https://playcode.io/
-3d editor
-https://tertiusaxis.ru/
-https://dragon3dgraff.ru/
-game engine for making small pixel art games
-https://bitmelo.com/
-https://www.reddit.com/r/gamedev/comments/cx1e6y/i_made_bitmelo_an_editor_for_making_small_pixel/
-full-featured, writer-friendly and completely customizable visual novel extension for the Unity game engine
-https://naninovel.com/
-super-easy platform for anyone to build virtual worlds
-https://www.modd.io/
-open-source HTML5 puzzle game engine
-https://www.puzzlescript.net/
-free, open-source tool for creating games, animations, and everything in-between!
-https://www.wickeditor.com/#/
-Community managed visual editor for Babylon.js
-https://editor.babylonjs.com/
-visual editor for building complex and beautiful graphical user interfaces.
-https://gui.babylonjs.com/
-официальный редактор threejs
-https://threejs.org/editor/
-digital sculpting web app
-https://stephaneginier.com/sculptgl/
-https://www.youtube.com/playlist?list=PLcwzuBByCS0PJbDGNX3z8JjfE51lBpuEa
-Sketchfab made a fork of the old SculptGL version with a new design : Sculptfab
-https://labs.sketchfab.com/sculptfab/
-https://app.sketchup.com/app?hl=en
-Parametric 2D and 3D modeler written in pure javascript 
-http://web-cad.org/
-https://web.archive.org/web/20240906052806/http://web-cad.org/
-https://github.com/xibyte/jsketcher
-https://forum.freecad.org/viewtopic.php?f=8&t=42454
-low-poly 3D model editor
-https://www.blockbench.net/
-project to experiment with raymarched signed distance field
-https://stephaneginier.com/archive/editSDF
-free Lua-based audio/visual toolkit suitable for small games and experimentation
-https://www.amulet.xyz/editor.html
-web-based IDE for HTML5 game development
-https://phasereditor2d.com/
-LÖVE
-Создание прототипов игр на LÖVE
-https://habr.com/ru/articles/872616/
-https://love2d.org/
-https://schellingb.github.io/LoveWebBuilder/
-https://github.com/TannerRogalsky/love.js
-https://github.com/Davidobot/love.js
-free level design tool to craft beautiful 2D tilemaps
-https://www.spritefusion.com/
-Pixel Art Academy by Matej 'Retro' Jan
-https://pixelart.academy/
-free online editor for animated sprites & pixel art
-https://www.piskelapp.com/
-open-source pixel art multitool
-https://orama-interactive.itch.io/pixelorama
-online pixel drawing tool
-https://pixilart.itch.io/tool
-Open Game Art
-https://opengameart.org/
-3д модели
-https://sketchfab.com/3d-models?date=week&features=downloadable&sort_by=-likeCount
-https://www.models-resource.com/wii_u/mariokart8/
-https://emupedia.net/emupedia-demo-3d-spatial-audio/
-https://emupedia.net/emupedia-demo-voxel-space/
-https://emupedia.net/emupedia-app-8-bit-palette-color-cycling/
-демо медузы
-https://akirodic.com/p/jellyfish/
-real time graphics
-https://www.derschmale.com/
-https://www.derschmale.com/lab/doodles/blueeyes/build/
-Procedurally generated Chinese landscape painting
-https://github.com/LingDong-/shan-shui-inf
-GPU-accelerated computing library for physics simulations and other mathematical calculations
-https://apps.amandaghassaei.com/gpu-io/examples/
-Animated 3D backgrounds for your website
-https://www.vantajs.com/?effect=wav
-https://github.com/tengbao/vanta
-retro synthwave "demo scene"
-https://victorqribeiro.github.io/retroSynthwave/
-https://github.com/victorqribeiro/retroSynthwave
-Hexells Generative Unfoldings Submission 
-https://znah.net/hexells/
-https://github.com/znah/hexells
-https://news.ycombinator.com/item?id=31158717
-starfield
-https://ashik-starfield.glitch.me/
-https://github.com/Ashikpaul/Starfield-effect
-https://hassanmo.dev/projects/starfield/
-https://draemm.li/various/3d/starflight/
-https://codepen.io/bts/pen/BygMzB
-Three.js first-person shooter example game
-https://github.com/mohsenheydari/three-fps
-https://play.google.com/store/apps/details?id=com.struckd.game
-Complete cross platform games development package, originally for DOS but now available on modern platforms
-https://div-arena.co.uk/about
-https://div-arena.co.uk/wips?page=4
-https://fuzearena.com/
-Make and post games, all on your phone
-https://castle.xyz/
-https://play.google.com/store/apps/details?id=xyz.castle
-https://wiki.castle.xyz/Main_Page
-https://github.com/castle-xyz/share.lua
-https://wiki.castle.xyz/Guides:Castle_Crash_Course
-3D engine for the Web
-https://github.com/oguzeroglu/ROYGBIV
-комплексный инструмент разработки для создания 2D-игр
-https://gamemaker.io/ru
-Мультиплеер в быстрых играх (части I, II)
-https://www.gabrielgambetta.com/client-server-game-architecture.html
-https://habr.com/ru/articles/302394/
-Мультиплеер в быстрых играх (Часть III: появление врага)
-https://habr.com/ru/articles/302834/
-Мультиплеер в быстрых играх (Часть IV: Хэдшот! Путешествуем во времени)
-https://habr.com/ru/articles/303006/
-WebGL Juggler
-https://www.brianapps.net/juggle/webgl.html
+#### инструменты для разработки игр
+* Web Application Framework in JavaScript and Objective-J
+  * https://www.cappuccino.dev/
+  * https://github.com/cappuccino/cappuccino
+  * https://michaelbach.de/ot/-misc/cappFrameworks/index.html
+* Collaboratively build stunning HTML5 games and visualizations
+  * https://playcanvas.com/
+* браузерный редактор игр
+  * https://editor.construct.net/
+* бесплатный онлайн игровой движок
+  * https://microstudio.dev/ru/
+  * https://microstudio.dev/tutorials/
+* text games
+  * Twine (choice based)
+    * https://twinery.org/
+  * Quest (parser based)
+    * https://textadventures.co.uk/quest
+* little engine for little games, worlds, and stories
+  * https://bitsy.org/
+  * https://make.bitsy.org/
+* click-and-place game maker for Playdate
+  * https://play.date/pulp/
+* visual programming language inspired by Scratch
+  * https://snap.berkeley.edu/
+* Node-Based Design & Animation Tool for the Web
+  * https://polygonjs.com/
+* Make interactive 3D and VR scenes in your browser
+  * https://www.virtualmaker.net/
+* fun way to make games, animations, stories and share them with the world
+  * https://make.gamefroot.com/
+* Unity like game editor running in pure WASM
+  * https://raverie-us.github.io/raverie-engine/
+  * https://news.ycombinator.com/item?id=37663270
+* быстрый и удобный игровой движок без кода
+  * https://gdevelop.io/ru-ru
+* godot web editor
+  * https://editor.godotengine.org/releases/latest/
+  * https://docs.godotengine.org/en/latest/tutorials/editor/using_the_web_editor.html
+* 3D Development environment for the web
+  * https://webglstudio.org/
+* JavaScript playground and sandbox
+  * https://playcode.io/
+* 3d editor
+  * https://tertiusaxis.ru/
+  * https://dragon3dgraff.ru/
+* game engine for making small pixel art games
+  * https://bitmelo.com/
+  * https://www.reddit.com/r/gamedev/comments/cx1e6y/i_made_bitmelo_an_editor_for_making_small_pixel/
+* full-featured, writer-friendly and completely customizable visual novel extension for the Unity game engine
+  * https://naninovel.com/
+* super-easy platform for anyone to build virtual worlds
+  * https://www.modd.io/
+* open-source HTML5 puzzle game engine
+  * https://www.puzzlescript.net/
+* free, open-source tool for creating games, animations, and everything in-between!
+  * https://www.wickeditor.com/#/
+* Community managed visual editor for Babylon.js
+  * https://editor.babylonjs.com/
+* visual editor for building complex and beautiful graphical user interfaces.
+  * https://gui.babylonjs.com/
+* официальный редактор threejs
+  * https://threejs.org/editor/
+* digital sculpting web app
+  * https://stephaneginier.com/sculptgl/
+  * https://www.youtube.com/playlist?list=PLcwzuBByCS0PJbDGNX3z8JjfE51lBpuEa
+* Sketchfab made a fork of the old SculptGL version with a new design : Sculptfab
+  * https://labs.sketchfab.com/sculptfab/
+  * https://app.sketchup.com/app?hl=en
+* Parametric 2D and 3D modeler written in pure javascript 
+  * http://web-cad.org/
+  * https://web.archive.org/web/20240906052806/http://web-cad.org/
+  * https://github.com/xibyte/jsketcher
+  * https://forum.freecad.org/viewtopic.php?f=8&t=42454
+* low-poly 3D model editor
+  * https://www.blockbench.net/
+* project to experiment with raymarched signed distance field
+  * https://stephaneginier.com/archive/editSDF
+* free Lua-based audio/visual toolkit suitable for small games and experimentation
+  * https://www.amulet.xyz/editor.html
+* web-based IDE for HTML5 game development
+  * https://phasereditor2d.com/
+* LÖVE
+  * Создание прототипов игр на LÖVE
+    * https://habr.com/ru/articles/872616/
+  * https://love2d.org/
+  * https://schellingb.github.io/LoveWebBuilder/
+  * https://github.com/TannerRogalsky/love.js
+  * https://github.com/Davidobot/love.js
+* free level design tool to craft beautiful 2D tilemaps
+  * https://www.spritefusion.com/
+* Pixel Art Academy by Matej 'Retro' Jan
+  * https://pixelart.academy/
+* free online editor for animated sprites & pixel art
+  * https://www.piskelapp.com/
+* open-source pixel art multitool
+  * https://orama-interactive.itch.io/pixelorama
+* online pixel drawing tool
+  * https://pixilart.itch.io/tool
+* Open Game Art
+  * https://opengameart.org/
+* 3д модели
+  * https://sketchfab.com/3d-models?date=week&features=downloadable&sort_by=-likeCount
+  * https://www.models-resource.com/wii_u/mariokart8/
+* Complete cross platform games development package, originally for DOS but now available on modern platforms
+  * https://div-arena.co.uk/about
+  * https://div-arena.co.uk/wips?page=4
+  * https://fuzearena.com/
+* Make and post games, all on your phone
+  * https://castle.xyz/
+  * https://play.google.com/store/apps/details?id=xyz.castle
+  * https://wiki.castle.xyz/Main_Page
+  * https://github.com/castle-xyz/share.lua
+  * https://wiki.castle.xyz/Guides:Castle_Crash_Course
+* 3D engine for the Web
+  * https://github.com/oguzeroglu/ROYGBIV
+* комплексный инструмент разработки для создания 2D-игр
+  * https://gamemaker.io/ru
+* Мультиплеер в быстрых играх (части I, II)
+  * https://www.gabrielgambetta.com/client-server-game-architecture.html
+  * https://habr.com/ru/articles/302394/
+* Мультиплеер в быстрых играх (Часть III: появление врага)
+  * https://habr.com/ru/articles/302834/
+* Мультиплеер в быстрых играх (Часть IV: Хэдшот! Путешествуем во времени)
+  * https://habr.com/ru/articles/303006/
+* refreshingly simple data-driven game engine built in Rust
+  * https://bevyengine.org/examples/
+* Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
+  * https://magnum.graphics/
+  * https://magnum.graphics/showcase/
 
-разработка под приставки
-нес
+#### демо технологий
+* Awwwards
+  * https://www.awwwards.com/websites/sites_of_the_day/
+  * https://www.awwwards.com/websites/sites_of_the_year/
+* https://emupedia.net/emupedia-demo-3d-spatial-audio/
+* https://emupedia.net/emupedia-demo-voxel-space/
+* https://emupedia.net/emupedia-app-8-bit-palette-color-cycling/
+* демо медузы
+  * https://akirodic.com/p/jellyfish/
+* real time graphics
+  * https://www.derschmale.com/
+  * https://www.derschmale.com/lab/doodles/blueeyes/build/
+* Procedurally generated Chinese landscape painting
+  * https://github.com/LingDong-/shan-shui-inf
+* GPU-accelerated computing library for physics simulations and other mathematical calculations
+  * https://apps.amandaghassaei.com/gpu-io/examples/
+* Animated 3D backgrounds for your website
+  * https://www.vantajs.com/?effect=wav
+  * https://github.com/tengbao/vanta
+* retro synthwave "demo scene"
+  * https://victorqribeiro.github.io/retroSynthwave/
+  * https://github.com/victorqribeiro/retroSynthwave
+* Hexells Generative Unfoldings Submission 
+  * https://znah.net/hexells/
+  * https://github.com/znah/hexells
+  * https://news.ycombinator.com/item?id=31158717
+* starfield
+  * https://ashik-starfield.glitch.me/
+  * https://github.com/Ashikpaul/Starfield-effect
+  * https://hassanmo.dev/projects/starfield/
+  * https://draemm.li/various/3d/starflight/
+  * https://codepen.io/bts/pen/BygMzB
+* Three.js first-person shooter example game
+  * https://github.com/mohsenheydari/three-fps
+* https://play.google.com/store/apps/details?id=com.struckd.game
+* WebGL Juggler
+  * https://www.brianapps.net/juggle/webgl.html
+
+### разработка под приставки
+#### нес
 * https://8bitworkshop.com/
-https://github.com/sehugg/8bitworkshop
-* книгу сюда же
-геймбой
+  * https://github.com/sehugg/8bitworkshop
+  * книгу сюда же
+#### геймбой
 * https://www.gbstudio.dev/
-Game Boy Development Environment
-* https://youtu.be/luBSm1SbR7g
-сега
-How New Sega Genesis & Mega Drive Games Are Made (1980/90s versus Now)
-* https://youtu.be/VqJcdy-Nkos
-пс1
-I try to code a PS1 game.
-* https://youtu.be/QYVGczdflyY
-I programmed a PS1 game. again...
-* https://youtu.be/Ys_6yjkDkWM
-Let's code a REAL PS1 game - PART 1
-* https://youtu.be/MijNjX4jZ-M
-ps2
-Making a PS2 Game LIVE #1 - Setup (C Game Development on PS2SDK)
-https://youtu.be/kX_JpzxR2Qg
-PICO-8 Education Edition for Web
-https://www.pico-8-edu.com/
-https://www.lexaloffle.com/bbs/?tid=47278
-Create Your Game In the Browser
-https://tic80.com/create
-game engine
-https://bevyengine.org/examples/
-Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
-https://magnum.graphics/
-https://magnum.graphics/showcase/
-Retro-computing projects for the ZX Spectrum
-https://github.com/zxplay
-ZX Spectrum emulator & programming environment for the browser
-https://zxcoder.org/
-online IDE and assembler for Z80 projects with special options for projects for the TI-83 Plus–series calculators and ZX Spectrum
-http://clrhome.org/asm/
-http://clrhome.org/table/
+* Game Boy Development Environment
+  * https://youtu.be/luBSm1SbR7g
+#### сега
+* How New Sega Genesis & Mega Drive Games Are Made (1980/90s versus Now)
+  * https://youtu.be/VqJcdy-Nkos
+#### пс1
+* I try to code a PS1 game.
+  * https://youtu.be/QYVGczdflyY
+* I programmed a PS1 game. again...
+  * https://youtu.be/Ys_6yjkDkWM
+* Let's code a REAL PS1 game - PART 1
+  * https://youtu.be/MijNjX4jZ-M
+#### ps2
+* Making a PS2 Game LIVE #1 - Setup (C Game Development on PS2SDK)
+  * https://youtu.be/kX_JpzxR2Qg
+#### pico-8
+* PICO-8 Education Edition for Web
+  * https://www.pico-8-edu.com/
+  * https://www.lexaloffle.com/bbs/?tid=47278
+#### tic-80
+* Create Your Game In the Browser
+  * https://tic80.com/create
+* Retro-computing projects for the ZX Spectrum
+  * https://github.com/zxplay
+* ZX Spectrum emulator & programming environment for the browser
+  * https://zxcoder.org/
+* online IDE and assembler for Z80 projects with special options for projects for the TI-83 Plus–series calculators and ZX Spectrum
+  * http://clrhome.org/asm/
+  * http://clrhome.org/table/
 
-хаки игр
-https://www.romhacking.net/?page=hacks&platform=1&perpage=20&order=Downloads&startpage=4
-https://www.romhacking.net/reviews/1645/
-https://www.romhacking.net/reviews/11870/
-https://www.romhacking.net/hacks/2068/
-https://www.romhacking.net/reviews/7757/
-https://www.romhacking.net/hacks/873/
-нес хаки на любой вкус
-https://www.emu-land.net/forum/index.php/topic,56894.8550.html
-https://www.romhacking.net/community/2797/
-https://www.emu-land.net/forum/index.php?action=profile;area=showposts;u=5030
-Fully documented and annotated source code for Elite on the Nintendo Entertainment System (NES)
-https://github.com/markmoxon/nes-elite-beebasm
+#### хаки игр
+* https://www.romhacking.net/?page=hacks&platform=1&perpage=20&order=Downloads&startpage=4
+* https://www.romhacking.net/reviews/1645/
+* https://www.romhacking.net/reviews/11870/
+* https://www.romhacking.net/hacks/2068/
+* https://www.romhacking.net/reviews/7757/
+* https://www.romhacking.net/hacks/873/
+* нес хаки на любой вкус
+  * https://www.emu-land.net/forum/index.php/topic,56894.8550.html
+  * https://www.romhacking.net/community/2797/
+  * https://www.emu-land.net/forum/index.php?action=profile;area=showposts;u=5030
+* Fully documented and annotated source code for Elite on the Nintendo Entertainment System (NES)
+  * https://github.com/markmoxon/nes-elite-beebasm
 
-карты игр
-virtual museum of videogame maps
-https://noclip.website/
-https://github.com/magcius/noclip.website
-https://lvlworld.com/topmaps/0
-https://lvlworld.com/review/id:2231
-https://lvlworld.com/review/id:1279
-https://lvlworld.com/review/id:1286
-любимые карты для мультиплеера
-https://hlfx.ru/forum/showthread.php?s=96f60aceb36b90bf33c7fdee31757958&threadid=5589
-https://sbuggay.github.io/bspview/
-https://github.com/sbuggay/bspview
+#### карты игр
+* virtual museum of videogame maps
+  * https://noclip.website/
+  * https://github.com/magcius/noclip.website
+* карты quake 3
+  * https://lvlworld.com/topmaps/0
+  * https://lvlworld.com/review/id:2231
+  * https://lvlworld.com/review/id:1279
+  * https://lvlworld.com/review/id:1286
+* любимые карты для мультиплеера
+  * https://hlfx.ru/forum/showthread.php?s=96f60aceb36b90bf33c7fdee31757958&threadid=5589
+* https://sbuggay.github.io/bspview/
+* https://github.com/sbuggay/bspview
+* карты для quake 3
+  * https://steamcommunity.com/sharedfiles/filedetails/?id=1518412938
+  * https://icculus.org/gtkradiant/downloads.html
 
-карты для quake 3
-https://steamcommunity.com/sharedfiles/filedetails/?id=1518412938
-https://icculus.org/gtkradiant/downloads.html
+### демосцена
+* 256 байт веселья, или как развлечь себя Ассемблером когда скучно
+  * https://habr.com/ru/articles/872184/
+* Искра 1080 Тарту. Демопати! Первые программы на Искре и современном компьютере
+  * https://vk.com/video-226687472_456239049
+* Ультра-маленькие демки под DOS
+  * https://habr.com/ru/articles/713550/
+* Как демо Memories умещается в 256 байт
+  * https://habr.com/ru/articles/498096/
+* Подробный разбор 64b intro: radar
+  * https://habr.com/ru/articles/759914/
+* Создание 1k/4k intro для Linux, часть 1
+  * https://habr.com/ru/articles/134551/
+.* kkrieger — маленькое чудо большой демосцены
+  * https://habr.com/ru/companies/ruvds/articles/780102/
+* Демо City In A Bottle – система рейкастинга в 256 байтах
+  * https://habr.com/ru/articles/815653/
+* https://retroscene.org/
+* https://www.demoscene.ru/
+* http://www.dihalt.org.ru/
+* https://nanogems.demozoo.org/
+* https://www.pouet.net/index.php
+* https://demozoo.org/
+* тут в том числе музыка
+  * http://www.bitfellas.org/
+* sizecoding demoparty/event
+  * https://lovebyte.party/#competitions
+  * https://tcc.lovebyte.party/
+  * https://tcc.lovebyte.party/microw8/
+* Bytebeat Music
+  * https://bytebeat.demozoo.org/
+  * http://canonical.org/~kragen/bytebeat/
+  * https://lovebyte.party/bytebeat_rpn_guide.pdf
+* CODEF Demoscene Gallery
+  * https://www.wab.com/
+* запись холста с нужным фпс
+  * https://github.com/spite/ccapture.js/
+* live code editor for capturing video
+  * https://capjs.3d2k.com/
+* challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas
+  * https://www.dwitter.net/
+* online tool which allows people to create interactive visual web content 
+  * https://cables.gl/about
+* DOS JavaScript Canvas with sound
+  * https://github.com/SuperIlu/DOjS
+* WebAssembly based fantasy console
+  * https://exoticorn.github.io/microw8/
+* JPEG XL art explained
+  * https://www.youtube.com/watch?v=FIG3I8Sp2qQ
+  * https://jpegxl.info/old/art/
+  * https://github.com/surma/jxl-art/blob/main/package.json
+  * https://jxl-art.surma.technology/
+  * https://jxl-art.surma.technology/wtf
+* Правила для графических конкурсов
+  * https://chaosconstructions.ru/compos.html#gc
+* ZX Spectrum 53C graphics
+  * https://53c.retroscene.org/
+* ZX Spectrum SPECSCII
+  * https://zxart.ee/specscii/
+* Commodore 64 PETSCII
+  * https://petscii.krissz.hu/
+* Commodore 64 multicolor graphics
+  * https://mcdraw.xyz/
+* PC ASCII
+  * https://kirilllive.github.io/ASCII_Art_Paint/ascii_paint.html
+* PC ANSI
+  * https://ansi.0w.nz/
+  * https://xero.github.io/moebius-web/
+* Прочие пиксельные редакторы
+  * https://www.piskelapp.com/p/create/sprite
+  * https://apps.lospec.com/pixel-editor
+  * https://danielx.net/pixel-editor/
 
-Awwwards
-https://www.awwwards.com/websites/sites_of_the_day/
-https://www.awwwards.com/websites/sites_of_the_year/
+#### редактор моделей
+* https://stephaneginier.com/sculptgl/
+* https://labs.sketchfab.com/sculptfab/
+* https://app.sketchup.com/app?hl=en
 
-демосцена
-256 байт веселья, или как развлечь себя Ассемблером когда скучно
-https://habr.com/ru/articles/872184/
-Искра 1080 Тарту. Демопати! Первые программы на Искре и современном компьютере
-https://vk.com/video-226687472_456239049
-Ультра-маленькие демки под DOS
-https://habr.com/ru/articles/713550/
-Как демо Memories умещается в 256 байт
-https://habr.com/ru/articles/498096/
-Подробный разбор 64b intro: radar
-https://habr.com/ru/articles/759914/
-Создание 1k/4k intro для Linux, часть 1
-https://habr.com/ru/articles/134551/
-.kkrieger — маленькое чудо большой демосцены
-https://habr.com/ru/companies/ruvds/articles/780102/
-Демо City In A Bottle – система рейкастинга в 256 байтах
-https://habr.com/ru/articles/815653/
-https://retroscene.org/
-https://www.demoscene.ru/
-http://www.dihalt.org.ru/
-https://nanogems.demozoo.org/
-https://www.pouet.net/index.php
-https://demozoo.org/
-тут в том числе музыка
-http://www.bitfellas.org/
-sizecoding demoparty/event
-https://lovebyte.party/#competitions
-https://tcc.lovebyte.party/
-https://tcc.lovebyte.party/microw8/
-Bytebeat Music
-https://bytebeat.demozoo.org/
-http://canonical.org/~kragen/bytebeat/
-https://lovebyte.party/bytebeat_rpn_guide.pdf
-CODEF Demoscene Gallery
-https://www.wab.com/
-запись холста с нужным фпс
-https://github.com/spite/ccapture.js/
-live code editor for capturing video
-https://capjs.3d2k.com/
-challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas
-https://www.dwitter.net/
-online tool which allows people to create interactive visual web content 
-https://cables.gl/about
-DOS JavaScript Canvas with sound
-https://github.com/SuperIlu/DOjS
-https://exoticorn.github.io/microw8/
-JPEG XL art explained
-https://www.youtube.com/watch?v=FIG3I8Sp2qQ
-https://jpegxl.info/old/art/
-https://github.com/surma/jxl-art/blob/main/package.json
-https://jxl-art.surma.technology/
-https://jxl-art.surma.technology/wtf
-Правила для графических конкурсов
-https://chaosconstructions.ru/compos.html#gc
-ZX Spectrum 53C graphics
-https://53c.retroscene.org/
-ZX Spectrum SPECSCII
-https://zxart.ee/specscii/
-Commodore 64 PETSCII
-https://petscii.krissz.hu/
-Commodore 64 multicolor graphics
-https://mcdraw.xyz/
-PC ASCII
-https://kirilllive.github.io/ASCII_Art_Paint/ascii_paint.html
-PC ANSI
-https://ansi.0w.nz/
-https://xero.github.io/moebius-web/
-Прочие пиксельные редакторы
-https://www.piskelapp.com/p/create/sprite
-https://apps.lospec.com/pixel-editor
-https://danielx.net/pixel-editor/
+### хранитель экрана
+* https://github.com/maze95/maze95-js
+  * https://ibid-11962.github.io/Windows-95-3D-Maze-Screensaver/maze.html
+  * https://github.com/ibid-11962/Windows-95-3D-Maze-Screensaver
+* https://github.com/kevin-shannon/3D-FlowerBox
+* https://github.com/1j01/pipes
+* https://github.com/khang-nd/bubbles
+* https://rezmason.github.io/matrix/?version=operator
+* https://ser-gen.github.io/sandbox/clocks/cifra/
+* Recreating After Dark screensavers in CSS
+  * http://bryanbraun.github.io/after-dark-css/
+  * https://github.com/bryanbraun/after-dark-css
+* https://www.bouncingdvdlogo.com/
+* open-source tribute to the macOS Drift screensaver
+  * https://flux.sandydoo.me/
+  * https://github.com/sandydoo/flux
+* https://polarclockelm.sandydoo.me/
+  * https://github.com/sandydoo/PolarClockElm
+* Re-implemtation of the Johnny Castaway Screensaver
+  * https://github.com/xesf/castaway
+  * http://www.hunterdavis.com/johnnycastawaywine/
+  * https://hunterdavis.com/2019/12/12/launch_blog_post.html
+  * https://castaway.xesf.net/
+* https://t.me/artalog/331
+  * https://artalar.github.io/csb-trpr1/
 
-как делать эмуляторы
-* https://www.emu-land.net/forum/index.php/topic,80641.0.html
+### старый интернет
+* https://web.archive.org/
+  * https://web.archive.org/web/20190530004539/http://herculeskv.narod.ru/documents/mustdie.htm
+  * https://web.archive.org/web/20191006061442/http://blog.gamedeff.com/?p=64
+  * https://web.archive.org/web/20210616065539/http://blog.gamedeff.com/
+* list of the various projects to get vintage computers connected to the internet 
+  * https://github.com/ssshake/retro-computing-internet-resources
+* https://theoldnet.com/
+* Browse emulated browsers connected to old web sites in your browser!
+  * https://oldweb.today/
+* поисковик старых сайтов
+  * https://wiby.me/
+  * https://t.me/retrodevicesnerd/12371
+* World’s Oldest Web Page (I have it)
+  * https://www.ibiblio.org/pjones/blog/worlds-oldest-web-page-i-have-it/
+* https://www.reddit.com/r/web_design/comments/r5kvp1/tips_for_a_90s_looking_website/
+* https://www.cameronsworld.net/
+* https://www.spacejam.com/1996/
+* http://www.funkychickens.com/main.asp
+* https://www.arngren.net/
+* https://poolsuite.net/
 
-редактор моделей
-https://stephaneginier.com/sculptgl/
-https://labs.sketchfab.com/sculptfab/
-https://app.sketchup.com/app?hl=en
-
-хранитель экрана
-https://t.me/artalog/331
-  https://artalar.github.io/csb-trpr1/
-	* https://github.com/maze95/maze95-js
-		* https://ibid-11962.github.io/Windows-95-3D-Maze-Screensaver/maze.html
-		https://github.com/ibid-11962/Windows-95-3D-Maze-Screensaver
-	* https://github.com/kevin-shannon/3D-FlowerBox
-	* https://github.com/1j01/pipes
-	https://github.com/khang-nd/bubbles
-	https://rezmason.github.io/matrix/?version=operator
-	https://ser-gen.github.io/sandbox/clocks/cifra/
-	Recreating After Dark screensavers in CSS
-	http://bryanbraun.github.io/after-dark-css/
-	https://github.com/bryanbraun/after-dark-css
-	https://www.bouncingdvdlogo.com/
-open-source tribute to the macOS Drift screensaver
-https://flux.sandydoo.me/
-https://github.com/sandydoo/flux
-	https://polarclockelm.sandydoo.me/
-https://github.com/sandydoo/PolarClockElm
-Re-implemtation of the Johnny Castaway Screensaver
-https://github.com/xesf/castaway
-http://www.hunterdavis.com/johnnycastawaywine/
-https://hunterdavis.com/2019/12/12/launch_blog_post.html
-https://castaway.xesf.net/
-
-старый интернет
-https://web.archive.org/
-list of the various projects to get vintage computers connected to the internet 
-https://github.com/ssshake/retro-computing-internet-resources
-https://theoldnet.com/
-Browse emulated browsers connected to old web sites in your browser!
-https://oldweb.today/
-	https://web.archive.org/web/20190530004539/http://herculeskv.narod.ru/documents/mustdie.htm
-	https://web.archive.org/web/20191006061442/http://blog.gamedeff.com/?p=64
-https://web.archive.org/web/20210616065539/http://blog.gamedeff.com/
-поисковик старых сайтов
-https://wiby.me/
-https://t.me/retrodevicesnerd/12371
-World’s Oldest Web Page (I have it)
-https://www.ibiblio.org/pjones/blog/worlds-oldest-web-page-i-have-it/
-https://www.reddit.com/r/web_design/comments/r5kvp1/tips_for_a_90s_looking_website/
-https://www.cameronsworld.net/
-https://www.spacejam.com/1996/
-http://www.funkychickens.com/main.asp
-https://www.arngren.net/
-https://poolsuite.net/
-
-браузерная операционная
-https://ru.wikipedia.org/wiki/EyeOS
+### браузерная операционная
+* https://ru.wikipedia.org/wiki/EyeOS
 * списки
-	* https://github.com/zriyansh/awesome-os
-	* https://github.com/syxanash/awesome-web-desktops
-	* https://en.m.wikipedia.org/wiki/Web_desktop
-	https://simone.computer/
-	https://simone.computer/#/webdesktops
-	https://system31.simone.computer/blog/desktops-zip
-https://www.simondev.io/projects
-рецепт пиццы
-https://gist.github.com/syxanash/7b2d135a566cfb2f03dfceba6b34e61a
-https://generative.3d2k.com/
-https://git-terminal.js.org/
-  https://github.com/jcubic/git
+  * https://github.com/zriyansh/awesome-os
+  * https://github.com/syxanash/awesome-web-desktops
+  * https://en.m.wikipedia.org/wiki/Web_desktop
+  * https://simone.computer/
+    * https://simone.computer/#/webdesktops
+    * https://system31.simone.computer/blog/desktops-zip
+    * https://www.simondev.io/projects
+      * рецепт пиццы
+        * https://gist.github.com/syxanash/7b2d135a566cfb2f03dfceba6b34e61a
+* https://generative.3d2k.com/
+* https://git-terminal.js.org/
+  * https://github.com/jcubic/git
 * https://github.com/React95/React95/tree/master/packages/icons
-https://emupedia.net/beta/
-* https://github.com/Emupedia/emupedia.github.io
-https://github.com/Emupedia/emupedia.github.io/
-https://github.com/orgs/Emupedia/repositories
-* https://github.com/orgs/Emupedia/repositories?q=emupedia-game-
-	* https://emuos.net/beta/emuos/
-* https://archive.emupedia.net/
-* https://emuchat.emupedia.net/
-* https://ws.emupedia.net/webrtc/
-https://dtf.ru/u/480091-dzianiska/1897093-pyat-minut-nostalgii-emuos-emulyaciya-staryh-windows-v-brauzere
-https://dtf.ru/retro/1860642-onlain-emulyator-win95-s-retro-i-ne-tolko-igrami
+* https://emupedia.net/beta/
+  * https://github.com/Emupedia/emupedia.github.io
+  * https://github.com/Emupedia/emupedia.github.io/
+  * https://github.com/orgs/Emupedia/repositories
+  * https://github.com/orgs/Emupedia/repositories?q=emupedia-game-
+  * https://emuos.net/beta/emuos/
+  * https://archive.emupedia.net/
+  * https://emuchat.emupedia.net/
+  * https://ws.emupedia.net/webrtc/
+  * https://dtf.ru/u/480091-dzianiska/1897093-pyat-minut-nostalgii-emuos-emulyaciya-staryh-windows-v-brauzere
+  * https://dtf.ru/retro/1860642-onlain-emulyator-win95-s-retro-i-ne-tolko-igrami
 * https://github.com/DustinBrett/daedalOS
-	* https://www.youtube.com/@DustinBrett
-	* https://dustinbrett.com/
-https://news.ycombinator.com/threads?id=DustinBrett
-* https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc
+  * https://www.youtube.com/@DustinBrett
+  * https://dustinbrett.com/
+  * https://news.ycombinator.com/threads?id=DustinBrett
+  * https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc
 * https://github.com/Maingron/MainOS
 * http://webos.floydcraft.co.uk/
-	* http://docs.webos.floydcraft.co.uk/
+  * http://docs.webos.floydcraft.co.uk/
 * https://github.com/belowaverage-org/webdows
 * https://github.com/ducbao414/win32.run
 * https://whimsy.space/
@@ -2245,807 +2247,811 @@ https://news.ycombinator.com/threads?id=DustinBrett
 * https://github.com/AshKyd/ui95
 * https://jdan.github.io/98.css/#tabs
 * https://khang-nd.github.io/7.css
-	* http://interface.free.fr/Archives/GUI_Xp.pdf
-JavaScript and CSS library for creating operating system-like user interfaces
-* https://os-gui.js.org/
-library for creating web-based terminals with custom commands
-https://github.com/jcubic/jquery.terminal
+* http://interface.free.fr/Archives/GUI_Xp.pdf
+* JavaScript and CSS library for creating operating system-like user interfaces
+  * https://os-gui.js.org/
+* library for creating web-based terminals with custom commands
+  * https://github.com/jcubic/jquery.terminal
 * https://github.com/jvilk/BrowserFS
 * https://win98icons.alexmeub.com/
 * https://github.com/khang-nd/bubbles
 * https://github.com/1j01/98
-	* https://github.com/1j01/98/issues
-	* https://github.com/1j01/98/issues/86
-	* https://github.com/1j01/98/pull/37
+  * https://github.com/1j01/98/issues
+  * https://github.com/1j01/98/issues/86
+  * https://github.com/1j01/98/pull/37
 * https://github.com/vikrum/kidpix
-https://windows93.xyz
+* https://windows93.xyz
 * https://windows96.net/
-https://v1.windows93.xyz
-https://github.com/malisipi/ubuntu-tour
+* https://v1.windows93.xyz
+* https://github.com/malisipi/ubuntu-tour
 * https://98.js.org/
-https://demo.kodcloud.com/#explorer
-https://github.com/kalcaddle/kodbox
-puterjs
-https://habr.com/ru/news/798321/
-I can’t believe this is real
-https://youtu.be/jYV1VDhw7E8
-https://github.com/HeyPuter/puter
-https://news.ycombinator.com/item?id=39597030
-exaequOS
-https://www.exaequos.com/
-https://www.exaequos.com/start
-https://www.exaequos.com/doc/build/html/
-Lisp-based in-browser toy operating system
-https://github.com/AlexNisnevich/ECMAchine
-Pluto is a minimal but functional 'web OS' that aims to provide a desktop environment-like experience inside of a website.
-https://pluto-app.zeon.dev/
+* https://demo.kodcloud.com/#explorer
+* https://github.com/kalcaddle/kodbox
+* puterjs
+  * https://habr.com/ru/news/798321/
+  * I can’t believe this is real
+    * https://youtu.be/jYV1VDhw7E8
+    * https://github.com/HeyPuter/puter
+    * https://news.ycombinator.com/item?id=39597030
+* exaequOS
+  * https://www.exaequos.com/
+  * https://www.exaequos.com/start
+  * https://www.exaequos.com/doc/build/html/
+* Lisp-based in-browser toy operating system
+  * https://github.com/AlexNisnevich/ECMAchine
+* Pluto is a minimal but functional 'web OS' that aims to provide a desktop environment-like experience inside of a website.
+  * https://pluto-app.zeon.dev/
 
-OS
-VNC client web application
-https://github.com/novnc/noVNC
-install old os in browser
-https://install.dos.zone/win98.html
-https://bellard.org/jslinux/faq.html
-x86 PC emulator and x86-to-wasm JIT, running in the browser
-https://copy.sh/v86/
-https://github.com/copy/v86
-Home of the original IBM PC emulator for browsers
-https://www.pcjs.org/
-Halfix x86 Emulator
-https://nepx.github.io/halfix-demo/
-https://github.com/nepx/halfix
-https://pixelsuft.github.io/onwin/
-https://github.com/felixrieseberg/windows95
-qt4 emscripten
-https://vps2.etotheipiplusone.com:30176/redmine/projects/emscripten-qt/wiki/Demos/Demos.html
-7-Zip for DOS and Windows 95
-https://github.com/dajhorn/retro7zip
-Backport of .NET 2.0 - 3.5 to Windows 9x
-https://github.com/itsmattkc/dotnet9x
-https://github.com/itsmattkc/dotnet9x/discussions
-I ported THOUSANDS of apps to Windows 95
-https://www.youtube.com/watch?v=CTUMNtKQLl8
-винда 95 с программами
-https://github.com/felixrieseberg/windows95/releases
-https://github.com/felixrieseberg/windows95/blob/master/src/renderer/emulator.tsx
-virtual Apple Macintosh with System 8, running in Electron. I'm sorry
-https://github.com/felixrieseberg/macintosh.js
-Mac Plus emulator running Mac OS System 7
-https://jamesfriend.com.au/pce-js/
-Basilisk II Classic Macintosh emulator
-https://jamesfriend.com.au/projects/basiliskii/BasiliskII-worker.html
-Virtual Machine running on a Web browser 
-https://lrusso.github.io/VirtualXP/VirtualXP.htm
-https://lrusso.github.io/VirtualXP/VirtualXP.htm
-Learn Linux from the safety of your chair using a remote private linux machine with root access
-https://linuxzoo.net/
-PalmOS emulator for the web
-https://cloudpilot-emu.github.io/app
-https://cloudpilot-emu.github.io/
-https://github.com/cloudpilot-emu/cloudpilot-emu
-https://palmdb.net/app/palm-roms-complete
-commodore 64 emulator written in vanilla JavaScript
-http://mborgbrant.github.io/c64js/
-https://github.com/mborgbrant/c64js
-RetroArch in your browser
-https://binbashbanana.github.io/webretro/
-https://github.com/BinBashBanana/webretro
+### OS
+* VNC client web application
+  * https://github.com/novnc/noVNC
+* install old os in browser
+  * https://install.dos.zone/win98.html
+  * https://bellard.org/jslinux/faq.html
+* x86 PC emulator and x86-to-wasm JIT, running in the browser
+  * https://copy.sh/v86/
+  * https://github.com/copy/v86
+* Home of the original IBM PC emulator for browsers
+  * https://www.pcjs.org/
+* Halfix x86 Emulator
+  * https://nepx.github.io/halfix-demo/
+  * https://github.com/nepx/halfix
+  * https://pixelsuft.github.io/onwin/
+  * https://github.com/felixrieseberg/windows95
+* qt4 emscripten
+  * https://vps2.etotheipiplusone.com:30176/redmine/projects/emscripten-qt/wiki/Demos/Demos.html
+* 7-Zip for DOS and Windows 95
+  * https://github.com/dajhorn/retro7zip
+* Backport of .NET 2.0 - 3.5 to Windows 9x
+  * https://github.com/itsmattkc/dotnet9x
+  * https://github.com/itsmattkc/dotnet9x/discussions
+* I ported THOUSANDS of apps to Windows 95
+  * https://www.youtube.com/watch?v=CTUMNtKQLl8
+* винда 95 с программами
+  * https://github.com/felixrieseberg/windows95/releases
+  * https://github.com/felixrieseberg/windows95/blob/master/src/renderer/emulator.tsx
+* virtual Apple Macintosh with System 8, running in Electron. I'm sorry
+  * https://github.com/felixrieseberg/macintosh.js
+* Mac Plus emulator running Mac OS System 7
+  * https://jamesfriend.com.au/pce-js/
+* Basilisk II Classic Macintosh emulator
+  * https://jamesfriend.com.au/projects/basiliskii/BasiliskII-worker.html
+* Virtual Machine running on a Web browser 
+  * https://lrusso.github.io/VirtualXP/VirtualXP.htm
+  * https://lrusso.github.io/VirtualXP/VirtualXP.htm
+* Learn Linux from the safety of your chair using a remote private linux machine with root access
+  * https://linuxzoo.net/
+* PalmOS emulator for the web
+  * https://cloudpilot-emu.github.io/app
+  * https://cloudpilot-emu.github.io/
+  * https://github.com/cloudpilot-emu/cloudpilot-emu
+  * https://palmdb.net/app/palm-roms-complete
+* commodore 64 emulator written in vanilla JavaScript
+  * http://mborgbrant.github.io/c64js/
+  * https://github.com/mborgbrant/c64js
+* RetroArch in your browser
+  * https://binbashbanana.github.io/webretro/
+  * https://github.com/BinBashBanana/webretro
 
-списки свободного софта
-https://delightful.club/
-список бесплатных (нет) программ
-github.com/Axorax/awesome-free-apps
-curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
-https://github.com/chubin/awesome-console-services
-свободный софт и для линукса
-https://www.nixp.ru/soft
-Guide to privacy settings for most major software and services
-github.com/StellarSand/privacy-settings
-KolibriOS
-https://kolibrios.org/ru/download
-	- https://t.me/s/kolibrios_news
-	Есть ли жизнь на Колибри ОС? Смотрим на самую маленькую операционную систему!
-	- https://www.youtube.com/watch?v=ak0K_XjT1gE
-	💾 Секреты КолибриОС - Промо / KolibriOS Secrets - Promo (ENG SUB)
-	- https://www.youtube.com/watch?v=NyikhKRow-Q
-	A Modern Operating System in 1.44MBs
-	- https://www.youtube.com/watch?v=SATYQyIcimM
+#### софт
+* списки свободного софта
+  * https://delightful.club/
+* список бесплатных (нет) программ
+  * github.com/Axorax/awesome-free-apps
+* curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
+  * https://github.com/chubin/awesome-console-services
+* свободный софт и для линукса
+  * https://www.nixp.ru/soft
+* Guide to privacy settings for most major software and services
+  * github.com/StellarSand/privacy-settings
+* KolibriOS
+  * https://kolibrios.org/ru/download
+  * https://t.me/s/kolibrios_news
+  * Есть ли жизнь на Колибри ОС? Смотрим на самую маленькую операционную систему!
+    * https://www.youtube.com/watch?v=ak0K_XjT1gE
+  * 💾 Секреты КолибриОС - Промо / KolibriOS Secrets - Promo (ENG SUB)
+    * https://www.youtube.com/watch?v=NyikhKRow-Q
+  * A Modern Operating System in 1.44MBs
+    * https://www.youtube.com/watch?v=SATYQyIcimM
 
-AI
-AI App Directory
-https://huggingface.co/spaces
-слоп
-https://en.m.wikipedia.org/wiki/AI_slop
-новинки
-https://huggingface.co/spaces
-https://www.superhuman.ai/
-https://klingai.com/
-подборка
-https://t.me/ru2chvg/33811
-дипфейки
-https://deepfacevideo.com/gallery
-увеличение
-https://doevent-face-real-esrgan.hf.space/
-https://github.com/ai-forever/Real-ESRGAN
-https://github.com/Ser-Gen/Real-ESRGAN-Test
-https://huggingface.co/spaces/OAOA/InvSR
-https://github.com/zsyOAOA/InvSR
-текст в картинку
-https://bytedance-sdxl-lightning.hf.space/?__theme=dark
-текст
-https://labs.perplexity.ai/
-!!! текст арена
-https://chat.lmsys.org/
-чот про видео
-https://www.veed.io/edit/
-текст в картинки
-https://www.midjourney.com/
-!!! создание музыки
-https://www.suno.wiki/
-https://suno-ai.notion.site/FAQs-b72601b96de44e5cacd2cd6baa985448
-https://suno.com/explore
-Как сделать ТРЕК ЗА 5 МИНУТ с помощью НЕЙРОСЕТИ | SUNO.AI
-https://www.youtube.com/watch?v=ZNNebbWvKwk
-нейро видео
-lumalabs.ai/dream-machine
-генерация формул экселя
-https://gptexcel.uk/
-генерация кода
-https://ollama.com/blog/continue-code-assistant
-удаление вотермарков
-https://unwatermark.ai/
-написание текста
-https://ultratext.ru/
-российские ии сервисы
-https://ailist.ru/free/
-перевод больших текстов
-x-doc.ai
-геопозиция по фото
-pro.geospy.ai
-генерация модели
-zoo.dev/text-to-cad
-Luma Dream Machine
-Image To Video Ai 2024
-https://youtu.be/JoAAuWNTB48
-https://journal.tinkoff.ru/how-to-use-luma-ai/
-- vectorizer.ai
-!!! текст в видео
-https://hailuoai.video/
-текст в аудио
-hailuo.ai/audio
-https://ageofllms.com/ai-howto-prompts/ai-fun/hailuo-minimax-tutorial
-github.com/All-Hands-AI/OpenHands
-https://t.me/dvachannel/152489
-чат
-chat.qwenlm.ai/
-https://qwen-ai.com/
-чат без авторизации
-blackbox.ai
-Interact with your documents using the power of GPT privately
-github.com/zylon-ai/private-gpt
-улучшение качества видео — не работает
-huggingface.co/spaces/SherryX/STAR
-чат
-chat.deepseek.com
-Bringing stable diffusion models to web browsers
-https://websd.mlc.ai/
-https://github.com/mlc-ai/web-stable-diffusion
-High-performance In-browser LLM Inference Engine
-https://chat.webllm.ai/
-https://github.com/mlc-ai/web-llm
+### AI
+* AI App Directory
+  * https://huggingface.co/spaces
+* слоп
+  * https://en.m.wikipedia.org/wiki/AI_slop
+* новинки
+  * https://huggingface.co/spaces
+  * https://www.superhuman.ai/
+  * https://ailist.ru/free/
+* подборка
+  * https://t.me/ru2chvg/33811
+* дипфейки
+  * https://deepfacevideo.com/gallery
+* увеличение
+  * https://doevent-face-real-esrgan.hf.space/
+    * https://github.com/ai-forever/Real-ESRGAN
+    * https://github.com/Ser-Gen/Real-ESRGAN-Test
+  * https://huggingface.co/spaces/OAOA/InvSR
+    * https://github.com/zsyOAOA/InvSR
+* текст в картинку
+  * https://bytedance-sdxl-lightning.hf.space/?__theme=dark
+* текст
+  * https://labs.perplexity.ai/
+* !!! текст арена
+  * https://chat.lmsys.org/
+* чот про видео
+  * https://www.veed.io/edit/
+* текст в картинки
+  * https://www.midjourney.com/
+* !!! создание музыки
+  * https://www.suno.wiki/
+  * https://suno-ai.notion.site/FAQs-b72601b96de44e5cacd2cd6baa985448
+  * https://suno.com/explore
+  * Как сделать ТРЕК ЗА 5 МИНУТ с помощью НЕЙРОСЕТИ | SUNO.AI
+    * https://www.youtube.com/watch?v=ZNNebbWvKwk
+* нейро видео
+  * Luma Dream Machine
+    * lumalabs.ai/dream-machine
+    * Image To Video Ai 2024
+      * https://youtu.be/JoAAuWNTB48
+      * https://journal.tinkoff.ru/how-to-use-luma-ai/
+  * https://klingai.com/
+* генерация формул экселя
+  * https://gptexcel.uk/
+* генерация кода
+  * https://ollama.com/blog/continue-code-assistant
+* удаление вотермарков
+  * https://unwatermark.ai/
+* написание текста
+  * https://ultratext.ru/
+* перевод больших текстов
+  * x-doc.ai
+* геопозиция по фото
+  * pro.geospy.ai
+* генерация модели
+  * zoo.dev/text-to-cad
+* vectorizer.ai
+* !!! текст в видео
+  * https://hailuoai.video/
+  * текст в аудио
+    * hailuo.ai/audio
+    * https://ageofllms.com/ai-howto-prompts/ai-fun/hailuo-minimax-tutorial
+* OpenHands: Code Less, Make More
+  * github.com/All-Hands-AI/OpenHands
+  * https://t.me/dvachannel/152489
+* чат
+  * chat.qwenlm.ai/
+  * https://qwen-ai.com/
+* чат без авторизации
+  * blackbox.ai
+* Interact with your documents using the power of GPT privately
+  * github.com/zylon-ai/private-gpt
+* улучшение качества видео — не работает
+  * huggingface.co/spaces/SherryX/STAR
+* чат
+  * chat.deepseek.com
+* Bringing stable diffusion models to web browsers
+  * https://websd.mlc.ai/
+  * https://github.com/mlc-ai/web-stable-diffusion
+* High-performance In-browser LLM Inference Engine
+  * https://chat.webllm.ai/
+  * https://github.com/mlc-ai/web-llm
 
-сделай сам
-https://www.instructables.com/
-научить всех на свете, как делать все что угодно
-https://ru.wikihow.com/wikiHow:%D0%9E-wikiHow
+### сделай сам
+* https://www.instructables.com/
+* научить всех на свете, как делать все что угодно
+  * https://ru.wikihow.com/wikiHow:%D0%9E-wikiHow
 
-ВЕБГЛ
-https://thebookofshaders.com/
-https://www.shadertoy.com/
-  https://www.shadertoy.com/view/mtyGWy
-  Искра 1080 Тарту. Демопати! Первые программы на Искре и современном компьютере
-  https://vk.com/video-226687472_456239049
-  An introduction to Shader Art Coding
-  https://www.youtube.com/watch?v=f4s1h2YETNY
-  https://www.shadertoy.com/view/XXyGzh
-  https://www.shadertoy.com/view/XsXXDn
-  An introduction to Raymarching
-  https://m.youtube.com/watch?v=khblXafu7iA
-просмотр моделей
-https://f3d.app/web/
-https://rubenandrebarreiro.github.io/projects/threejs/3d-object-viewer-super-mario-bros/3d-object-viewer-super-mario-bros.html
-solution to visualize and explore 3D models in your browser
-https://3dviewer.net/
-https://github.com/kovacsv/Online3DViewer
-визуализация данных
-https://github.com/protectwise/troika
-демо материалов в 3д
-https://lab.julienverneaut.com/matcap-editor/
-Real-time procedural 3D scene generation using ray marching and distance field
-https://www.kevs3d.co.uk/dev/shaders/
-Making annoying rainbows in javascript
-https://krazydad.com/tutorials/makecolors.php
-simple fireworks library
-https://fireworks.js.org/
-https://github.com/crashmax-dev/fireworks-js
-Overlay for running GPU shaders on top of Windows desktop
- github.com/mausimus/ShaderGlass
-превращает звук в иллюстрации
-https://kaleidoskopus.artlebedev.ru/
+### ВЕБГЛ
+* https://thebookofshaders.com/
+* https://www.shadertoy.com/
+  * https://www.shadertoy.com/view/mtyGWy
+  * Искра 1080 Тарту. Демопати! Первые программы на Искре и современном компьютере
+    * https://vk.com/video-226687472_456239049
+  * An introduction to Shader Art Coding
+    * https://www.youtube.com/watch?v=f4s1h2YETNY
+  * https://www.shadertoy.com/view/XXyGzh
+  * https://www.shadertoy.com/view/XsXXDn
+  * An introduction to Raymarching
+    * https://m.youtube.com/watch?v=khblXafu7iA
+* просмотр моделей
+  * https://f3d.app/web/
+  * https://rubenandrebarreiro.github.io/projects/threejs/3d-object-viewer-super-mario-bros/3d-object-viewer-super-mario-bros.html
+* solution to visualize and explore 3D models in your browser
+  * https://3dviewer.net/
+  * https://github.com/kovacsv/Online3DViewer
+* визуализация данных
+  * https://github.com/protectwise/troika
+* демо материалов в 3д
+  * https://lab.julienverneaut.com/matcap-editor/
+* Real-time procedural 3D scene generation using ray marching and distance field
+  * https://www.kevs3d.co.uk/dev/shaders/
+* Making annoying rainbows in javascript
+  * https://krazydad.com/tutorials/makecolors.php
+* simple fireworks library
+  * https://fireworks.js.org/
+  * https://github.com/crashmax-dev/fireworks-js
+* Overlay for running GPU shaders on top of Windows desktop
+  * github.com/mausimus/ShaderGlass
+* превращает звук в иллюстрации
+  * https://kaleidoskopus.artlebedev.ru/
 
-ВИДЕО
-Running .NET on the NES | BRK252
-https://youtu.be/ASTqqvQo0dM
-ACE Engine - крышесносный мод Doom 2 под MS-DOS (Old-Hard №99)
-https://youtu.be/hEBQNq5FiFQ
-Selaco (2024) Early Access. First look & play
-https://www.youtube.com/watch?v=CnMk5BTaPT8
-Half-Life 1 Running on the Quake Engine
-https://www.youtube.com/watch?v=YA9km4aHjzI
-HALF-LIFE running on Quake Engine
-https://www.youtube.com/watch?v=MtkiKKTeSA4
-https://steamcommunity.com/sharedfiles/filedetails/?id=1310587429
-Flash Guitar Hero: Король и Шут - На Краю. Симулятор гитары. Стань Рок Звездой.
-https://youtu.be/Uze57xMz-Nk
-ЧТО СЛУЧИЛОСЬ С FLASH GUITAR HERO
-https://m.youtube.com/watch?v=abuD1A4zowI
-The Timeless Beauty of Pre Rendered Graphics
-https://youtu.be/e3SwbHIPnfo
-20 Games That Defined Windows 95
-https://youtu.be/QQXmcBPrcI4
-25 Games That Defined Windows 3.x
-https://youtu.be/SfL-20hpaNo
-SoundBlaster & DOS Games : 1993 Nostalgia Part 1
-https://youtu.be/-ZgkieQ_VQU
-I made the same game in Assembly, C and C++
-https://youtu.be/2eeXj-ck9VA
-Homebrew Games Summer Showcase 2024 (Runtime 34 mins)
-https://www.youtube.com/watch?v=D5gOTwHBR5s
-Why is Half-Life 2's Beta Remaster So Good?
-https://youtu.be/4Z6qVlg25lY
-1987 Corvette cold startup.
-https://youtu.be/9T3qc7QLg6c
-Wipeout 2097: The Making of an Iconic PlayStation Soundtrack - Noclip Documentary
-https://youtu.be/-nwWpQJFGp8
-Безумный Макс на NES ( Mad Max ) или ГТА для ДЕНДИ
-https://youtu.be/sLoBBSK63bE
-Я прошил Switch. И теперь полюбил его ещё больше.
-https://youtu.be/6SRhAOvCa9s
-A tiny little NES emulator - The PicoNES
-https://youtu.be/S8FETiHaCSc
-Mother - самая необычная игра Nintendo (EarthBound Beginnings)
-https://youtu.be/omTHN7MTc3c
-Running .NET on the NES | BRK252
-https://youtu.be/ASTqqvQo0dM
-ACE Engine - крышесносный мод Doom 2 под MS-DOS (Old-Hard №99)
-https://youtu.be/hEBQNq5FiFQ
-The Microsoft Entertainment Pack - A Retrospective
-https://youtu.be/5ubkp3iTwYA
-Утерянный шедевр: какой была Duke Nukem Forever в 2001 году
-https://stopgame.ru/show/127492/uteryannyy_shedevr_kakoy_byla_duke_nukem_forever_v_2001_godu
-Duke Nukem Forever - E3 1998 Trailer (Found original high quality VHS capture) (60FPS)
-https://youtu.be/Gs7LqrB6rvo
-Getting modern Linux to run on a 2006 Mac Pro
-https://youtu.be/WIc3N22V8ps
-Subor SB 225-B Используем в качестве компьютера
-https://www.youtube.com/watch?v=IH1jC5RK2BI
-Tape loading bootstrapping in pirate Family Basic
-https://www.youtube.com/watch?v=gel78SoqFSA
-Recompilation: An Incredible New Way to Keep N64 Games Alive
-https://youtu.be/ywWwUuWRgsM
-MS-DOS has been Open-Sourced! We Build and Run it!
-https://youtu.be/BR6F0EdyulA
-Can Portal 64 be saved? - Libdragon
-https://youtu.be/WDNU9k8uTc4
-Angry Birds NES HACK
-https://www.youtube.com/watch?v=iXCGmsENCHg
-Most Popular Computer Operating Systems 1985 - 2024
-https://youtu.be/Tjc-qrjzRcU
-600+ DOS Classics: The Ultimate Retro Gaming Journey (1988-1997)
-https://youtu.be/bWFMytEIhsg
-These games were unplayable…UNTIL NOW - PCem
-https://youtu.be/mWEE2RJj3YI
-How to build Homebrew for the GBA | Coding Pong in C
-https://youtu.be/nh0B5qBXPmA
-Top 10 DOS GAMES from 1994
-https://youtu.be/9x9BRX4ptg0
-The best websites for retro fans
-https://youtu.be/fGVI4Zu17RM
-What Does The Windows REFRESH Button Really Do?
-https://youtu.be/TVmLDiXtfIw
-LGR - Best of Windows Entertainment Pack - PC Game Review
-https://youtu.be/IlavFAjBdWo
-Малоизвестные DOS игры отечественного игростроя.
-https://youtu.be/7Le_mLX4qVQ
-Can you fit a whole game into a QR code?
-https://youtu.be/ExwqNreocpg
-LGR - Midtown Madness - PC Game Review
-https://youtu.be/qLfmFLRr4Kk
-https://notin.tokyo/nesos/
-Creating an Operating System for the NES
-https://youtu.be/UTWK_bIJf1U
-Linux Running on an NES?
-https://youtu.be/SVqN_FixG0M
-Programming a 40KB NES Game (in Assembly)
-https://m.youtube.com/watch?v=G0E4u6TuSFo
-[Vinesauce] Joel - Windows 98 On NES
-https://youtu.be/ltGIxLIx3Ac
-Sega MegaDrive Synthesizer, Made From A Sega Mega Drive And GEN MDM
-https://youtu.be/V0kq0yCTpNE
-15 Favourite MS-DOS Games | UNFORGETTABLE MS-DOS Games!!!
-https://youtu.be/eMB5WXEMNIM
-РЕКВИЕМ ПО WINDOWS XP
-https://youtu.be/tBpUfEn1VfA
-Коллекция Elektronika BK-0010 (bk0010) - 11.05.24
-https://youtu.be/QEGfDtxcXW4
-BEST flight sim of 90's! [Cinematic Tribute]
-https://youtu.be/h4F8-cdBNFI
-Старые Игры под DOS (и не только) - Стрим
-https://www.youtube.com/live/itTqgd0LJCo
-16 бит тому назад - idTech1 (Doom) engine
-https://youtu.be/rqx7r8TBsD4
-Flash Games Mattered
-https://youtu.be/uhvey_FjtXA
-Exploring The Old Internet
-https://youtu.be/8ddLUSu6SGE
-Speedrunning
-https://m.youtube.com/watch?v=UDmtJIwSiIc
-These games were unplayable…UNTIL NOW - PCem
-https://youtu.be/mWEE2RJj3YI
+### ВИДЕО
+* Running .NET on the NES | BRK252
+  * https://youtu.be/ASTqqvQo0dM
+* ACE Engine - крышесносный мод Doom 2 под MS-DOS (Old-Hard №99)
+  * https://youtu.be/hEBQNq5FiFQ
+* Selaco (2024) Early Access. First look & play
+  * https://www.youtube.com/watch?v=CnMk5BTaPT8
+* Half-Life 1 Running on the Quake Engine
+  * https://www.youtube.com/watch?v=YA9km4aHjzI
+* HALF-LIFE running on Quake Engine
+  * https://www.youtube.com/watch?v=MtkiKKTeSA4
+  * https://steamcommunity.com/sharedfiles/filedetails/?id=1310587429
+* Flash Guitar Hero: Король и Шут - На Краю. Симулятор гитары. Стань Рок Звездой.
+  * https://youtu.be/Uze57xMz-Nk
+* ЧТО СЛУЧИЛОСЬ С FLASH GUITAR HERO
+  * https://m.youtube.com/watch?v=abuD1A4zowI
+* The Timeless Beauty of Pre Rendered Graphics
+  * https://youtu.be/e3SwbHIPnfo
+* 20 Games That Defined Windows 95
+  * https://youtu.be/QQXmcBPrcI4
+* 25 Games That Defined Windows 3.x
+  * https://youtu.be/SfL-20hpaNo
+* SoundBlaster & DOS Games : 1993 Nostalgia Part 1
+  * https://youtu.be/-ZgkieQ_VQU
+* I made the same game in Assembly, C and C++
+  * https://youtu.be/2eeXj-ck9VA
+* Homebrew Games Summer Showcase 2024 (Runtime 34 mins)
+  * https://www.youtube.com/watch?v=D5gOTwHBR5s
+* Why is Half-Life 2's Beta Remaster So Good?
+  * https://youtu.be/4Z6qVlg25lY
+* 1987 Corvette cold startup.
+  * https://youtu.be/9T3qc7QLg6c
+* Wipeout 2097: The Making of an Iconic PlayStation Soundtrack - Noclip Documentary
+  * https://youtu.be/-nwWpQJFGp8
+* Безумный Макс на NES ( Mad Max ) или ГТА для ДЕНДИ
+  * https://youtu.be/sLoBBSK63bE
+* Я прошил Switch. И теперь полюбил его ещё больше.
+  * https://youtu.be/6SRhAOvCa9s
+* A tiny little NES emulator - The PicoNES
+  * https://youtu.be/S8FETiHaCSc
+* Mother - самая необычная игра Nintendo (EarthBound Beginnings)
+  * https://youtu.be/omTHN7MTc3c
+* Running .NET on the NES | BRK252
+  * https://youtu.be/ASTqqvQo0dM
+* ACE Engine - крышесносный мод Doom 2 под MS-DOS (Old-Hard №99)
+  * https://youtu.be/hEBQNq5FiFQ
+* The Microsoft Entertainment Pack - A Retrospective
+  * https://youtu.be/5ubkp3iTwYA
+* Утерянный шедевр: какой была Duke Nukem Forever в 2001 году
+  * https://stopgame.ru/show/127492/uteryannyy_shedevr_kakoy_byla_duke_nukem_forever_v_2001_godu
+* Duke Nukem Forever - E3 1998 Trailer (Found original high quality VHS capture) (60FPS)
+  * https://youtu.be/Gs7LqrB6rvo
+* Getting modern Linux to run on a 2006 Mac Pro
+  * https://youtu.be/WIc3N22V8ps
+* Subor SB 225-B Используем в качестве компьютера
+  * https://www.youtube.com/watch?v=IH1jC5RK2BI
+* Tape loading bootstrapping in pirate Family Basic
+  * https://www.youtube.com/watch?v=gel78SoqFSA
+* Recompilation: An Incredible New Way to Keep N64 Games Alive
+  * https://youtu.be/ywWwUuWRgsM
+* MS-DOS has been Open-Sourced! We Build and Run it!
+  * https://youtu.be/BR6F0EdyulA
+* Can Portal 64 be saved? - Libdragon
+  * https://youtu.be/WDNU9k8uTc4
+* Angry Birds NES HACK
+  * https://www.youtube.com/watch?v=iXCGmsENCHg
+* Most Popular Computer Operating Systems 1985 - 2024
+  * https://youtu.be/Tjc-qrjzRcU
+* 600+ DOS Classics: The Ultimate Retro Gaming Journey (1988-1997)
+  * https://youtu.be/bWFMytEIhsg
+* These games were unplayable…UNTIL NOW - PCem
+  * https://youtu.be/mWEE2RJj3YI
+* How to build Homebrew for the GBA | Coding Pong in C
+  * https://youtu.be/nh0B5qBXPmA
+* Top 10 DOS GAMES from 1994
+  * https://youtu.be/9x9BRX4ptg0
+* The best websites for retro fans
+  * https://youtu.be/fGVI4Zu17RM
+* What Does The Windows REFRESH Button Really Do?
+  * https://youtu.be/TVmLDiXtfIw
+* LGR - Best of Windows Entertainment Pack - PC Game Review
+  * https://youtu.be/IlavFAjBdWo
+* Малоизвестные DOS игры отечественного игростроя.
+  * https://youtu.be/7Le_mLX4qVQ
+* Can you fit a whole game into a QR code?
+  * https://youtu.be/ExwqNreocpg
+* LGR - Midtown Madness - PC Game Review
+  * https://youtu.be/qLfmFLRr4Kk
+* Creating an Operating System for the NES
+  * https://youtu.be/UTWK_bIJf1U
+  * https://notin.tokyo/nesos/
+* Linux Running on an NES?
+  * https://youtu.be/SVqN_FixG0M
+* Programming a 40KB NES Game (in Assembly)
+  * https://m.youtube.com/watch?v=G0E4u6TuSFo
+* [Vinesauce] Joel - Windows 98 On NES
+  * https://youtu.be/ltGIxLIx3Ac
+* Sega MegaDrive Synthesizer, Made From A Sega Mega Drive And GEN MDM
+  * https://youtu.be/V0kq0yCTpNE
+* 15 Favourite MS-DOS Games | UNFORGETTABLE MS-DOS Games!!!
+  * https://youtu.be/eMB5WXEMNIM
+* РЕКВИЕМ ПО WINDOWS XP
+  * https://youtu.be/tBpUfEn1VfA
+* Коллекция Elektronika BK-0010 (bk0010) - 11.05.24
+  * https://youtu.be/QEGfDtxcXW4
+* BEST flight sim of 90's! [Cinematic Tribute]
+  * https://youtu.be/h4F8-cdBNFI
+* Старые Игры под DOS (и не только) - Стрим
+  * https://www.youtube.com/live/itTqgd0LJCo
+* 16 бит тому назад - idTech1 (Doom) engine
+  * https://youtu.be/rqx7r8TBsD4
+* Flash Games Mattered
+  * https://youtu.be/uhvey_FjtXA
+* Exploring The Old Internet
+  * https://youtu.be/8ddLUSu6SGE
+* Speedrunning
+  * https://m.youtube.com/watch?v=UDmtJIwSiIc
+* These games were unplayable…UNTIL NOW - PCem
+  * https://youtu.be/mWEE2RJj3YI
 
-ВАРЕЗ
-файлообменник
-https://rapidgators.net/
-игры
-zap-search.onrender.com
-всё
-https://rutracker.org/
-фильмы
-popcorn time
-https://4pda.to/forum/index.php?showtopic=572424&st=120
-https://jacred.xyz/
-сериалы
-https://ru3.seasonvar.nl/
-книги научные
-https://sci-hub.wf/
-https://libgen.li/
-libgen.io книги научные — не работает
-книги
-http://flibusta.is/
-	https://flibusta.su/ — была ссылка на литрес, видимо скам
-http://booktracker.org/
-bookfi.net — не работает
-b-ok.org — не работает
-b-ok.cc — не работает
-bookre.org — не работает
-электронная библиотека, предоставляющая пользователям возможность читать и скачивать тексты книг
-https://lib.rus.ec/
-крупнейшая по-настоящему открытая библиотека в истории человечества
-https://ru.annas-archive.org/
+### ВАРЕЗ
+* файлообменник
+  * https://rapidgators.net/
+* игры
+  * zap-search.onrender.com
+* всё
+  * https://rutracker.org/
+* фильмы
+  * popcorn time
+  * https://4pda.to/forum/index.php?showtopic=572424&st=120
+  * https://jacred.xyz/
+* сериалы
+  * https://ru3.seasonvar.nl/
+* книги научные
+  * https://sci-hub.wf/
+  * https://libgen.li/
+  * libgen.io — не работает
+* книги
+  * http://flibusta.is/
+  * https://flibusta.su/ — была ссылка на литрес, видимо скам
+  * http://booktracker.org/
+  * bookfi.net — не работает
+  * b-ok.org — не работает
+  * b-ok.cc — не работает
+  * bookre.org — не работает
+  * электронная библиотека, предоставляющая пользователям возможность читать и скачивать тексты книг
+    * https://lib.rus.ec/
+* крупнейшая по-настоящему открытая библиотека в истории человечества
+  * https://ru.annas-archive.org/
 
-wiki dedicated to cataloging the tricks of the trade for writing fiction, also called 'Tropes.'
-https://tvtropes.org
+### memes
+* wiki dedicated to cataloging the tricks of the trade for writing fiction, also called 'Tropes.'
+  * https://tvtropes.org
+* website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more
+  * https://knowyourmeme.com/
+* неформальная, неформатная, фривольная и юмористическая интернет-энциклопедия на русском языке
+  * https://neolurk.org/
 
-история
-«Энциклопедия профессора Фортрана»: вспоминаем легендарную книгу из детства миллениалов
-https://habr.com/ru/companies/ruvds/articles/856730/
-Андрей Зарецкий, Александр Труханов: «Гонорара хватило, чтобы кофе попить»
-https://habr.com/ru/companies/dataart/articles/490092/
-Андрей Зарецкий, Александр Труханов (продолжение): «У нас не было имени, но была наглость»
-https://habr.com/ru/companies/dataart/articles/490918/
-«Энциклопедия профессора Фортрана». Беседа и автограф-сессия |Демодуляция 2023
-https://www.youtube.com/watch?v=LfmjHZCovFg
-в какой кодировке
-https://bolknote.ru/all/v-kakoy-kodirovke/
-Книги, по которым мы в детстве учили программирование и будем учить детей
-https://habr.com/ru/articles/265787/
-Основы информатики и вычислительной техники. Школьный компьютер (1989)
-https://www.youtube.com/watch?v=v4qRs0VbHa8
-Александр Чудов
-https://bootleggames.fandom.com/ru/wiki/%D0%A7%D1%83%D0%B4%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87
-https://youtu.be/XLofVRwxArc
-http://oldcityretrogames.ru/publ/stati/tribute/intervju_voprosy_portala_tv_games_k_aleksandru_chudovu/126-1-0-1105
+### история
+* книга история Смешариков
+  * https://books.yandex.ru/books/WJDOoXfD
+* Filmmaking Process
+  * https://disneyanimation.com/process/
 
-MS-DOS: 5 generations of gaming
-http://heroquest.no-ip.com/dgi/
-http://heroquest.no-ip.com/dgi/5gen/
+#### история игр
+* Video Game History Foundation Library
+  * https://library.gamehistory.org/
+  * https://t.me/yellow_room_nerdcave/1160
+* rapid era of progress in video game design that created the modern arcade classics we know and love
+  * https://8bitworkshop.com/docs/posts/2017/sincere-flattery-arcade-industry.html
+* MS-DOS: 5 generations of gaming
+  * http://heroquest.no-ip.com/dgi/
+  * http://heroquest.no-ip.com/dgi/5gen/
+* Игры, в которые Nintendo не хотела дать поиграть: Tengen
+  * https://habr.com/ru/articles/665140/
+* Как создавалась музыка для Super Nintendo
+  * https://youtu.be/jvIzIAgRWV0
+* звук в играх
+  * https://sounddesigninstitute.ru/article-interactivesound
+  * https://15kop.ru/tpost/prj7sxgt01-365-bit-kak-zvuchit-muzei
+* история разработки half life
+  * https://vk.com/video26752055_456241944
+* история разработки half life 2
+  * https://youtu.be/TmZJsHg_AmM
+  * https://vk.com/video-80941151_456239872
+* GoldSrc Forever - A Half-Life 20th Anniversary Tribute
+  * https://m.youtube.com/watch?v=OY2_53oydbM
+  * https://vkvideo.ru/video85383403_456243888
+* three decades of doom
+  * https://vk.com/video-153527564_456239692
+* RetroAhoy: Quake
+  * https://youtu.be/OipJYWhMi3k
+  * https://vk.com/video294615444_456240338
+* история разработки макс пейн
+  * https://dtf.ru/games/751002-maksimalnaya-bol-kak-sozdavalsya-max-payne
+* сэм Лейк
+  * https://dtf.ru/gameindustry/56547-20-let-eksperimentov-karera-sema-leika?ref=dtf.ru
+* half life e3 2002
+  * https://vkvideo.ru/video-27199_456239104
+* е3 анрил инджайн
+  * https://vk.com/video-53873501_456247414
+* демо от авторов Макса Пейна
+  * https://vk.com/video-146748184_456239058
+* дюк нюкем форевер
+  * https://dtf.ru/games/1187350-dyuk-kotoryi-tak-i-ne-vyshel-iz-striptiz-bara-duke-nukem-forever-2001
+  * https://dtf.ru/games/1190762-dzhvadcat-let-spustya-pervyi-vzglyad-na-duke-nukem-forever-2001
+  * https://dtf.ru/games/1189501-v-seti-opublikovali-bild-duke-nukem-forever-2001-goda
+* дюк нюкем
+  * https://advsys.net/ken/default.htm
+* история разработки халвы
+  * https://habr.com/ru/articles/397867/
+  * https://habr.com/ru/articles/372747/
+* Гейб Вальв
+  * https://dtf.ru/s/590518-yakor/2313149-kak-geib-sozdal-samuyu-pofigisticheskuyu-igrovuyu-kompaniyu
+* гта
+  * https://dtf.ru/gamedev/93505-grand-theft-auto
+* история rockstar games
+  * https://vkvideo.ru/video/playlist/-17833376_41591873
+* детали гта Вайс сити
+  * https://t.me/GamerOldfag/1336
+* From GTA to Absurd Ventures: Lazlow Interview - Kinda Funny Gamescast
+  * https://www.youtube.com/live/CfSBLC2LIWw
+* история нфс
+  * https://t.me/yandexmuseum/1491
+  * https://dtf.ru/games/970278-istoriya-serii-need-for-speed-chast-1
+* история игр
+  * https://vkvideo.ru/video/playlist/-17833376_37084720
+* каратека
+  * https://www.jordanmechner.com/en/games-movies/karateka/
+* Classic Game Postmortem: 'Karateka'
+  * https://www.youtube.com/watch?v=mHc2iCfDoro
+* История успеха Splinter Cell
+  * https://youtu.be/JGWs8-LhP20
+* ФЕНОМЕН ALAWAR: ФАБРИКА ИГР
+  * https://youtu.be/pD4fonNwflU
+* ЭПОХА ПОРТАТИВОК: ПОЛНАЯ ИСТОРИЯ
+  * https://vk.com/video-204041665_456373608
+  * https://youtu.be/bApmW1hnAB4
+* Мишки на сервере | Честный сериал о киберспорте | Серия 1 — У нас в клубе
+  * https://pikabu.ru/story/mishki_na_servere__kak_myi_snyali_kino_o_geymerakh_vmeste_s_pikabu_11001270
+  * https://vk.com/video-197307258_456239078
+  * https://www.youtube.com/watch?v=fQNa0hENChs
+  * https://www.kinopoisk.ru/user/4267611/comment/3327701/
+* they keep saying these are the best graphics yet...
+  * https://vk.com/video-196890253_456240524
+  * https://youtu.be/O1zyy3_Zux4
+* "realistic" graphics aren't about "graphics"
+  * https://youtu.be/wAiiDncL8zM
 
-компьютерные клубы
-https://www.proplay.ru/clubs/
-https://www.proplay.ru/clubs/voronej/quad/
-«Игровухи» — история компьютерных клубов в России
-https://habr.com/ru/companies/vdsina/articles/554230/
+#### Энциклопедия профессора Фортрана
+* «Энциклопедия профессора Фортрана»: вспоминаем легендарную книгу из детства миллениалов
+  * https://habr.com/ru/companies/ruvds/articles/856730/
+* Андрей Зарецкий, Александр Труханов: «Гонорара хватило, чтобы кофе попить»
+  * https://habr.com/ru/companies/dataart/articles/490092/
+* Андрей Зарецкий, Александр Труханов (продолжение): «У нас не было имени, но была наглость»
+  * https://habr.com/ru/companies/dataart/articles/490918/
+* «Энциклопедия профессора Фортрана». Беседа и автограф-сессия |Демодуляция 2023
+  * https://www.youtube.com/watch?v=LfmjHZCovFg
+* в какой кодировке
+  * https://bolknote.ru/all/v-kakoy-kodirovke/
 
-От мышей на экране до zip-бомбы: топ приложений-шуток из начала нулевых
-https://habr.com/ru/companies/ru_mts/articles/856866/
-Как я писал «Вирус-бякус» на Delphi (шутка родом из конца 90-х)
-https://habr.com/ru/articles/857392/
+#### история русских игр
+* Книги, по которым мы в детстве учили программирование и будем учить детей
+  * https://habr.com/ru/articles/265787/
+* Основы информатики и вычислительной техники. Школьный компьютер (1989)
+  * https://www.youtube.com/watch?v=v4qRs0VbHa8
+* Александр Чудов
+  * https://bootleggames.fandom.com/ru/wiki/Чудов,_Александр_Витальевич
+  * https://youtu.be/XLofVRwxArc
+  * http://oldcityretrogames.ru/publ/stati/tribute/intervju_voprosy_portala_tv_games_k_aleksandru_chudovu/126-1-0-1105
+* книга время игр
+  * https://books.yandex.ru/books/QHMsZurg
+* книга история российских компьютерных игр
+  * https://ozon.ru/t/LwMQdM8
+* тут очень много интересной инфы по историю игр внизу ссылки
+  * https://media.vkplay.ru/articles/feat/luchshe_poguglit/
+* история советских игровых автоматов
+  * https://games.mail.ru/pc/articles/feat/igraj_kak_v_sssr/
+* история тетриса
+  * https://www.igromania.ru/article/11612/Istoriya_tetrisa_Kak_yeto_bylo_na_samom_dele.html
+* интервью с создателем бренда Dendy
+  * https://dtf.ru/gamedev/11917-ya-boyalsya-chto-nazvanie-budut-chitat-kak-dendyu-intervyu-s-sozdatelem-brenda-dendy
+* История Nikita Online — первой российской игровой компании
+  * https://vkplay.ru/media/feat/istorija_stanovlenija_nikita_online_pervoj_rossijskoj_igrovoj_kompanii
+* история компании бука
+  * https://www.igromania.ru/article/24575/Buka_ot_nachala_i_do_nashih_dney.html
+* история game insight
+  * https://vc.ru/story/11421-game-insight-interview
+* история Акеллы
+  * https://games.mail.ru/pc/articles/feat/arhipov_prototip_korsarov_delalsja_dlja_chechenskih_banditov
+  * https://dtf.ru/flood/18769-korsary-akella-i-fargus-beseda-s-dmitriem-arhipovym
+* Олег Медокс
+  * https://www.youtube.com/watch?v=KxK20JJ6lmI
+  * https://vkvideo.ru/video304341804_456239168
+* история wargaming
+  * https://secretmag.ru/business/trade-secret/vekhali-na-tanke-kak-belorusy-iz-wargaming-pokoril-mir-svoei-world-of-tanks.htm
+* история zeptolab
+  * https://www.the-village.ru/village/business/story/150219-zeptolab
+* История Gaijin Entertainment
+  * https://vc.ru/flood/14486-gaijin-interview
+* История Best Way и «В тылу врага»
+  * https://vc.ru/story/37375-razrabotka-odnopolzovatelskoy-strategii-seychas-stoit-bolshe-1-mln-intervyu-s-sozdatelem-v-tylu-vraga
+* История создания «Сталкера»
+  * https://games.mail.ru/pc/articles/feat/istorija_razrabotki_s_t_a_l_k_e_r_shadow_of_chernobyl/
+* История создания Parkan
+  * https://www.gamexp.com/ru/articles/20170412-parkan-skvoz-vremya-istoriya-sozdaniya-kultovoj-igry/
+* История создания «Аллодов»
+  * https://games.mail.ru/pc/articles/feat/kak_sozdavalis_allody_pechat_tajny/
+* История «Космических рейнджеров»
+  * https://habr.com/post/177819/
+* Рассказ о том, как устроены локализации
+  * https://games.mail.ru/pc/articles/feat/istorija_russkih_lokalizacij_ot_fargusa_do_nashih_dnej/
+* Становление российского киберспорта
+  * https://www.cybersport.ru/news/istoriya-kibersporta-rossiyskogo-chast-i-dalekie-90-e
+  * https://www.cybersport.ru/news/istoriya-kibersporta-rossiyskogo-ot-milleniuma-do-priznaniya
+* Геймдев-образование в России
+  * https://gdcuffs.com/gamedev-edu/
+* Интервью Игоря Исупова (Game.EXE)
+  * https://kanobu.ru/articles/intervyu-igor-isupov-362831/
+* История DTF.ru: первая статья и вторая статья
+  * https://vc.ru/story/11593-dtf-interview
+  * https://vc.ru/flood/29576-u-nas-slozhilas-reputaciya-industrialnogo-resursa-na-kotorom-nado-prisutstvovat
+* История «Игромании» (лучше найдите 200-й номер)
+  * http://trial-news.ru/obshestvo/evgeniy-isupov-sashe-kuzmenko-ya-posylal-dengi-chasche-drugih/
+* История конференции DevGAMM
+  * https://vc.ru/flood/16189-mallaeva-view
+* Адовая кухня
+  * https://podtail.com/podcast/%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD/
+  * https://dtf.ru/cinema/2166421-obzor-dokumentalnogo-seriala-istoriya-rossiiskih-kompyuternyh-igr
+* Как создавались русские эротические игры
+  * https://media.vkplay.ru/articles/feat/kak_sozdavalys_russike_eroticheskie_igry/
+  * https://pikabu.ru/story/kak_kompyuternaya_igra_kemerovskogo_bukhgaltera_vyirosla_v_mnogomilliardnuyu_industriyu_7532717?ref=dtf.ru
+  * https://dtf.ru/u/117230-mobail/49946-kak-ledency-zamenili-almazy-evolyuciya-zhanra-tri-v-ryad
+* жёлчи
+  * https://dtf.ru/avi/1509456-istoriya-studii-burut-ct-chast-1
+  * https://dtf.ru/avi/1524141-smert-studii-burut-ct-chast-2
+  * https://stopgame.ru/blogs/topic/112686/smert_studii_world_forge
+* Project Overdrive — ностальгическая ретроспектива на одну из самых перспективных игр отечественного геймдева
+  * https://habr.com/ru/articles/685754/
+  * https://www.igromania.ru/news/15401/Project_Overdrive-kirdyk_podkralsya_nezametno.html
+* atomic heart
+  * https://vk.com/@catgeeks-atomic-heart-ili-kak-zabilos-serdce-russkogo-geimdeva
+  * https://vk.com/wall-187992595_124288
+  * https://www.youtube.com/watch?v=tND89bKRPZE
+  * https://vk.com/video-187992595_456241299
+  * https://stopgame.ru/show/130634/ambicioznye_otechestvennye_igry_kotorye_nikogda_ne_vyydut
+* Русские игры, которые рассказывают о нас: путь от провалов к шедеврам
+  * https://habr.com/ru/companies/ruvds/articles/875100/
+* Как создавали Корсаров
+  * https://habr.com/ru/companies/timeweb/articles/798931/
+* История создания «Корсаров 2» ака «Пираты Карибского моря»
+  * https://habr.com/ru/companies/timeweb/articles/813497/
+* Как создавали «Корсары 3»
+  * https://habr.com/ru/companies/timeweb/articles/835242/
+* «Корсары». Дополнения и модификации
+  * https://habr.com/ru/companies/timeweb/articles/876568/
+* Интервью с Вячеславом Письменным, автором игры «Петька и Василий Иванович спасают галактику»
+  * https://www.old-games.ru/forum/threads/intervju-s-vjacheslavom-pismennym-avtorom-igry-petka-i-vasilij-ivanovich-spasajut-galaktiku.96556/
+* Капитан Блад: дата релиза — 6 мая
+  * https://t.me/stopgameru/12777
+* Российские компьютерные игры 90-х годов
+  * https://habr.com/ru/companies/ruvds/articles/683564/
+  * https://habr.com/ru/company/ruvds/blog/684796/
+  * https://habr.com/ru/company/ruvds/blog/686100/
+  * https://habr.com/ru/company/ruvds/blog/687442/
 
-rapid era of progress in video game design that created the modern arcade classics we know and love
-https://8bitworkshop.com/docs/posts/2017/sincere-flattery-arcade-industry.html
-Игры, в которые Nintendo не хотела дать поиграть: Tengen
-https://habr.com/ru/articles/665140/
-Как создавалась музыка для Super Nintendo
-https://youtu.be/jvIzIAgRWV0
-звук в играх
-https://sounddesigninstitute.ru/article-interactivesound
-https://15kop.ru/tpost/prj7sxgt01-365-bit-kak-zvuchit-muzei
-история разработки half life
-https://vk.com/video26752055_456241944
-история разработки half life 2
-https://youtu.be/TmZJsHg_AmM
-https://vk.com/video-80941151_456239872
-GoldSrc Forever - A Half-Life 20th Anniversary Tribute
-https://m.youtube.com/watch?v=OY2_53oydbM
-https://vkvideo.ru/video85383403_456243888
-three decades of doom
-https://vk.com/video-153527564_456239692
-RetroAhoy: Quake
-https://youtu.be/OipJYWhMi3k
-https://vk.com/video294615444_456240338
+#### компьютерные клубы
+* «Игровухи» — история компьютерных клубов в России
+  * https://habr.com/ru/companies/vdsina/articles/554230/
+* https://www.proplay.ru/clubs/
+  * https://www.proplay.ru/clubs/voronej/quad/
 
-Filmmaking Process
-https://disneyanimation.com/process/
-Video Game History Foundation Library
-https://library.gamehistory.org/
-https://t.me/yellow_room_nerdcave/1160
+#### розыгрыши
+* От мышей на экране до zip-бомбы: топ приложений-шуток из начала нулевых
+  * https://habr.com/ru/companies/ru_mts/articles/856866/
+* Как я писал «Вирус-бякус» на Delphi (шутка родом из конца 90-х)
+  * https://habr.com/ru/articles/857392/
 
-история разработки макс пейн
-https://dtf.ru/games/751002-maksimalnaya-bol-kak-sozdavalsya-max-payne
-сэм Лейк
-https://dtf.ru/gameindustry/56547-20-let-eksperimentov-karera-sema-leika?ref=dtf.ru
-half life e3 2002
-https://vkvideo.ru/video-27199_456239104
-е3 анрил инджайн
-https://vk.com/video-53873501_456247414
-демо от авторов Макса Пейна
-https://vk.com/video-146748184_456239058
-дюк нюкем форевер
-https://dtf.ru/games/1187350-dyuk-kotoryi-tak-i-ne-vyshel-iz-striptiz-bara-duke-nukem-forever-2001
-https://dtf.ru/games/1190762-dzhvadcat-let-spustya-pervyi-vzglyad-na-duke-nukem-forever-2001
-https://dtf.ru/games/1189501-v-seti-opublikovali-bild-duke-nukem-forever-2001-goda
-дюк нюкем
-https://advsys.net/ken/default.htm
-история разработки халвы
-https://habr.com/ru/articles/397867/
-https://habr.com/ru/articles/372747/
-Гейб Вальв
-https://dtf.ru/s/590518-yakor/2313149-kak-geib-sozdal-samuyu-pofigisticheskuyu-igrovuyu-kompaniyu
-гта
-https://dtf.ru/gamedev/93505-grand-theft-auto
-история rockstar games
-https://vkvideo.ru/video/playlist/-17833376_41591873
-детали гта Вайс сити
-https://t.me/GamerOldfag/1336
-From GTA to Absurd Ventures: Lazlow Interview - Kinda Funny Gamescast
-https://www.youtube.com/live/CfSBLC2LIWw
-история нфс
-https://t.me/yandexmuseum/1491
-https://dtf.ru/games/970278-istoriya-serii-need-for-speed-chast-1
-история игр
-https://vkvideo.ru/video/playlist/-17833376_37084720
-каратека
-https://www.jordanmechner.com/en/games-movies/karateka/
-Classic Game Postmortem: 'Karateka'
-https://www.youtube.com/watch?v=mHc2iCfDoro
-История успеха Splinter Cell
-https://youtu.be/JGWs8-LhP20
-ФЕНОМЕН ALAWAR: ФАБРИКА ИГР
-https://youtu.be/pD4fonNwflU
+#### PlayStation history
+* http://playstation.com/ru-ru/playstation-history/1994-ps-one/
+* https://blog.playstation.com/2019/12/05/how-takafumi-fujisawa-created-the-original-playstations-startup-sound/
 
-книга история Смешариков
-https://books.yandex.ru/books/WJDOoXfD
-книга время игр
-https://books.yandex.ru/books/QHMsZurg
-книга история российских компьютерных игр
-https://ozon.ru/t/LwMQdM8
-
-ЭПОХА ПОРТАТИВОК: ПОЛНАЯ ИСТОРИЯ
-https://vk.com/video-204041665_456373608
-* https://youtu.be/bApmW1hnAB4
-* https://pikabu.ru/story/mishki_na_servere__kak_myi_snyali_kino_o_geymerakh_vmeste_s_pikabu_11001270
-Мишки на сервере | Честный сериал о киберспорте | Серия 1 — У нас в клубе
-https://vk.com/video-197307258_456239078
-* https://www.youtube.com/watch?v=fQNa0hENChs
-https://www.kinopoisk.ru/user/4267611/comment/3327701/
-
-they keep saying these are the best graphics yet...
-https://vk.com/video-196890253_456240524
-* https://youtu.be/O1zyy3_Zux4
-"realistic" graphics aren't about "graphics"
-* https://youtu.be/wAiiDncL8zM
-
-тут очень много интересной инфы по историю игр внизу ссылки
-https://media.vkplay.ru/articles/feat/luchshe_poguglit/
-история советских игровых автоматов
-https://games.mail.ru/pc/articles/feat/igraj_kak_v_sssr/
-история тетриса
-https://www.igromania.ru/article/11612/Istoriya_tetrisa_Kak_yeto_bylo_na_samom_dele.html
-интервью с создателем бренда Dendy
-https://dtf.ru/gamedev/11917-ya-boyalsya-chto-nazvanie-budut-chitat-kak-dendyu-intervyu-s-sozdatelem-brenda-dendy
-История Nikita Online — первой российской игровой компании
-https://vkplay.ru/media/feat/istorija_stanovlenija_nikita_online_pervoj_rossijskoj_igrovoj_kompanii
-история компании бука
-https://www.igromania.ru/article/24575/Buka_ot_nachala_i_do_nashih_dney.html
-история game insight
-https://vc.ru/story/11421-game-insight-interview
-история Акеллы
-https://games.mail.ru/pc/articles/feat/arhipov_prototip_korsarov_delalsja_dlja_chechenskih_banditov
-https://dtf.ru/flood/18769-korsary-akella-i-fargus-beseda-s-dmitriem-arhipovym
-Олег Медокс
-https://www.youtube.com/watch?v=KxK20JJ6lmI
-https://vkvideo.ru/video304341804_456239168
-история wargaming
-https://secretmag.ru/business/trade-secret/vekhali-na-tanke-kak-belorusy-iz-wargaming-pokoril-mir-svoei-world-of-tanks.htm
-история zeptolab
-https://www.the-village.ru/village/business/story/150219-zeptolab
-История Gaijin Entertainment
-https://vc.ru/flood/14486-gaijin-interview
-История Best Way и «В тылу врага»
-https://vc.ru/story/37375-razrabotka-odnopolzovatelskoy-strategii-seychas-stoit-bolshe-1-mln-intervyu-s-sozdatelem-v-tylu-vraga
-История создания «Сталкера»
-https://games.mail.ru/pc/articles/feat/istorija_razrabotki_s_t_a_l_k_e_r_shadow_of_chernobyl/
-История создания Parkan
-https://www.gamexp.com/ru/articles/20170412-parkan-skvoz-vremya-istoriya-sozdaniya-kultovoj-igry/
-История создания «Аллодов»
-https://games.mail.ru/pc/articles/feat/kak_sozdavalis_allody_pechat_tajny/
-История «Космических рейнджеров»
-https://habr.com/post/177819/
-Рассказ о том, как устроены локализации
-https://games.mail.ru/pc/articles/feat/istorija_russkih_lokalizacij_ot_fargusa_do_nashih_dnej/
-Становление российского киберспорта
-https://www.cybersport.ru/news/istoriya-kibersporta-rossiyskogo-chast-i-dalekie-90-e
-https://www.cybersport.ru/news/istoriya-kibersporta-rossiyskogo-ot-milleniuma-do-priznaniya
-Геймдев-образование в России
-https://gdcuffs.com/gamedev-edu/
-Интервью Игоря Исупова (Game.EXE)
-https://kanobu.ru/articles/intervyu-igor-isupov-362831/
-История DTF.ru: первая статья и вторая статья
-https://vc.ru/story/11593-dtf-interview
-https://vc.ru/flood/29576-u-nas-slozhilas-reputaciya-industrialnogo-resursa-na-kotorom-nado-prisutstvovat
-История «Игромании» (лучше найдите 200-й номер)
-http://trial-news.ru/obshestvo/evgeniy-isupov-sashe-kuzmenko-ya-posylal-dengi-chasche-drugih/
-История конференции DevGAMM
-https://vc.ru/flood/16189-mallaeva-view
-Адовая кухня
-https://podtail.com/podcast/%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD/
-https://dtf.ru/cinema/2166421-obzor-dokumentalnogo-seriala-istoriya-rossiiskih-kompyuternyh-igr
-Как создавались русские эротические игры
-https://media.vkplay.ru/articles/feat/kak_sozdavalys_russike_eroticheskie_igry/
-https://pikabu.ru/story/kak_kompyuternaya_igra_kemerovskogo_bukhgaltera_vyirosla_v_mnogomilliardnuyu_industriyu_7532717?ref=dtf.ru
-https://dtf.ru/u/117230-mobail/49946-kak-ledency-zamenili-almazy-evolyuciya-zhanra-tri-v-ryad
-жёлчи
-https://dtf.ru/avi/1509456-istoriya-studii-burut-ct-chast-1
-https://dtf.ru/avi/1524141-smert-studii-burut-ct-chast-2
-https://stopgame.ru/blogs/topic/112686/smert_studii_world_forge
-Project Overdrive — ностальгическая ретроспектива на одну из самых перспективных игр отечественного геймдева
-https://habr.com/ru/articles/685754/
-https://www.igromania.ru/news/15401/Project_Overdrive-kirdyk_podkralsya_nezametno.html
-atomic heart
-https://vk.com/@catgeeks-atomic-heart-ili-kak-zabilos-serdce-russkogo-geimdeva
-https://vk.com/wall-187992595_124288
-https://www.youtube.com/watch?v=tND89bKRPZE
-https://vk.com/video-187992595_456241299
-https://stopgame.ru/show/130634/ambicioznye_otechestvennye_igry_kotorye_nikogda_ne_vyydut
-Русские игры, которые рассказывают о нас: путь от провалов к шедеврам
-https://habr.com/ru/companies/ruvds/articles/875100/
-Как создавали Корсаров
-https://habr.com/ru/companies/timeweb/articles/798931/
-История создания «Корсаров 2» ака «Пираты Карибского моря»
-https://habr.com/ru/companies/timeweb/articles/813497/
-Как создавали «Корсары 3»
-https://habr.com/ru/companies/timeweb/articles/835242/
-«Корсары». Дополнения и модификации
-https://habr.com/ru/companies/timeweb/articles/876568/
-Интервью с Вячеславом Письменным, автором игры «Петька и Василий Иванович спасают галактику»
-https://www.old-games.ru/forum/threads/intervju-s-vjacheslavom-pismennym-avtorom-igry-petka-i-vasilij-ivanovich-spasajut-galaktiku.96556/
-Капитан Блад: дата релиза — 6 мая
-https://t.me/stopgameru/12777
-Российские компьютерные игры 90-х годов
-https://habr.com/ru/companies/ruvds/articles/683564/
-https://habr.com/ru/company/ruvds/blog/684796/
-https://habr.com/ru/company/ruvds/blog/686100/
-https://habr.com/ru/company/ruvds/blog/687442/
-
-PlayStation history
-http://playstation.com/ru-ru/playstation-history/1994-ps-one/
-https://blog.playstation.com/2019/12/05/how-takafumi-fujisawa-created-the-original-playstations-startup-sound/
-
-о взломе приставок
-* https://youtu.be/nixuLZvsiWA сонька
+### о взломе приставок
+* https://youtu.be/nixuLZvsiWA сони
 * https://youtu.be/hwzqUiyqHeA хбох
-* https://youtu.be/YYOiIDnYJMw нинтенда 
-* https://youtu.be/hNFBzlGZWDM нинтенда ещё
+* https://youtu.be/YYOiIDnYJMw нинтендо 
+  * https://youtu.be/hNFBzlGZWDM
 * https://tapochek.net/viewtopic.php?t=263686&start=0 пс5
 
-Delisted Games
-https://delistedgames.com/
+#### Delisted Games
+* https://delistedgames.com/
 
-list of /uses pages detailing developer setups, gear, software and configs
-https://uses.tech/
-https://wesbos.com/uses
-https://jakubsoboczynski.pl/uses/
-https://agustinvaleriani.com/uses
+### list of /uses pages detailing developer setups, gear, software and configs
+* https://uses.tech/
+  * https://wesbos.com/uses
+  * https://jakubsoboczynski.pl/uses/
+  * https://agustinvaleriani.com/uses
 
-ЛЮДИ
-- https://t.me/GamerOldfag
-https://t.me/gamebase54
-https://pikabu.ru/@Carter54
-https://t.me/doszonechat
-- https://t.me/karnovdima/113
-Собрал вам список (да) 📱-каналов бывших и нынешних ЭсГешников (тех, кто работал или работает на StopGame.ru прямо сейчас)
-- Дмитрий Бурдуков
-https://t.me/flynn101
-- Александр Вилисов
-https://t.me/wes_play
-- Михаил Галкин
-https://t.me/galkin_tg
-- Василий Гальперов
-https://t.me/galperia
-- Семён Окороков
-https://t.me/greengreenproTWITCH
-- Кирилл Орешкин
-https://t.me/kiroreshkin
-- Катерина Краснопольская
-https://t.me/kaite_somestuff
-- Денис Карамышев
-https://t.me/twitch_skip_sg
-- Дмитрий Карнов
-https://t.me/karnovdima
-https://stopgame.ru/user/d0lphin/
-- Дмитрий Кунгуров
-https://t.me/ninesixteen
-- Андрей Маковеев
-https://t.me/haroldofrovia
-- Глеб Мещеряков
-https://t.me/chelovekgleb
-- Василий Русяев
-https://t.me/s/rusyaichtelega
-- Владимир Сечкарёв
-https://t.me/nooneshouldeverwork
-- Константин Тростенюк
-https://t.me/s/cosmicorigin
-- Ярослав Шалашов
-https://t.me/yashalashov
-https://t.me/cosmicorigin
-- https://boosty.to/shiru8bit/about
-Стена в ретро-зоне Игропрома
-- https://t.me/oldhard_news/584
-- https://vk.com/oldschooltavern
-https://vk.com/nekketsu
-https://vk.com/chaosconstructions
-https://t.me/chaosconstructionsnews
-https://vk.com/stopgameru
-https://vk.com/console_patrol
-https://vk.com/romhack
-https://vk.com/pxldevil
-https://t.me/pxldevil
-https://vk.com/nostalgic2
-https://vk.com/dendynn
-https://vk.com/old_hard
-https://vk.com/kinamania
-https://t.me/kinamania_channel
-https://vk.com/15kop
-https://vk.com/old_games
-Old-Hard и другие проекты Newbilius'а
-https://t.me/oldhard_news
-https://vk.com/old_hard
-https://vk.com/my_videogame
-https://t.me/retrogamespub
-https://t.me/ivanpokupala
-https://t.me/pocket_rg
-https://t.me/pyxelfrog
-https://t.me/dartemugamer
-https://t.me/spacewolfblog
-https://t.me/retrodrom
-https://m.vk.com/retrogeekblog
-https://t.me/addlist/qgux9R48RKJlMWEy
-https://t.me/yellow_room_nerdcave
-https://t.me/retrodevicesnerd
-https://t.me/ADFplays
-https://t.me/progamedev/
-https://t.me/igrozhur
-https://t.me/dzhvagoda
-https://t.me/igrazhur
-https://t.me/magazine2cd
-https://t.me/retro_museum
-https://boosty.to/dbachilo
-https://t.me/gamingza30
-https://m.vk.com/randoms
-https://t.me/RetroGamingNaBalkone
-https://m.vk.com/justevgentube
-https://t.me/podval4ikshow
-https://dzen.ru/retrogaming
-https://t.me/unforget_games
-https://t.me/gamingbackstage
-https://t.me/cooleach_timetravel
-https://t.me/zoneofgames
-https://t.me/mostcuser
-https://t.me/RetroKhrapov
-https://t.me/hyperduh
-https://t.me/viperlong/
-https://youtube.com/@gstchannelvevo
-https://youtube.com/@PodcastOGRU
-* https://youtube.com/@Newbilius
-	* https://youtube.com/@Newbilius_SecondChannel
+### ЛЮДИ
+* https://habr.com/ru/hubs/games/articles/
+* https://habr.com/ru/hubs/antikvariat/articles/
+* https://t.me/GamerOldfag
+  * https://habr.com/ru/users/OldfagGamer/
+  * https://dtf.ru/u/476855-oldfazhnyi-geimer
+* https://t.me/gamebase54
+  * https://pikabu.ru/@Carter54
+* https://t.me/doszonechat
+* https://t.me/karnovdima/113
+  * список каналов тех, кто работал или работает на StopGame.ru прямо сейчас
+  * Дмитрий Бурдуков
+    * https://t.me/flynn101
+  * Александр Вилисов
+    * https://t.me/wes_play
+  * Михаил Галкин
+    * https://t.me/galkin_tg
+  * Василий Гальперов
+    * https://t.me/galperia
+  * Семён Окороков
+    * https://t.me/greengreenproTWITCH
+  * Кирилл Орешкин
+    * https://t.me/kiroreshkin
+  * Катерина Краснопольская
+    * https://t.me/kaite_somestuff
+  * Денис Карамышев
+    * https://t.me/twitch_skip_sg
+  * Дмитрий Карнов
+    * https://t.me/karnovdima
+    * https://stopgame.ru/user/d0lphin/
+  * Дмитрий Кунгуров
+    * https://t.me/ninesixteen
+  * Андрей Маковеев
+    * https://t.me/haroldofrovia
+  * Глеб Мещеряков
+    * https://t.me/chelovekgleb
+  * Василий Русяев
+    * https://t.me/s/rusyaichtelega
+  * Владимир Сечкарёв
+    * https://t.me/nooneshouldeverwork
+  * Константин Тростенюк
+    * https://t.me/s/cosmicorigin
+  * Ярослав Шалашов
+    * https://t.me/yashalashov
+  * https://t.me/cosmicorigin
+  * https://boosty.to/shiru8bit/about
+* Стена в ретро-зоне Игропрома
+  * https://t.me/oldhard_news/584
+  * https://vk.com/oldschooltavern
+  * https://vk.com/nekketsu
+  * https://vk.com/chaosconstructions
+  * https://t.me/chaosconstructionsnews
+  * https://vk.com/stopgameru
+  * https://vk.com/console_patrol
+  * https://vk.com/romhack
+  * https://vk.com/pxldevil
+  * https://t.me/pxldevil
+  * https://vk.com/nostalgic2
+  * https://vk.com/dendynn
+  * https://vk.com/old_hard
+  * https://vk.com/kinamania
+  * https://t.me/kinamania_channel
+  * https://vk.com/15kop
+  * https://vk.com/old_games
+* Old-Hard и другие проекты Newbilius'а
+  * https://t.me/oldhard_news
+  * https://vk.com/old_hard
+  * https://youtube.com/@Newbilius
+  * https://youtube.com/@Newbilius_SecondChannel
+* https://vk.com/my_videogame
+* https://t.me/retrogamespub
+* https://t.me/ivanpokupala
+* https://t.me/pocket_rg
+* https://t.me/pyxelfrog
+* https://t.me/dartemugamer
+* https://t.me/spacewolfblog
+* https://t.me/retrodrom
+* https://m.vk.com/retrogeekblog
+* https://t.me/addlist/qgux9R48RKJlMWEy
+* https://t.me/retrodevicesnerd
+* https://t.me/ADFplays
+* https://t.me/progamedev/
+* https://t.me/igrozhur
+  * https://t.me/dzhvagoda
+  * https://t.me/igrazhur
+  * https://t.me/magazine2cd
+* https://t.me/retro_museum
+* https://boosty.to/dbachilo
+* https://t.me/gamingza30
+* https://m.vk.com/randoms
+* https://t.me/RetroGamingNaBalkone
+* https://m.vk.com/justevgentube
+* https://t.me/podval4ikshow
+* https://dzen.ru/retrogaming
+* https://t.me/unforget_games
+* https://t.me/gamingbackstage
+* https://t.me/cooleach_timetravel
+* https://t.me/zoneofgames
+* https://t.me/mostcuser
+* https://t.me/RetroKhrapov
+* https://t.me/hyperduh
+* https://t.me/viperlong/
+* https://youtube.com/@gstchannelvevo
+* https://youtube.com/@PodcastOGRU
 * https://youtube.com/@PxlDevil
-	* https://youtube.com/@pixeldevillive
+* https://youtube.com/@pixeldevillive
 * https://youtube.com/@KinamaniaChannel
-	* https://youtube.com/@KinamaniaLive
+  * https://youtube.com/@KinamaniaLive
 * https://youtube.com/@videogamedunkey
 * https://youtube.com/@GSTChannelVEVO
 * https://youtube.com/@Romero666
 * https://youtube.com/@ZnifferN
 * https://youtube.com/@Caiiiycuk
-https://habr.com/ru/users/Caiiiycuk/publications/articles/
+  * https://habr.com/ru/users/Caiiiycuk/publications/articles/
 * https://youtube.com/@Libretro
 * https://youtube.com/@HotPixel
-https://www.youtube.com/@The8BitGuy
-https://www.youtube.com/user/CrowbCat
-https://m.youtube.com/@MarphitimusBlackimus
-https://youtube.com/@NakeyJakey
-https://youtube.com/@XboxAhoy
-https://blog.doredel.com/
-https://github.com/charliegerard
-https://charliegerard.dev/
-https://johnnesky.com/
-https://github.com/jsdf
-https://jamesfriend.com.au/
-https://johnnesky.com/
-https://stephaneginier.com/
-https://blog.doredel.com/
-https://habr.com/ru/users/PatientZero/
-https://habr.com/ru/users/Erwinmal/articles/
-https://xem.github.io/index.html
-https://gist.github.com/xem/206db44adbdd09bac424
-https://xem.github.io/codegolf/moon1px.html
-https://swestwood.com/
-https://hub.octt.eu.org/
-https://managore.itch.io/
-https://bolknote.ru
-Интернет-время «Своч»
-https://bolknote.ru/all/internet-vremya-svoch/
-https://fms.komkon.org/
-https://habr.com/ru/users/GeeksCat/
-https://habr.com/ru/users/OldfagGamer/
-https://dtf.ru/u/476855-oldfazhnyi-geimer
-https://habr.com/ru/hubs/games/articles/
-https://habr.com/ru/hubs/antikvariat/articles/
-https://habr.com/ru/users/Limows/publications/articles/
-История ритм-игр: от «Саймона» до Just Dance
-https://habr.com/ru/companies/yandex/articles/806125/
-Лёша Кластер
-https://vk.com/clusterm
-https://cluster.wtf/
-https://github.com/ClusterM/
-https://t.me/ClusterMeerkat
-Денис Грачёв
-https://retrosouls.itch.io/
-http://www.retrosouls.net/
-https://www.mobygames.com/person/688236/denis-grachev/
-https://www.pouet.net/user.php?who=100568
-Игры RetroSouls
-https://docs.google.com/spreadsheets/d/1e2gNjXy9KiKDmmwZ3z8TxF4AHXUbD5SUk7orGI02zpE/htmlview
-Золото отечественного ретродева: RetroSouls
-https://habr.com/ru/companies/ruvds/articles/876682/
-Александр Семенов
-http://shiru.untergrund.net/
-https://www.mobygames.com/person/308958/alexander-semenov/
-https://habr.com/ru/users/shiru8bit/
-https://boosty.to/shiru8bit
-https://youtube.com/@shiru8bit
-https://music.yandex.ru/artist/19199820
-Культурный феномен клипа Bad Apple и мой BAD AON
-https://habr.com/ru/companies/ruvds/articles/807153/
-Загадка чёрной капли
-https://habr.com/ru/companies/ruvds/articles/848660/
-Сычуем вместе
-https://m.youtube.com/@nerdcave_live/videos
-Сычевальня в жёлтой комнате
-https://t.me/nerdcave_live
-https://t.me/yellow_room_nerdcave
-Вне границ: Краткая история пиксельной графики
-https://www.youtube.com/watch?v=dJCUjORKMfw
+* https://www.youtube.com/@The8BitGuy
+* https://www.youtube.com/user/CrowbCat
+* https://m.youtube.com/@MarphitimusBlackimus
+* https://youtube.com/@NakeyJakey
+* https://youtube.com/@XboxAhoy
+* https://blog.doredel.com/
+* https://github.com/charliegerard
+* https://charliegerard.dev/
+* https://johnnesky.com/
+* https://github.com/jsdf
+* https://jamesfriend.com.au/
+* https://johnnesky.com/
+* https://stephaneginier.com/
+* https://blog.doredel.com/
+* https://habr.com/ru/users/PatientZero/
+* https://habr.com/ru/users/Erwinmal/articles/
+* https://xem.github.io/index.html
+  * https://gist.github.com/xem/206db44adbdd09bac424
+  * https://xem.github.io/codegolf/moon1px.html
+* https://swestwood.com/
+* https://hub.octt.eu.org/
+* https://managore.itch.io/
+* https://bolknote.ru
+* Интернет-время «Своч»
+  * https://bolknote.ru/all/internet-vremya-svoch/
+* https://fms.komkon.org/
+* https://habr.com/ru/users/GeeksCat/
+* https://habr.com/ru/users/Limows/publications/articles/
+* История ритм-игр: от «Саймона» до Just Dance
+  * https://habr.com/ru/companies/yandex/articles/806125/
+* Лёша Кластер
+  * https://vk.com/clusterm
+  * https://cluster.wtf/
+  * https://github.com/ClusterM/
+  * https://t.me/ClusterMeerkat
+* Денис Грачёв
+  * https://retrosouls.itch.io/
+  * http://www.retrosouls.net/
+  * https://www.mobygames.com/person/688236/denis-grachev/
+  * https://www.pouet.net/user.php?who=100568
+* Игры RetroSouls
+  * https://docs.google.com/spreadsheets/d/1e2gNjXy9KiKDmmwZ3z8TxF4AHXUbD5SUk7orGI02zpE/htmlview
+  * Золото отечественного ретродева: RetroSouls
+    * https://habr.com/ru/companies/ruvds/articles/876682/
+* Александр Семенов
+  * http://shiru.untergrund.net/
+  * https://www.mobygames.com/person/308958/alexander-semenov/
+  * https://habr.com/ru/users/shiru8bit/
+  * https://boosty.to/shiru8bit
+  * https://youtube.com/@shiru8bit
+  * https://music.yandex.ru/artist/19199820
+  * Культурный феномен клипа Bad Apple и мой BAD AON
+    * https://habr.com/ru/companies/ruvds/articles/807153/
+  * Загадка чёрной капли
+    * https://habr.com/ru/companies/ruvds/articles/848660/
+* Сычуем вместе
+  * https://m.youtube.com/@nerdcave_live/videos
+  * Сычевальня в жёлтой комнате
+    * https://t.me/nerdcave_live
+    * https://t.me/yellow_room_nerdcave
+* Вне границ: Краткая история пиксельной графики
+  * https://www.youtube.com/watch?v=dJCUjORKMfw
 * Fallout и Крис Аввелон
   * https://archive.org/details/fallout-bible-rus/
   * https://chrisavellone.medium.com/
@@ -3057,10 +3063,8 @@ https://www.youtube.com/watch?v=dJCUjORKMfw
   * https://t.me/karnovdima/39
   * https://t.me/karnovdima/39?comment=50
 
-
-
-параллельные миры
-https://github.com/DustinBrett/daedalOS/blob/main/README.md
-https://github.com/DustinBrett/daedalOS/blob/main/public/CREDITS.md
-https://github.com/DustinBrett/daedalOS/blob/main/IDEAS.md
-https://github.com/Emupedia/emupedia.github.io/blob/master/beta/emuos/assets/data/desktop.json
+## источники
+* https://github.com/DustinBrett/daedalOS/blob/main/README.md
+  * https://github.com/DustinBrett/daedalOS/blob/main/public/CREDITS.md
+  * https://github.com/DustinBrett/daedalOS/blob/main/IDEAS.md
+* https://github.com/Emupedia/emupedia.github.io/blob/master/beta/emuos/assets/data/desktop.json
