@@ -1670,6 +1670,9 @@
 * Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
   * https://github.com/TheAlgorithms
   * https://the-algorithms.com/ru
+* фронтенд это не больно
+  * https://github.com/bespoyasov/front-not-pain
+  * https://bespoyasov.ru/front-not-pain
 
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
@@ -1682,9 +1685,6 @@ http://www.phrack.org/archives/issues/7/3.txt
 https://web.archive.org/web/20170402014901/http://www.phrack.org/archives/issues/7/3.txt
 Linux Information Project
 https://www.linfo.org/linfo_about.html
-фронтенд это не больно
-https://github.com/bespoyasov/front-not-pain
-https://bespoyasov.ru/front-not-pain
 PHP
 запустить полки или компоненты
 https://github.com/WordPress/wordpress-playground
