@@ -1674,157 +1674,153 @@
   * https://github.com/bespoyasov/front-not-pain
   * https://bespoyasov.ru/front-not-pain
 
+### программирование
+* Философия проекта GNU
+  * https://www.gnu.org/philosophy/
+* The Mentor’s “A Hacker Manifesto,” also called “The Conscience of a Hacker.”
+  * http://www.phrack.org/issues.html?issue=7&id=3
+  * http://www.phrack.org/archives/issues/7/3.txt
+  * https://web.archive.org/web/20170402014901/http://www.phrack.org/archives/issues/7/3.txt
+* Linux Information Project
+  * https://www.linfo.org/linfo_about.html
+* PHP
+  * https://github.com/WordPress/wordpress-playground
+  * https://github.com/seanmorris/php-wasm
+  * https://github.com/oraoto/pib
+* JVM
+  * https://labs.leaningtech.com/blog/cheerpj-3.0
+* Perl
+  * https://webperl.zero-g.net/
+  * https://webperl.zero-g.net/democode/index.html
+* Scala
+  * https://www.scala-js.org/
+  * https://scribble.ninja/
+* Go
+  * https://github.com/gopherjs/gopherjs
+  * https://gopherjs.github.io/playground/
+* R
+  * https://github.com/georgestagg/webR
+  * https://webr.r-wasm.org/latest/
+* Jupyter
+  * https://github.com/jupyterlite/jupyterlite
+  * https://jupyterlite.readthedocs.io/en/stable/try/lab
+  * https://jupyterlite.readthedocs.io/en/stable/try/tree
+* SQL
+  * https://github.com/sql-js/sql.js
+  * https://sql.js.org/examples/GUI/
+  * https://github.com/AlaSQL/alasql
+* JS
+  * https://learn.javascript.ru/
+  * https://react-tutorial.app/app.html?id=328
+  * https://learnjavascript.online/
+  * https://learnhtmlcss.online/
+  * quickjs
+    * https://bellard.org/quickjs/
+    * https://bellard.org/quickjs/pi.html
+    * https://github.com/justjake/quickjs-emscripten
+    * https://dev.to/sebastian_wessel/execute-javascript-in-a-webassembly-quickjs-sandbox-14nn
+* Python
+  * https://pyodide.org/
+  * https://pyodide.org/en/stable/console.html
+  * https://github.com/pyodide/pyodide
+  * https://p5py.khasang.ru/ide
+  * Как я написал книгу для детей: «Мама, не отвлекай. Я Python учу!»
+    * https://habr.com/ru/articles/851880/
+  * Хотите, покажу вам магию живого кода на p5py?
+    * https://habr.com/ru/companies/sberbank/articles/854474/
+  * питон на сервере и в браузере
+    * https://habr.com/ru/companies/otus/articles/701144/
+  * karel the robot learns python
+    * https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html
+  * Karel Helper is an interactive tool where students and teachers can visualize problem-solving approaches,even remotely
+    * https://karelhelper.com/
+* Scratch
+  * https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+  * https://tiei.ru/wp-content/uploads/Scratch-dlya-yunyih-programmistov.pdf
+  * https://inventwithscratch.com/book/
+* 101 Компьютерная Игра на Бейсике — обзор старой книжки
+  * https://t.me/oldhard_news/618
+  * https://habr.com/ru/articles/865198/
+  * https://archive.org/details/101basiccomputer0000davi/page/198/mode/2
+
+#### изучение решением заданий
+* Тестовые задания для самостоятельного выполнения от разных it компани
+  * https://github.com/Hexlet/ru-test-assignments
+* 30 Day Vanilla JS Coding Challenge
+  * https://javascript30.com/
+* Collection of application ideas which can be used to improve your coding skills
+  * https://github.com/florinpop17/app-ideas
+  * https://web.archive.org/web/20200307211024/https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
+  * https://web.archive.org/web/20200307211024/https://www.florin-pop.com/blog/built-100-projects-in-100-days
+  * https://www.100jsprojects.com/
+  * https://github.com/florinpop17/10-projects-10-hours
+  * https://github.com/florinpop17/weekly-projects
+* создание игр
+  * https://20_games_challenge.gitlab.io/challenge/
+* Curated list of project-based tutorials
+  * https://github.com/practical-tutorials/project-based-learning
+* Master programming by recreating your favorite technologies from scratch
+  * https://codecrafters.io/
+  * https://github.com/codecrafters-io/build-your-own-x
+* community dedicated to learning creative coding with beginner-friendly tutorials and projects on YouTube and more
+  * https://thecodingtrain.com/
+* helps you make cool stuff while learning to code, with free coding games and activities for kids to explore
+  * https://codeclubworld.org/
+
+#### материалы и инструменты
+* collection of over 1000 RSS feeds for web developers, updated monthly
+  * https://github.com/simevidas/web-dev-feeds
+* collection of Free Public APIs for Students and Developers.
+  * https://www.freepublicapis.com/
+* Compile and run LLVM IR in the browser 
+  * https://github.com/soedirgo/llvm-wasm
+  * https://soedirgo.github.io/llvm-wasm/
+* clang in browser
+  * https://tbfleming.github.io/cib/
+* Run Emscripten in the browser
+  * https://github.com/jprendes/emception
+  * https://jprendes.github.io/emception/
+  * https://www.reddit.com/r/WebAssembly/comments/ur0d4q/is_there_a_cc_to_wasm_compiler_written_in_wasm_i/
+* online c compiler
+  * https://www.onlinegdb.com/online_c_compiler
+  * https://www.programiz.com/c-programming/online-compiler/
+* all in one web editor for M68K
+  * https://asm-editor.specy.app/
+* Free and open-source online code editor that allows you to write and execute code from a rich set of languages
+  * https://ide.judge0.com/
+* AST explorer
+  * https://astexplorer.net/
+structuredjs
+  * provides a simple interface for checking the structure of Javascript code
+  * https://khan.github.io/structuredjs/index.html
+  * https://khan.github.io/structuredjs/pretty-display/index.html
+* Try it online is a family of online interpreters for an evergrowing list of practical and recreational programming languages
+  * https://tio.run/#
+* Изучаем язык ассемблера на примере TSR программы под MS-DOS. Часть 1
+  * https://habr.com/ru/articles/656657/
+* Operating System in 1,000 Lines 
+  * https://operating-system-in-1000-lines.vercel.app/en/
+* Your language isn't broken, it's doing floating point math
+  * https://0.30000000000000004.com/
+
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
-### программирование
-Философия проекта GNU
-https://www.gnu.org/philosophy/
-The Mentor’s “A Hacker Manifesto,” also called “The Conscience of a Hacker.”
-http://www.phrack.org/issues.html?issue=7&id=3
-http://www.phrack.org/archives/issues/7/3.txt
-https://web.archive.org/web/20170402014901/http://www.phrack.org/archives/issues/7/3.txt
-Linux Information Project
-https://www.linfo.org/linfo_about.html
-PHP
-запустить полки или компоненты
-https://github.com/WordPress/wordpress-playground
-https://github.com/seanmorris/php-wasm
-https://github.com/oraoto/pib
-JVM
-https://labs.leaningtech.com/blog/cheerpj-3.0
-Perl
-https://webperl.zero-g.net/
-https://webperl.zero-g.net/democode/index.html
-Scala
-https://www.scala-js.org/
-https://scribble.ninja/
-Go
-https://github.com/gopherjs/gopherjs
-https://gopherjs.github.io/playground/
-R
-https://github.com/georgestagg/webR
-https://webr.r-wasm.org/latest/
-Jupyter
-https://github.com/jupyterlite/jupyterlite
-https://jupyterlite.readthedocs.io/en/stable/try/lab
-https://jupyterlite.readthedocs.io/en/stable/try/tree
-SQL
-https://github.com/sql-js/sql.js
-https://sql.js.org/examples/GUI/
-https://github.com/AlaSQL/alasql
-JS
-https://bellard.org/quickjs/
-	- https://bellard.org/quickjs/pi.html
-https://github.com/justjake/quickjs-emscripten
-https://dev.to/sebastian_wessel/execute-javascript-in-a-webassembly-quickjs-sandbox-14nn
-Python
-https://pyodide.org/
-https://pyodide.org/en/stable/console.html
-https://github.com/pyodide/pyodide
-https://p5py.khasang.ru/ide
-Как я написал книгу для детей: «Мама, не отвлекай. Я Python учу!»
-https://habr.com/ru/articles/851880/
-Хотите, покажу вам магию живого кода на p5py?
-https://habr.com/ru/companies/sberbank/articles/854474/
-питон на сервере и в браузере
-https://habr.com/ru/companies/otus/articles/701144/
-karel the robot learns python
-https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html
-Karel Helper is an interactive tool where students and teachers can visualize problem-solving approaches,even remotely
-https://karelhelper.com/
-Scratch
-https://scratch.mit.edu/projects/editor/?tutorial=getStarted
-https://tiei.ru/wp-content/uploads/Scratch-dlya-yunyih-programmistov.pdf
-https://inventwithscratch.com/book/
-101 Компьютерная Игра на Бейсике — обзор старой книжки
-https://t.me/oldhard_news/618
-https://habr.com/ru/articles/865198/
-https://archive.org/details/101basiccomputer0000davi/page/198/mode/2
-
-Современный учебник JavaScript
-https://learn.javascript.ru/
-https://react-tutorial.app/app.html?id=328
-https://learnjavascript.online/
-https://learnhtmlcss.online/
-
-collection of over 1000 RSS feeds for web developers, updated monthly
-https://github.com/simevidas/web-dev-feeds
-
-collection of Free Public APIs for Students and Developers.
-  https://www.freepublicapis.com/
-
-изучение решением заданий
-Тестовые задания для самостоятельного выполнения от разных it компани
-https://github.com/Hexlet/ru-test-assignments
-30 Day Vanilla JS Coding Challenge
-https://javascript30.com/
-Collection of application ideas which can be used to improve your coding skills
-https://github.com/florinpop17/app-ideas
-  https://web.archive.org/web/20200307211024/https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
-  https://web.archive.org/web/20200307211024/https://www.florin-pop.com/blog/built-100-projects-in-100-days
-https://www.100jsprojects.com/
-  https://github.com/florinpop17/10-projects-10-hours
-  https://github.com/florinpop17/weekly-projects
-создание игр
-https://20_games_challenge.gitlab.io/challenge/
-Curated list of project-based tutorials
-https://github.com/practical-tutorials/project-based-learning
-Master programming by recreating your favorite technologies from scratch
-  https://codecrafters.io/
-  https://github.com/codecrafters-io/build-your-own-x
-community dedicated to learning creative coding with beginner-friendly tutorials and projects on YouTube and more
-https://thecodingtrain.com/
-
-Compile and run LLVM IR in the browser 
-https://github.com/soedirgo/llvm-wasm
-https://soedirgo.github.io/llvm-wasm/
-clang in browser
-https://tbfleming.github.io/cib/
-Run Emscripten in the browser
-https://github.com/jprendes/emception
-https://jprendes.github.io/emception/
-https://www.reddit.com/r/WebAssembly/comments/ur0d4q/is_there_a_cc_to_wasm_compiler_written_in_wasm_i/
-online c compiler
-https://www.onlinegdb.com/online_c_compiler
-https://www.programiz.com/c-programming/online-compiler/
-all in one web editor for M68K
-https://asm-editor.specy.app/
-Free and open-source online code editor that allows you to write and execute code from a rich set of languages
-https://ide.judge0.com/
-AST explorer
-https://astexplorer.net/
-structuredjs
-provides a simple interface for checking the structure of Javascript code
-https://khan.github.io/structuredjs/index.html
-https://khan.github.io/structuredjs/pretty-display/index.html
-Try it online is a family of online interpreters for an evergrowing list of practical and recreational programming languages
-https://tio.run/#
-Изучаем язык ассемблера на примере TSR программы под MS-DOS. Часть 1
-https://habr.com/ru/articles/656657/
-Operating System in 1,000 Lines 
-https://operating-system-in-1000-lines.vercel.app/en/
-Your language isn't broken, it's doing floating point math
-https://0.30000000000000004.com/
-
-helps you make cool stuff while learning to code, with free coding games and activities for kids to explore
-https://codeclubworld.org/
-
-тренировка программирования
-https://leetcode.com/problemset/
-https://coderun.yandex.ru/
-https://adventofcode.com/
-https://www.adventofjs.com/
-https://www.adventofcss.com/
-https://overthewire.org/wargames/
-https://www.codewars.com/
-https://tryhackme.com/
-https://app.wordbots.io/
-https://untrustedgame.com/
-https://code.golf/
-https://cssbattle.dev/
-CSS speedrun
-https://css-speedrun.netlify.app/
-datalemur.com/sql-game
+#### тренировка программирования
+* https://leetcode.com/problemset/
+* https://coderun.yandex.ru/
+* https://adventofcode.com/
+* https://www.adventofjs.com/
+* https://www.adventofcss.com/
+* https://overthewire.org/wargames/
+* https://www.codewars.com/
+* https://tryhackme.com/
+* https://app.wordbots.io/
+* https://untrustedgame.com/
+* https://code.golf/
+* https://cssbattle.dev/
+* CSS speedrun
+* https://css-speedrun.netlify.app/
+* datalemur.com/sql-game
 
 разработка игр
 о дизайне уровней
