@@ -18,7 +18,7 @@
 * https://solo.nabiraem.ru/study/rus#typingtest
 * https://typerun.top/#rus_basic
 * https://romanpro.ru/typing-tutor/
-* qwerty.kaiyi.cool
+* https://qwerty.kaiyi.cool/
 
 ### Текст и код
 * https://github.com/coolwanglu/vim.js
@@ -285,6 +285,36 @@
 ### время
 * https://time.is/
 
+### поиск
+* файлообменник
+  * https://rapidgators.net/
+* игры
+  * zap-search.onrender.com
+* всё
+  * https://rutracker.org/
+* фильмы
+  * popcorn time
+  * https://4pda.to/forum/index.php?showtopic=572424&st=120
+  * https://jacred.xyz/
+* сериалы
+  * https://ru3.seasonvar.nl/
+* книги научные
+  * https://sci-hub.wf/
+  * https://libgen.li/
+  * libgen.io — не работает
+* книги
+  * http://flibusta.is/
+  * https://flibusta.su/ — была ссылка на литрес, видимо скам
+  * http://booktracker.org/
+  * bookfi.net — не работает
+  * b-ok.org — не работает
+  * b-ok.cc — не работает
+  * bookre.org — не работает
+  * электронная библиотека, предоставляющая пользователям возможность читать и скачивать тексты книг
+    * https://lib.rus.ec/
+* крупнейшая по-настоящему открытая библиотека в истории человечества
+  * https://ru.annas-archive.org/
+
 ## впечатления
 
 ### коллекции и архивы
@@ -475,6 +505,14 @@
   * https://castaway.xesf.net/
 * https://t.me/artalog/331
   * https://artalar.github.io/csb-trpr1/
+
+### memes
+* wiki dedicated to cataloging the tricks of the trade for writing fiction, also called 'Tropes.'
+  * https://tvtropes.org
+* website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more
+  * https://knowyourmeme.com/
+* неформальная, неформатная, фривольная и юмористическая интернет-энциклопедия на русском языке
+  * https://neolurk.org/
 
 ## Музыка
 ### музыку слушать
@@ -2551,44 +2589,6 @@ structuredjs
   * https://m.youtube.com/watch?v=UDmtJIwSiIc
 * These games were unplayable…UNTIL NOW - PCem
   * https://youtu.be/mWEE2RJj3YI
-
-### ВАРЕЗ
-* файлообменник
-  * https://rapidgators.net/
-* игры
-  * zap-search.onrender.com
-* всё
-  * https://rutracker.org/
-* фильмы
-  * popcorn time
-  * https://4pda.to/forum/index.php?showtopic=572424&st=120
-  * https://jacred.xyz/
-* сериалы
-  * https://ru3.seasonvar.nl/
-* книги научные
-  * https://sci-hub.wf/
-  * https://libgen.li/
-  * libgen.io — не работает
-* книги
-  * http://flibusta.is/
-  * https://flibusta.su/ — была ссылка на литрес, видимо скам
-  * http://booktracker.org/
-  * bookfi.net — не работает
-  * b-ok.org — не работает
-  * b-ok.cc — не работает
-  * bookre.org — не работает
-  * электронная библиотека, предоставляющая пользователям возможность читать и скачивать тексты книг
-    * https://lib.rus.ec/
-* крупнейшая по-настоящему открытая библиотека в истории человечества
-  * https://ru.annas-archive.org/
-
-### memes
-* wiki dedicated to cataloging the tricks of the trade for writing fiction, also called 'Tropes.'
-  * https://tvtropes.org
-* website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more
-  * https://knowyourmeme.com/
-* неформальная, неформатная, фривольная и юмористическая интернет-энциклопедия на русском языке
-  * https://neolurk.org/
 
 ## история
 * книга история Смешариков
