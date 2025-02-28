@@ -36,11 +36,11 @@
 * https://ace.c9.io/kitchen-sink.html?doc=Markdown
 * https://codemirror.net/try/
 * https://stackblitz.com/
-* ⚠️⚠️⚠️ совместное редактирование текста
-  * https://conclave-team.github.io/conclave-site/
+* совместное редактирование текста
   * https://conclave.tech/ — не тянет текст большой
+    * https://conclave-team.github.io/conclave-site/
   * https://share-monaco.vercel.app/ — теряет место, где пишет человек
-  * https://github.com/K024/share-monaco
+    * https://github.com/K024/share-monaco
   * https://github.com/google/diff-match-patch/wiki/Language:-JavaScript
   * https://github.com/eberlitz/eb-editor
   * https://github.com/GiridharRNair/CodeTogether
@@ -124,16 +124,6 @@
 ### терминал
 * https://xtermjs.org/
 * https://terminal.jcubic.pl/
-
-### общение
-* https://web.telegram.org/
-* Next generation of the Kiwi IRC web client
-  * https://kiwiirc.com/
-  * https://github.com/kiwiirc/kiwiirc
-
-### перевод
-* https://translate.yandex.ru/
-* https://www.deepl.com/translator
 	
 ### калькулятор
 * https://mcalculator.muzam1l.com/
@@ -215,10 +205,32 @@
   * https://app.diagrams.net/
   * https://www.drawio.com/
 
+### общение
+* https://web.telegram.org/
+* Next generation of the Kiwi IRC web client
+  * https://kiwiirc.com/
+  * https://github.com/kiwiirc/kiwiirc
+
+### созвоны
+* https://meet.jit.si/
+* https://salutejazz.ru/#/calls
+* Best of WebRTC: Elevate with Top Projects!
+  * https://github.com/webRTCv1/Best-of-webRTC
+* https://letsmeet.no/
+  * https://github.com/edumeet/edumeet
+* https://demo.mediasoup.org/
+  * https://mediasoup.org/
+  * https://mediasoup.org/documentation/examples/
+* https://v3demo.mediasoup.org/
+
 ### совместная работа
 * https://app.kosmi.io/createRoom
 * https://coroom.app/go?visibility=private
 * https://oorja.io/
+
+### перевод
+* https://translate.yandex.ru/
+* https://www.deepl.com/translator
 
 ### делиться файлами
 * https://wormhole.app/
@@ -254,9 +266,14 @@
   * https://www.rollapp.com/about
   * https://www.rollapp.com/app/blender#/app/blender/modal
 
-### User friendly web proxy powered by testcafe-hammerhead
-* https://browser.rammerhead.org/
-  * https://github.com/binary-person/rammerhead
+### Браузер
+  * браузер есть в инструментах ОС онлайн
+  * в некоторых эмуляторах старых систем
+  * https://archive.org/help/wayback_api.php
+    * `http://archive.org/wayback/available?url=example.com`
+  * User friendly web proxy powered by testcafe-hammerhead
+    * https://browser.rammerhead.org/
+    * https://github.com/binary-person/rammerhead
 * "Proxy" Chromium Browser 
   * https://github.com/DustinBrett/daedalOS/discussions/282
 * https://puter.com/app/cloudtabs-browserbox
@@ -268,14 +285,15 @@
 ### время
 * https://time.is/
 
-### National Health Service
-* https://www.nhs.uk/
+## впечатления
 
 ### коллекции и архивы
 * Archive.org
   * non-profit library of millions of free texts, movies, software, music, websites, and more
   * https://archive.org/
   * https://blog.archive.org/
+  * https://blog.archive.org/2024/10/30/vanishing-culture-a-report-on-our-fragile-cultural-record/
+    * https://archive.org/details/vanishing-culture-report/
   * https://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/
   * https://blog.archive.org/2024/08/26/vanishing-culture-on-78s/
 * Яндекс архив
@@ -330,6 +348,8 @@
 * Stellarium Web
   * https://stellarium-web.org/
   * https://github.com/Stellarium/stellarium-web-engine
+* See a satellite tonight
+  * https://james.darpinian.com/satellites/
 * catalog and showcase every known object in space
   * https://www.spacereference.org/
 * древняя земля
@@ -359,9 +379,111 @@
 * https://github.com/chubin/wttr.in
 * комплексный прогноз Гидрометцентра
   * https://method.meteorf.ru/ansambl/complex.html
+* https://rp5.ru/
 
+### National Health Service
+* https://www.nhs.uk/
+
+### сделай сам
+* https://www.instructables.com/
+* научить всех на свете, как делать все что угодно
+  * https://ru.wikihow.com/wikiHow:%D0%9E-wikiHow
+
+### атмосфера для настроения
+* https://56k-modem.online/
+  * https://56k-modem.online/post/733310882697904128
+  * https://56k-modem.online/post/723547089433477120/text-mode-if-you-delete-all-fonts-in-xp-youre
+* https://never-obsolete.tumblr.com/
+  * https://64.media.tumblr.com/64f27e087fb1105cb9eb785e5893d0d8/a3b11c1c47faa839-4b/s1280x1920/cc18af86525b434fe7cd8b94f5aefc2cd6412cf5.png
+* https://www.linux.org.ru/gallery/archive/
+* дефрагментация симуляция
+  * http://defrag98.com
+* дизайнерский архив нокия
+  * https://nokiadesignarchive.aalto.fi/
+* graphical user interface gallery
+  * https://guidebookgallery.org/index
+* https://github.com/pi0/clippyjs
+* https://github.com/Adrianotiger/web-esheep
+* 90's Cursor Effects
+  * https://tholman.com/cursor-effects/
+* floor796
+  * https://floor796.com/
+  * https://runet.news/interview/50112
+  * https://www.youtube.com/channel/UCribkEGzOuMQ9ozb0ektMCQ
+  * Отрисовка в браузере большой анимации или как я ушел с mp4 к своему формату видео
+  * https://habr.com/ru/companies/floor796/articles/673318/
+  * https://www.artstation.com/floor796
+  * https://floor796.com/editor/l0
+* Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
+  * https://magenta.tensorflow.org/lofi-player
+  * https://github.com/magenta/lofi-player
+* интерактивные комнаты
+  * https://rooms.xyz/welcome
+* Million dollar homepage
+  * http://www.milliondollarhomepage.com/
+
+### розыгрыши
+* От мышей на экране до zip-бомбы: топ приложений-шуток из начала нулевых
+  * https://habr.com/ru/companies/ru_mts/articles/856866/
+* Как я писал «Вирус-бякус» на Delphi (шутка родом из конца 90-х)
+  * https://habr.com/ru/articles/857392/
+
+### старый интернет
+* https://web.archive.org/
+  * https://web.archive.org/web/20190530004539/http://herculeskv.narod.ru/documents/mustdie.htm
+  * https://web.archive.org/web/20191006061442/http://blog.gamedeff.com/?p=64
+  * https://web.archive.org/web/20210616065539/http://blog.gamedeff.com/
+* list of the various projects to get vintage computers connected to the internet 
+  * https://github.com/ssshake/retro-computing-internet-resources
+* https://theoldnet.com/
+* Browse emulated browsers connected to old web sites in your browser!
+  * https://oldweb.today/
+* поисковик старых сайтов
+  * https://wiby.me/
+  * https://t.me/retrodevicesnerd/12371
+* World’s Oldest Web Page (I have it)
+  * https://www.ibiblio.org/pjones/blog/worlds-oldest-web-page-i-have-it/
+* https://www.reddit.com/r/web_design/comments/r5kvp1/tips_for_a_90s_looking_website/
+* https://www.cameronsworld.net/
+* https://www.spacejam.com/1996/
+* http://www.funkychickens.com/main.asp
+* https://www.arngren.net/
+* https://poolsuite.net/
+
+### хранитель экрана
+* https://github.com/maze95/maze95-js
+  * https://ibid-11962.github.io/Windows-95-3D-Maze-Screensaver/maze.html
+  * https://github.com/ibid-11962/Windows-95-3D-Maze-Screensaver
+* https://github.com/kevin-shannon/3D-FlowerBox
+* https://github.com/1j01/pipes
+* https://github.com/khang-nd/bubbles
+* https://rezmason.github.io/matrix/?version=operator
+* https://ser-gen.github.io/sandbox/clocks/cifra/
+* Recreating After Dark screensavers in CSS
+  * http://bryanbraun.github.io/after-dark-css/
+  * https://github.com/bryanbraun/after-dark-css
+* https://www.bouncingdvdlogo.com/
+* open-source tribute to the macOS Drift screensaver
+  * https://flux.sandydoo.me/
+  * https://github.com/sandydoo/flux
+* https://polarclockelm.sandydoo.me/
+  * https://github.com/sandydoo/PolarClockElm
+* Re-implemtation of the Johnny Castaway Screensaver
+  * https://github.com/xesf/castaway
+  * http://www.hunterdavis.com/johnnycastawaywine/
+  * https://hunterdavis.com/2019/12/12/launch_blog_post.html
+  * https://castaway.xesf.net/
+* https://t.me/artalog/331
+  * https://artalar.github.io/csb-trpr1/
+
+## Музыка
 ### музыку слушать
 * https://www.radio-browser.info/
+* High Bit Rate Internet Radio
+  * http://radiobit.50webs.com/
+* directory of internet radio stations and other live streams using the Icecast Streaming Server
+  * https://dir.xiph.org/
+* https://stream.antenne.com/
 * https://oldtime.radio/
 * http://radio.garden/
 * http://websdr.org/
@@ -509,33 +631,7 @@
 * free tool for generating sound effects
   * https://sfbgames.itch.io/chiptone
 
-### ФИЛЬМЫ
-* источник качать
-  * https://jacred.xyz/
-* источник смотреть фильмы
-  * https://1rus.ru/
-* лампа
-  * http://lampa.mx/
-  * https://t.me/lampa_plugins
-  * https://plugin.rootu.top/tv.js тв
-  * https://plugin.rootu.top/cub-rating.js медианная реакция
-  * https://plugin.rootu.top/fmplay.js радио нормальное
-  * http://plugin.rootu.top/kids.js детские разделы
-  * https://plugin.rootu.top/top100last5year.html топ по рейтингу
-  * https://cub-rating.rootu.top/ анализ рейтинга
-* ReYohoho
-  * https://reyohoho.github.io/reyohoho/
-  * https://github.com/reyohoho/reyohoho
-  * reyohoho.github.io/reyohoho
-  * reyohoho.serv00.net
-  * reyohoho.surge.sh
-  * reyohoho.vercel.app
-  * https://github.com/reyohoho/reyohoho-desktop
-  * https://t.me/ReYohoho/
-* minimal webapp for playing IPTV streams
-  * https://hub.octt.eu.org/TiVuOcto/#/about
-
-### графика
+## графика
 * https://www.photopea.com/
 * https://www.vectorpea.com/
 * https://jspaint.app
@@ -618,6 +714,34 @@
   * https://svgedit.netlify.app/editor/index.html
   * https://github.com/SVG-Edit/svgedit
 
+## ФИЛЬМЫ
+* список сериалов нулевых
+  * https://m.vk.com/topic-92492508_39021519
+* источник качать
+  * https://jacred.xyz/
+* источник смотреть фильмы
+  * https://1rus.ru/
+* лампа
+  * http://lampa.mx/
+  * https://t.me/lampa_plugins
+  * https://plugin.rootu.top/tv.js тв
+  * https://plugin.rootu.top/cub-rating.js медианная реакция
+  * https://plugin.rootu.top/fmplay.js радио нормальное
+  * http://plugin.rootu.top/kids.js детские разделы
+  * https://plugin.rootu.top/top100last5year.html топ по рейтингу
+  * https://cub-rating.rootu.top/ анализ рейтинга
+* ReYohoho
+  * https://reyohoho.github.io/reyohoho/
+  * https://github.com/reyohoho/reyohoho
+  * reyohoho.github.io/reyohoho
+  * reyohoho.serv00.net
+  * reyohoho.surge.sh
+  * reyohoho.vercel.app
+  * https://github.com/reyohoho/reyohoho-desktop
+  * https://t.me/ReYohoho/
+* minimal webapp for playing IPTV streams
+  * https://hub.octt.eu.org/TiVuOcto/#/about
+
 ### медиа
 * https://ffmpegwasm.netlify.app/
   * https://ffmpegwasm.netlify.app/docs/getting-started/usage/
@@ -645,7 +769,8 @@
   * https://clips.formidable.dev/
   * https://github.com/FormidableLabs/clips
   * https://github.com/FormidableLabs/clips/issues/27
-* ⚠️⚠️⚠️ https://github.com/Vanilagy/mp4-muxer
+* MP4 multiplexer in pure TypeScript with support for WebCodecs API, video & audio
+  * https://github.com/Vanilagy/mp4-muxer
 * Online Voice Recorder
   * https://online-voice-recorder.com/
 * speech recognition
@@ -677,42 +802,8 @@
   * https://mod.haxor.fi/
   * https://github.com/electronoora/webaudio-mod-player
 
-### атмосфера для настроения
-* https://56k-modem.online/
-  * https://56k-modem.online/post/733310882697904128
-  * https://56k-modem.online/post/723547089433477120/text-mode-if-you-delete-all-fonts-in-xp-youre
-* https://never-obsolete.tumblr.com/
-  * https://64.media.tumblr.com/64f27e087fb1105cb9eb785e5893d0d8/a3b11c1c47faa839-4b/s1280x1920/cc18af86525b434fe7cd8b94f5aefc2cd6412cf5.png
-* https://www.linux.org.ru/gallery/archive/
-* дефрагментация симуляция
-  * http://defrag98.com
-* дизайнерский архив нокия
-  * https://nokiadesignarchive.aalto.fi/
-* graphical user interface gallery
-  * https://guidebookgallery.org/index
-* https://github.com/pi0/clippyjs
-* https://github.com/Adrianotiger/web-esheep
-* 90's Cursor Effects
-  * https://tholman.com/cursor-effects/
-* floor796
-  * https://floor796.com/
-  * https://runet.news/interview/50112
-  * https://www.youtube.com/channel/UCribkEGzOuMQ9ozb0ektMCQ
-  * Отрисовка в браузере большой анимации или как я ушел с mp4 к своему формату видео
-  * https://habr.com/ru/companies/floor796/articles/673318/
-  * https://www.artstation.com/floor796
-  * https://floor796.com/editor/l0
-* Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
-  * https://magenta.tensorflow.org/lofi-player
-  * https://github.com/magenta/lofi-player
-* интерактивные комнаты
-  * https://rooms.xyz/welcome
-* Million dollar homepage
-  * http://www.milliondollarhomepage.com/
-
+## Игры
 ### списки
-* список сериалов нулевых
-  * https://m.vk.com/topic-92492508_39021519
 * https://www.mobygames.com/attributes/tech-specs/
 * списки мульплеерных игр
   * https://www.co-optimus.com/
@@ -765,6 +856,9 @@
   * http://tv-games.ru/
 * эксклюзивы пс2
   * https://docs.google.com/spreadsheets/d/1a5U5WL8188cIuIEMNe_tttUY5FVb2aevdhEOUpB47v0/edit?gid=1849388576#gid=1849388576
+* Игры с режимом CPU vs CPU
+  * https://vk.com/topic-66162180_32573949
+
 
 ### источник игр
 * https://www.old-games.ru/game/download/4639.html
@@ -931,6 +1025,15 @@
   * https://github.com/inolen/quakejs
   * https://github.com/gionko/content.quakejs.com
   * http://playminigames.ru/game/quake-3-arena-kveyk-3-arena
+  * https://thelongestyard.link/
+    * https://news.ycombinator.com/item?id=41330496
+    * https://github.com/jdarpinian/ioq3
+    * https://github.com/jdarpinian/HumbleNet
+  * https://openarena.live/
+  * https://news.ycombinator.com/item?id=18068275
+  * Quake III Arena ported to JavaScript and WebAssembly
+    * https://lrusso.github.io/Quake3/Quake3.htm
+    * https://github.com/lrusso/Quake3
 * syobon action
   * https://www.jezng.com/open-syobon-action.js/
   * https://sourceforge.net/projects/opensyobon/
@@ -939,7 +1042,7 @@
   * https://archive.org/details/arcade_pzloop2
   * https://www.retrogames.cc/arcade-games/puzz-loop-usa.html
   * https://www.emu-land.net/en/arcade/mame/roms?act=showonly&id=5959
-* Pipe
+* Pipe Dream
   * https://archive.org/details/win3_PipeDr3x
 * guitarflash3
   * https://guitarflash3.com/
@@ -982,9 +1085,6 @@
 * Carnivores
   * https://github.com/Game3DEE/webcarnivores
   * https://www.old-games.ru/game/download/1738.html
-* Google dino
-  * https://wayou.github.io/t-rex-runner/
-  * https://github.com/wayou/t-rex-runner
 * serious sam demo
   * https://martinmullins.github.io/ssam/
 * Binding of Isaac DEMO
@@ -1025,10 +1125,6 @@
   * https://arthursonzogni.com/en/InTheCube
 * тетрис
   * https://vk.com/topic-66162180_53675436
-* хак кооп супер Марио
-  * https://www.emu-land.net/forum/index.php/topic,81090.0.html
-* пико8 поездка на поезде
-  * https://www.lexaloffle.com/bbs/?tid=41332
 * web-based rhythm game written in HTML, CSS and JavaScript
   * https://chloeliang.github.io/rhythm-game/
   * https://github.com/ChloeLiang/rhythm-game
@@ -1066,18 +1162,19 @@
   * http://coolwanglu.github.io/BrowserHack
   * https://github.com/coolwanglu/BrowserHack
   * https://github.com/coolwanglu/BrowserHack/wiki/BrowserHack-Help
-* Шахматы Алана Тьюринга
-  * https://bolknote.ru/all/shahmaty-alana-tyuringa/
-  * https://en.m.wikipedia.org/wiki/Turochamp
-  * https://mdoege.github.io/nimTUROCHAMP/
-* #1 Chess Site for Kids
-  * https://www.chesskid.com/
-  * chessboard3.js
-* WebAssembly port of the strong chess engine Stockfish
-  * https://lichess.org/analysis
-  * https://github.com/lichess-org/stockfish.wasm
-  * https://jtiscione.github.io/chessboard3js/play.html
-  * https://jtiscione.github.io/chessboard3js/index.html
+* Шахматы
+  * Шахматы Алана Тьюринга
+    * https://bolknote.ru/all/shahmaty-alana-tyuringa/
+    * https://en.m.wikipedia.org/wiki/Turochamp
+    * https://mdoege.github.io/nimTUROCHAMP/
+  * #1 Chess Site for Kids
+    * https://www.chesskid.com/
+    * chessboard3.js
+  * WebAssembly port of the strong chess engine Stockfish
+    * https://lichess.org/analysis
+    * https://github.com/lichess-org/stockfish.wasm
+    * https://jtiscione.github.io/chessboard3js/play.html
+    * https://jtiscione.github.io/chessboard3js/index.html
 * SimCity 2000
   * https://dos.zone/sim-city-2000-1993/
   * Город детства: что будет, если продолжить игру в SimCity 2000 спустя 25 лет
@@ -1091,40 +1188,36 @@
   * https://basicallydan.github.io/skifree.js/
   * https://github.com/basicallydan/skifree.js
   * http://www.danielhough.co.uk/blog/skifree-js/
-* sandbox game in which you navigate challenging obstacle courses by timing your jumps and movements accurately.
-  * https://bloxd.io/
-* remake of Classic 0.0.23a_01, made to celebrate 10 years of Minecraft and was uploaded to the Minecraft website
-  * https://classic.minecraft.net/
-* sandbox block game inspired by other similar sandbox block games
-  * https://www.classicube.net/
-  * https://github.com/UnknownShadow200/ClassiCube
-* Port of Another World game engine & assets to PICO8
-  * https://freds72.itch.io/another-world
-* doom-style game for pico8
-  * https://freds72.itch.io/poom
-* pico-8 Music Theory Tutorial
-  * https://www.lexaloffle.com/bbs/?tid=53972
-  * https://bikibird.itch.io/music-theory
+* Pico-8
+  * Port of Another World game engine & assets to PICO8
+    * https://freds72.itch.io/another-world
+  * doom-style game for pico8
+    * https://freds72.itch.io/poom
   * tiny flight simulator based on a Cessna-172R with a G1000 glass cockpit
-  * https://freds72.itch.io/tiny-sim
-  * https://drive.google.com/file/d/1nuQb7-b5rt0Hrfiyq7UBZMbsBKLwfZhi/view
+    * https://freds72.itch.io/tiny-sim
+    * https://drive.google.com/file/d/1nuQb7-b5rt0Hrfiyq7UBZMbsBKLwfZhi/view
   * Cab ride
-  * https://www.lexaloffle.com/bbs/?tid=41332#playing
-* moorhuhn
-  * https://flashmuseum.org/?s=moorhuhn
+    * https://www.lexaloffle.com/bbs/?tid=41332#playing
 * Minecraft
   * https://eaglercraft.com/
   * про бесплатный майнкрафт
   * https://youtu.be/0qOCuLgX_lw
   * https://youtu.be/BKNx7chzuJ4
   * https://youtu.be/qjIPf1d356U
+  * remake of Classic 0.0.23a_01, made to celebrate 10 years of Minecraft and was uploaded to the Minecraft website
+    * https://classic.minecraft.net/
+  * sandbox block game inspired by other similar sandbox block games
+    * https://www.classicube.net/
+    * https://github.com/UnknownShadow200/ClassiCube
+  * sandbox game in which you navigate challenging obstacle courses by timing your jumps and movements accurately.
+    * https://bloxd.io/
 * crazy taxi
   * https://oldgameshelf.com/ru/games/gba/crazy-taxi-catch-a-ride-3503
-* Pipe Dream
-  * https://archive.org/details/win3_PipeDr3x
 * flash
   * Wolfenstein 1-D
     * https://archive.org/details/wolfenstein-1-d
+  * moorhuhn
+    * https://flashmuseum.org/?s=moorhuhn
 * Game Boy Color
   * Heroes of Might and Magic
 * Nintendo DS
@@ -1135,10 +1228,6 @@
   * https://t.me/rdclr_chat/16591
 * AGLOBO
   * https://daz.itch.io/aglobo
-* quake 3
-  * https://thelongestyard.link/
-  * https://openarena.live/
-  * https://news.ycombinator.com/item?id=18068275
 * Cave Story
   * https://thelongestyard.link/cave-story/
 * https://gooberdash.winterpixel.io/
@@ -1194,11 +1283,8 @@
 * Space Cadet Pinball
   * https://alula.github.io/SpaceCadetPinball/
   * https://github.com/alula/SpaceCadetPinball
-* Quake III Arena ported to JavaScript and WebAssembly
-  * https://lrusso.github.io/Quake3/Quake3.htm
-  * https://github.com/lrusso/Quake3
 
-#### игры в пдф
+### игры в пдф
 * как создать документ пдф
   * https://mariomalwareanalysis.blogspot.com/2012/02/how-to-manually-create-pdf.html
 * как добавить джс в пдф
@@ -1221,7 +1307,7 @@
     * https://canitrundoom.org/
     * https://github.com/zvolchak/can-it-run-doom
 
-#### генетические
+### генетические
 * https://github.com/subprotocol/genetic-js
 * https://rednuht.org/genetic_walkers/
 * https://rednuht.org/genetic_cars_2/
@@ -1229,7 +1315,7 @@
 * https://subprotocol.com/
 * https://nileshsah.github.io/reinforcement-learning-flappybird/
 
-#### песочницы
+### песочницы
 * Play with fluids in your browser
   * https://paveldogreat.github.io/WebGL-Fluid-Simulation/
   * https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
@@ -1242,7 +1328,7 @@
   * https://github.com/1j01/pbj-sandbox
   * https://1j01.github.io/pbj-sandbox/
 
-#### Ромы и игры
+### Ромы и игры
 * https://www.emulatorgames.net/roms/
 * https://www.emu-land.net/consoles/dendy/roms/
 * https://www.old-games.ru/
@@ -1253,7 +1339,6 @@
 * https://disk.yandex.ru/d/ktBzOIfQZ1dO1w
 * https://4pda.to/forum/index.php?showtopic=920611
 * https://www.denofgeek.com/games/60-underrated-playstation-one-games/
-* https://vk.com/topic-66162180_32573949 — Игры с режимом CPU vs CPU
 * https://t.me/Ps2ru — пс2
 * https://vk.com/topic-43869021_38891527 — Wii
 * https://vk.com/topic-43869021_38924032 — gamecube
@@ -1266,7 +1351,7 @@
   * https://www.youtube.com/watch?v=lIMaH213E9c
 * https://goldlocke.itch.io/supercooked
 
-#### ещё игры и источники
+### ещё игры и источники
 * https://sandspiel.club/
 * https://alexnisnevich.github.io/untrusted/
 * https://ncase.me/
@@ -1283,7 +1368,12 @@
 * https://youtube.com/@james.lambert
 * https://www.marcrobledo.com/RomPatcher.js/
 * https://dr-d-king.itch.io/optisocubes
-* https://beaver.games/
+* Beaver Games. Simple games for young children
+  * https://beaver.games/
+  * https://youtu.be/vMNo9T7vtPg
+  * https://github.com/NeilFraser/beaver-games
+* https://danluu.com/
+* https://www.arp242.net/
 * https://neal.fun/infinite-craft/
 * https://www.chrisraff.com/3d-maze/
 * https://js13kgames.com/#winners
@@ -1308,7 +1398,7 @@
 * репозиторий игр на движке instead
   * https://instead-games.ru/index.php?online=1
 
-#### прохождения
+### прохождения
 * most friendly and passionate PC gamers motivated in helping others with their problems
   * https://www.pcgamingwiki.com/wiki/Home
 * прохождения игр
@@ -1316,7 +1406,41 @@
 * collaborative and freely-licensed wiki for all your video game strategy guide and walkthrough needs!
   * https://strategywiki.org/
 
-### журналы
+### правила соревнований
+* premiere name for classic gaming tournaments
+  * https://retroworldseries.com/info/gameplay-rules/
+* Console Game Match Play Rules
+  * https://gameatl.com/console-game-match-play-rules/
+* video game challenges
+  * https://tvtropes.org/pmwiki/pmwiki.php/Main/SelfImposedChallenge
+  * https://tvtropes.org/pmwiki/pmwiki.php/Main/ChallengeRun
+  * https://tvtropes.org/pmwiki/pmwiki.php/Main/NintendoHard
+  * https://www.tumblr.com/nowrongwaytoplay
+  * https://www.antsylabs.com/blogs/the-ant-hill/11-video-game-challenges-to-spice-up-your-next-replay
+  * https://www.reddit.com/r/retrogaming/comments/6y4bw8/looking_for_some_retroold_schoolclassic_game/
+* NEKKETSU SPORTS TOURNAMENTS
+  * https://vk.com/nekketsu
+  * https://vk.com/video/@nekketsu
+  * https://vk.com/board66162180
+  * https://www.romhacking.net/hacks/3123/
+  * https://vk.com/topic-66162180_32401891
+  * список с играми и правилами был там
+  * Турнир по PvP-играм. Сезон 2
+    * https://m.vk.com/topic-66162180_49650767
+* Random Game Gauntlet
+  * https://rgg.land/about
+  * https://t.me/nuke73
+  * https://rgg.land/solo
+  * https://t.me/rgg_tg
+  * https://disk.yandex.ru/d/v21SXV4CjSfZNA
+  * Шаблон для Solo RGG
+    * https://docs.google.com/spreadsheets/d/1dMoSB9kfRWBrQjtgXiXMTE7jA_bK6cCa43PSP_gQ9Co/
+  * https://emulation.gametechwiki.com/index.php/Main_Page
+  * https://rgg.nitrus.top/
+  * История Retro Game Gauntlet
+    * https://m.youtube.com/watch?v=QvQzKWq6ylY
+
+## журналы
 * Российские игровые журналы
   * https://disk.yandex.ru/d/YQLW6DUVCI9e1g
   * https://archive.org/details/game_exe_magazine
@@ -1334,7 +1458,7 @@
     * http://dgmag.in/N38/DowngradeN38.pdf
     * http://dgmag.in/N46/DowngradeN46.pdf
 
-#### статьи и новости
+### статьи и новости
 * https://habr.com/ru/articles/top/monthly/
 * https://xakep.ru/
 * https://www.opennet.ru/
@@ -1344,7 +1468,7 @@
 * social news website focusing on computer science and entrepreneurship
   * https://news.ycombinator.com/
 
-### эмуляторы
+## эмуляторы
 * wiki dedicated to all things emulation
   * https://emulation.gametechwiki.com/
     * https://emulation.gametechwiki.com/index.php/List_of_games_that_support_pressure-sensitive_buttons#PlayStation_2_Emulation
@@ -1401,6 +1525,9 @@
     * https://www.lexaloffle.com/bbs/?tid=35135
   * run PICO-8 carts in browser without exporting them
     * https://github.com/egordorichev/pico-player
+  * pico-8 Music Theory Tutorial
+    * https://www.lexaloffle.com/bbs/?tid=53972
+    * https://bikibird.itch.io/music-theory
 * Picotron
   * https://www.lexaloffle.com/bbs/?cat=8
   * https://www.lexaloffle.com/picotron.php?page=faq
@@ -1523,7 +1650,7 @@
 * attempt to catalog, obtain, and make playable every game developed for the DOS and PC Booter platform
 *  https://www.retro-exo.com/exodos.html
 
-#### онлайн эмуляторы для мультиплеера
+### онлайн эмуляторы для мультиплеера
 * kosmi
   * https://nes.party/
   * https://kosmi.io/openarena
@@ -1535,7 +1662,154 @@
 * https://ryanwmoore.github.io/fceux/
 * https://github.com/hordeparty/prototype
 
-#### места
+### браузерная операционная
+* https://ru.wikipedia.org/wiki/EyeOS
+* списки
+  * https://github.com/zriyansh/awesome-os
+  * https://github.com/syxanash/awesome-web-desktops
+  * https://en.m.wikipedia.org/wiki/Web_desktop
+  * https://simone.computer/
+    * https://simone.computer/#/webdesktops
+    * https://system31.simone.computer/blog/desktops-zip
+    * https://www.simondev.io/projects
+      * рецепт пиццы
+        * https://gist.github.com/syxanash/7b2d135a566cfb2f03dfceba6b34e61a
+* https://generative.3d2k.com/
+* https://git-terminal.js.org/
+  * https://github.com/jcubic/git
+* https://github.com/React95/React95/tree/master/packages/icons
+* https://emupedia.net/beta/
+  * https://github.com/Emupedia/emupedia.github.io
+  * https://github.com/Emupedia/emupedia.github.io/
+  * https://github.com/orgs/Emupedia/repositories
+  * https://github.com/orgs/Emupedia/repositories?q=emupedia-game-
+  * https://emuos.net/beta/emuos/
+  * https://archive.emupedia.net/
+  * https://emuchat.emupedia.net/
+  * https://ws.emupedia.net/webrtc/
+  * https://dtf.ru/u/480091-dzianiska/1897093-pyat-minut-nostalgii-emuos-emulyaciya-staryh-windows-v-brauzere
+  * https://dtf.ru/retro/1860642-onlain-emulyator-win95-s-retro-i-ne-tolko-igrami
+* https://github.com/DustinBrett/daedalOS
+  * https://www.youtube.com/@DustinBrett
+  * https://dustinbrett.com/
+  * https://news.ycombinator.com/threads?id=DustinBrett
+  * https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc
+* https://github.com/Maingron/MainOS
+* http://webos.floydcraft.co.uk/
+  * http://docs.webos.floydcraft.co.uk/
+* https://github.com/belowaverage-org/webdows
+* https://github.com/ducbao414/win32.run
+* https://whimsy.space/
+* https://fakebsod.com/generic
+* https://github.com/AshKyd/ui95
+* https://jdan.github.io/98.css/#tabs
+* https://khang-nd.github.io/7.css
+* http://interface.free.fr/Archives/GUI_Xp.pdf
+* JavaScript and CSS library for creating operating system-like user interfaces
+  * https://os-gui.js.org/
+* library for creating web-based terminals with custom commands
+  * https://github.com/jcubic/jquery.terminal
+* https://github.com/jvilk/BrowserFS
+* https://win98icons.alexmeub.com/
+* https://github.com/khang-nd/bubbles
+* https://github.com/1j01/98
+  * https://github.com/1j01/98/issues
+  * https://github.com/1j01/98/issues/86
+  * https://github.com/1j01/98/pull/37
+* https://github.com/vikrum/kidpix
+* https://windows93.xyz
+* https://windows96.net/
+* https://v1.windows93.xyz
+* https://github.com/malisipi/ubuntu-tour
+* https://98.js.org/
+* https://demo.kodcloud.com/#explorer
+* https://github.com/kalcaddle/kodbox
+* puterjs
+  * https://habr.com/ru/news/798321/
+  * I can’t believe this is real
+    * https://youtu.be/jYV1VDhw7E8
+    * https://github.com/HeyPuter/puter
+    * https://news.ycombinator.com/item?id=39597030
+* exaequOS
+  * https://www.exaequos.com/
+  * https://www.exaequos.com/start
+  * https://www.exaequos.com/doc/build/html/
+* Lisp-based in-browser toy operating system
+  * https://github.com/AlexNisnevich/ECMAchine
+* Pluto is a minimal but functional 'web OS' that aims to provide a desktop environment-like experience inside of a website.
+  * https://pluto-app.zeon.dev/
+
+### OS
+* VNC client web application
+  * https://github.com/novnc/noVNC
+* install old os in browser
+  * https://install.dos.zone/win98.html
+  * https://bellard.org/jslinux/faq.html
+* x86 PC emulator and x86-to-wasm JIT, running in the browser
+  * https://copy.sh/v86/
+  * https://github.com/copy/v86
+* Home of the original IBM PC emulator for browsers
+  * https://www.pcjs.org/
+* Halfix x86 Emulator
+  * https://nepx.github.io/halfix-demo/
+  * https://github.com/nepx/halfix
+  * https://pixelsuft.github.io/onwin/
+  * https://github.com/felixrieseberg/windows95
+* qt4 emscripten
+  * https://vps2.etotheipiplusone.com:30176/redmine/projects/emscripten-qt/wiki/Demos/Demos.html
+* 7-Zip for DOS and Windows 95
+  * https://github.com/dajhorn/retro7zip
+* Backport of .NET 2.0 - 3.5 to Windows 9x
+  * https://github.com/itsmattkc/dotnet9x
+  * https://github.com/itsmattkc/dotnet9x/discussions
+* I ported THOUSANDS of apps to Windows 95
+  * https://www.youtube.com/watch?v=CTUMNtKQLl8
+* винда 95 с программами
+  * https://github.com/felixrieseberg/windows95/releases
+  * https://github.com/felixrieseberg/windows95/blob/master/src/renderer/emulator.tsx
+* virtual Apple Macintosh with System 8, running in Electron. I'm sorry
+  * https://github.com/felixrieseberg/macintosh.js
+* Mac Plus emulator running Mac OS System 7
+  * https://jamesfriend.com.au/pce-js/
+* Basilisk II Classic Macintosh emulator
+  * https://jamesfriend.com.au/projects/basiliskii/BasiliskII-worker.html
+* Virtual Machine running on a Web browser 
+  * https://lrusso.github.io/VirtualXP/VirtualXP.htm
+  * https://lrusso.github.io/VirtualXP/VirtualXP.htm
+* Learn Linux from the safety of your chair using a remote private linux machine with root access
+  * https://linuxzoo.net/
+* PalmOS emulator for the web
+  * https://cloudpilot-emu.github.io/app
+  * https://cloudpilot-emu.github.io/
+  * https://github.com/cloudpilot-emu/cloudpilot-emu
+  * https://palmdb.net/app/palm-roms-complete
+* commodore 64 emulator written in vanilla JavaScript
+  * http://mborgbrant.github.io/c64js/
+  * https://github.com/mborgbrant/c64js
+* RetroArch in your browser
+  * https://binbashbanana.github.io/webretro/
+  * https://github.com/BinBashBanana/webretro
+* списки свободного софта
+  * https://delightful.club/
+* список бесплатных (нет) программ
+  * github.com/Axorax/awesome-free-apps
+* curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
+  * https://github.com/chubin/awesome-console-services
+* свободный софт и для линукса
+  * https://www.nixp.ru/soft
+* Guide to privacy settings for most major software and services
+  * github.com/StellarSand/privacy-settings
+* KolibriOS
+  * https://kolibrios.org/ru/download
+  * https://t.me/s/kolibrios_news
+  * Есть ли жизнь на Колибри ОС? Смотрим на самую маленькую операционную систему!
+    * https://www.youtube.com/watch?v=ak0K_XjT1gE
+  * 💾 Секреты КолибриОС - Промо / KolibriOS Secrets - Promo (ENG SUB)
+    * https://www.youtube.com/watch?v=NyikhKRow-Q
+  * A Modern Operating System in 1.44MBs
+    * https://www.youtube.com/watch?v=SATYQyIcimM
+
+### места
 * https://vk.com/my_videogame
   * https://www.youtube.com/@VideoGame822
   * https://2gis.ru/voronezh/firm/70000001061195741
@@ -1582,41 +1856,7 @@
 * https://xakep.ru/2018/08/16/chaos-constructions-2018/
 * https://chaosconstructions.ru/start/where.html
 
-### правила соревнований
-* premiere name for classic gaming tournaments
-  * https://retroworldseries.com/info/gameplay-rules/
-* Console Game Match Play Rules
-  * https://gameatl.com/console-game-match-play-rules/
-* video game challenges
-  * https://tvtropes.org/pmwiki/pmwiki.php/Main/SelfImposedChallenge
-  * https://tvtropes.org/pmwiki/pmwiki.php/Main/ChallengeRun
-  * https://tvtropes.org/pmwiki/pmwiki.php/Main/NintendoHard
-  * https://www.tumblr.com/nowrongwaytoplay
-  * https://www.antsylabs.com/blogs/the-ant-hill/11-video-game-challenges-to-spice-up-your-next-replay
-  * https://www.reddit.com/r/retrogaming/comments/6y4bw8/looking_for_some_retroold_schoolclassic_game/
-* NEKKETSU SPORTS TOURNAMENTS
-  * https://vk.com/nekketsu
-  * https://vk.com/video/@nekketsu
-  * https://vk.com/board66162180
-  * https://www.romhacking.net/hacks/3123/
-  * https://vk.com/topic-66162180_32401891
-  * список с играми и правилами был там
-  * Турнир по PvP-играм. Сезон 2
-    * https://m.vk.com/topic-66162180_49650767
-* Random Game Gauntlet
-  * https://rgg.land/about
-  * https://t.me/nuke73
-  * https://rgg.land/solo
-  * https://t.me/rgg_tg
-  * https://disk.yandex.ru/d/v21SXV4CjSfZNA
-  * Шаблон для Solo RGG
-    * https://docs.google.com/spreadsheets/d/1dMoSB9kfRWBrQjtgXiXMTE7jA_bK6cCa43PSP_gQ9Co/
-  * https://emulation.gametechwiki.com/index.php/Main_Page
-  * https://rgg.nitrus.top/
-  * История Retro Game Gauntlet
-    * https://m.youtube.com/watch?v=QvQzKWq6ylY
-
-### Учёба
+## Учёба
 * Фейнман: что такое наука
   * http://www.fotuva.org/feynman/what_is_science.html
 * logical fallacies
@@ -1628,6 +1868,9 @@
   * https://therules.ru/
 * ффф
   * https://bureau.ru/about/fff/
+* https://waitbutwhy.com/
+  * Статьи Тима Урбана (Wait But Why) на русском
+    * https://habr.com/ru/articles/506124/
 * ководство Лебедева
   * https://www.artlebedev.ru/kovodstvo/sections/
 * советы бюро Горбунова
@@ -1658,7 +1901,10 @@
   * https://www.mathsisfun.com/
   * https://www.mathopolis.com/
 
-#### маршрут учёбы
+### маршрут учёбы
+* Your Life in Weeks
+  * https://waitbutwhy.com/2014/05/life-weeks.html
+  * https://blog.biario.com/2014/09/zhizn-po-nedelyam.html
 * Community created roadmaps, guides and articles to help developers grow in their career
   * https://roadmap.sh/
 * visual overview of useful skills to learn as a web developer
@@ -1745,7 +1991,7 @@
   * https://habr.com/ru/articles/865198/
   * https://archive.org/details/101basiccomputer0000davi/page/198/mode/2
 
-#### изучение решением заданий
+### изучение решением заданий
 * Тестовые задания для самостоятельного выполнения от разных it компани
   * https://github.com/Hexlet/ru-test-assignments
 * 30 Day Vanilla JS Coding Challenge
@@ -1769,7 +2015,7 @@
 * helps you make cool stuff while learning to code, with free coding games and activities for kids to explore
   * https://codeclubworld.org/
 
-#### материалы и инструменты
+### материалы и инструменты
 * collection of over 1000 RSS feeds for web developers, updated monthly
   * https://github.com/simevidas/web-dev-feeds
 * collection of Free Public APIs for Students and Developers.
@@ -1805,7 +2051,7 @@ structuredjs
 * Your language isn't broken, it's doing floating point math
   * https://0.30000000000000004.com/
 
-#### тренировка программирования
+### тренировка программирования
 * https://leetcode.com/problemset/
 * https://coderun.yandex.ru/
 * https://adventofcode.com/
@@ -1822,9 +2068,7 @@ structuredjs
   * https://css-speedrun.netlify.app/
 * datalemur.com/sql-game
 
-### разработка игр
-* о дизайне уровней
-  * https://level-design.ru/
+## разработка игр
 * создание игр
   * https://gcup.ru/
 * база движков и сред разработки игр
@@ -1839,11 +2083,30 @@ structuredjs
 * list of Game Development resources
   * https://github.com/ellisonleao/magictools
 
-#### люди о любимых движках
+### карты игр
+* о дизайне уровней
+  * https://level-design.ru/
+* virtual museum of videogame maps
+  * https://noclip.website/
+  * https://github.com/magcius/noclip.website
+* карты quake 3
+  * https://lvlworld.com/topmaps/0
+  * https://lvlworld.com/review/id:2231
+  * https://lvlworld.com/review/id:1279
+  * https://lvlworld.com/review/id:1286
+* любимые карты для мультиплеера
+  * https://hlfx.ru/forum/showthread.php?s=96f60aceb36b90bf33c7fdee31757958&threadid=5589
+* https://sbuggay.github.io/bspview/
+* https://github.com/sbuggay/bspview
+* карты для quake 3
+  * https://steamcommunity.com/sharedfiles/filedetails/?id=1518412938
+  * https://icculus.org/gtkradiant/downloads.html
+
+### люди о любимых движках
 * https://www.reddit.com/r/gamedev/comments/wbxb2u/are_there_any_game_engines_with_online_editors/?rdt=53413
 * https://www.reddit.com/r/gamedev/comments/1efo5f6/game_engines_you_can_use_from_your_browser/
 
-#### инструменты для разработки игр
+### инструменты для разработки игр
 * Web Application Framework in JavaScript and Objective-J
   * https://www.cappuccino.dev/
   * https://github.com/cappuccino/cappuccino
@@ -1973,44 +2236,6 @@ structuredjs
   * https://magnum.graphics/
   * https://magnum.graphics/showcase/
 
-#### демо технологий
-* Awwwards
-  * https://www.awwwards.com/websites/sites_of_the_day/
-  * https://www.awwwards.com/websites/sites_of_the_year/
-* https://emupedia.net/emupedia-demo-3d-spatial-audio/
-* https://emupedia.net/emupedia-demo-voxel-space/
-* https://emupedia.net/emupedia-app-8-bit-palette-color-cycling/
-* демо медузы
-  * https://akirodic.com/p/jellyfish/
-* real time graphics
-  * https://www.derschmale.com/
-  * https://www.derschmale.com/lab/doodles/blueeyes/build/
-* Procedurally generated Chinese landscape painting
-  * https://github.com/LingDong-/shan-shui-inf
-* GPU-accelerated computing library for physics simulations and other mathematical calculations
-  * https://apps.amandaghassaei.com/gpu-io/examples/
-* Animated 3D backgrounds for your website
-  * https://www.vantajs.com/?effect=wav
-  * https://github.com/tengbao/vanta
-* retro synthwave "demo scene"
-  * https://victorqribeiro.github.io/retroSynthwave/
-  * https://github.com/victorqribeiro/retroSynthwave
-* Hexells Generative Unfoldings Submission 
-  * https://znah.net/hexells/
-  * https://github.com/znah/hexells
-  * https://news.ycombinator.com/item?id=31158717
-* starfield
-  * https://ashik-starfield.glitch.me/
-  * https://github.com/Ashikpaul/Starfield-effect
-  * https://hassanmo.dev/projects/starfield/
-  * https://draemm.li/various/3d/starflight/
-  * https://codepen.io/bts/pen/BygMzB
-* Three.js first-person shooter example game
-  * https://github.com/mohsenheydari/three-fps
-* https://play.google.com/store/apps/details?id=com.struckd.game
-* WebGL Juggler
-  * https://www.brianapps.net/juggle/webgl.html
-
 ### разработка под приставки
 #### нес
 * https://8bitworkshop.com/
@@ -2048,7 +2273,7 @@ structuredjs
   * http://clrhome.org/asm/
   * http://clrhome.org/table/
 
-#### хаки игр
+### хаки игр
 * https://www.romhacking.net/?page=hacks&platform=1&perpage=20&order=Downloads&startpage=4
 * https://www.romhacking.net/reviews/1645/
 * https://www.romhacking.net/reviews/11870/
@@ -2061,23 +2286,8 @@ structuredjs
   * https://www.emu-land.net/forum/index.php?action=profile;area=showposts;u=5030
 * Fully documented and annotated source code for Elite on the Nintendo Entertainment System (NES)
   * https://github.com/markmoxon/nes-elite-beebasm
-
-#### карты игр
-* virtual museum of videogame maps
-  * https://noclip.website/
-  * https://github.com/magcius/noclip.website
-* карты quake 3
-  * https://lvlworld.com/topmaps/0
-  * https://lvlworld.com/review/id:2231
-  * https://lvlworld.com/review/id:1279
-  * https://lvlworld.com/review/id:1286
-* любимые карты для мультиплеера
-  * https://hlfx.ru/forum/showthread.php?s=96f60aceb36b90bf33c7fdee31757958&threadid=5589
-* https://sbuggay.github.io/bspview/
-* https://github.com/sbuggay/bspview
-* карты для quake 3
-  * https://steamcommunity.com/sharedfiles/filedetails/?id=1518412938
-  * https://icculus.org/gtkradiant/downloads.html
+* хак кооп супер Марио
+  * https://www.emu-land.net/forum/index.php/topic,81090.0.html
 
 ### демосцена
 * 256 байт веселья, или как развлечь себя Ассемблером когда скучно
@@ -2152,297 +2362,43 @@ structuredjs
   * https://apps.lospec.com/pixel-editor
   * https://danielx.net/pixel-editor/
 
-#### редактор моделей
-* https://stephaneginier.com/sculptgl/
-* https://labs.sketchfab.com/sculptfab/
-* https://app.sketchup.com/app?hl=en
-
-### хранитель экрана
-* https://github.com/maze95/maze95-js
-  * https://ibid-11962.github.io/Windows-95-3D-Maze-Screensaver/maze.html
-  * https://github.com/ibid-11962/Windows-95-3D-Maze-Screensaver
-* https://github.com/kevin-shannon/3D-FlowerBox
-* https://github.com/1j01/pipes
-* https://github.com/khang-nd/bubbles
-* https://rezmason.github.io/matrix/?version=operator
-* https://ser-gen.github.io/sandbox/clocks/cifra/
-* Recreating After Dark screensavers in CSS
-  * http://bryanbraun.github.io/after-dark-css/
-  * https://github.com/bryanbraun/after-dark-css
-* https://www.bouncingdvdlogo.com/
-* open-source tribute to the macOS Drift screensaver
-  * https://flux.sandydoo.me/
-  * https://github.com/sandydoo/flux
-* https://polarclockelm.sandydoo.me/
-  * https://github.com/sandydoo/PolarClockElm
-* Re-implemtation of the Johnny Castaway Screensaver
-  * https://github.com/xesf/castaway
-  * http://www.hunterdavis.com/johnnycastawaywine/
-  * https://hunterdavis.com/2019/12/12/launch_blog_post.html
-  * https://castaway.xesf.net/
-* https://t.me/artalog/331
-  * https://artalar.github.io/csb-trpr1/
-
-### старый интернет
-* https://web.archive.org/
-  * https://web.archive.org/web/20190530004539/http://herculeskv.narod.ru/documents/mustdie.htm
-  * https://web.archive.org/web/20191006061442/http://blog.gamedeff.com/?p=64
-  * https://web.archive.org/web/20210616065539/http://blog.gamedeff.com/
-* list of the various projects to get vintage computers connected to the internet 
-  * https://github.com/ssshake/retro-computing-internet-resources
-* https://theoldnet.com/
-* Browse emulated browsers connected to old web sites in your browser!
-  * https://oldweb.today/
-* поисковик старых сайтов
-  * https://wiby.me/
-  * https://t.me/retrodevicesnerd/12371
-* World’s Oldest Web Page (I have it)
-  * https://www.ibiblio.org/pjones/blog/worlds-oldest-web-page-i-have-it/
-* https://www.reddit.com/r/web_design/comments/r5kvp1/tips_for_a_90s_looking_website/
-* https://www.cameronsworld.net/
-* https://www.spacejam.com/1996/
-* http://www.funkychickens.com/main.asp
-* https://www.arngren.net/
-* https://poolsuite.net/
-
-### браузерная операционная
-* https://ru.wikipedia.org/wiki/EyeOS
-* списки
-  * https://github.com/zriyansh/awesome-os
-  * https://github.com/syxanash/awesome-web-desktops
-  * https://en.m.wikipedia.org/wiki/Web_desktop
-  * https://simone.computer/
-    * https://simone.computer/#/webdesktops
-    * https://system31.simone.computer/blog/desktops-zip
-    * https://www.simondev.io/projects
-      * рецепт пиццы
-        * https://gist.github.com/syxanash/7b2d135a566cfb2f03dfceba6b34e61a
-* https://generative.3d2k.com/
-* https://git-terminal.js.org/
-  * https://github.com/jcubic/git
-* https://github.com/React95/React95/tree/master/packages/icons
-* https://emupedia.net/beta/
-  * https://github.com/Emupedia/emupedia.github.io
-  * https://github.com/Emupedia/emupedia.github.io/
-  * https://github.com/orgs/Emupedia/repositories
-  * https://github.com/orgs/Emupedia/repositories?q=emupedia-game-
-  * https://emuos.net/beta/emuos/
-  * https://archive.emupedia.net/
-  * https://emuchat.emupedia.net/
-  * https://ws.emupedia.net/webrtc/
-  * https://dtf.ru/u/480091-dzianiska/1897093-pyat-minut-nostalgii-emuos-emulyaciya-staryh-windows-v-brauzere
-  * https://dtf.ru/retro/1860642-onlain-emulyator-win95-s-retro-i-ne-tolko-igrami
-* https://github.com/DustinBrett/daedalOS
-  * https://www.youtube.com/@DustinBrett
-  * https://dustinbrett.com/
-  * https://news.ycombinator.com/threads?id=DustinBrett
-  * https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc
-* https://github.com/Maingron/MainOS
-* http://webos.floydcraft.co.uk/
-  * http://docs.webos.floydcraft.co.uk/
-* https://github.com/belowaverage-org/webdows
-* https://github.com/ducbao414/win32.run
-* https://whimsy.space/
-* https://fakebsod.com/generic
-* https://github.com/AshKyd/ui95
-* https://jdan.github.io/98.css/#tabs
-* https://khang-nd.github.io/7.css
-* http://interface.free.fr/Archives/GUI_Xp.pdf
-* JavaScript and CSS library for creating operating system-like user interfaces
-  * https://os-gui.js.org/
-* library for creating web-based terminals with custom commands
-  * https://github.com/jcubic/jquery.terminal
-* https://github.com/jvilk/BrowserFS
-* https://win98icons.alexmeub.com/
-* https://github.com/khang-nd/bubbles
-* https://github.com/1j01/98
-  * https://github.com/1j01/98/issues
-  * https://github.com/1j01/98/issues/86
-  * https://github.com/1j01/98/pull/37
-* https://github.com/vikrum/kidpix
-* https://windows93.xyz
-* https://windows96.net/
-* https://v1.windows93.xyz
-* https://github.com/malisipi/ubuntu-tour
-* https://98.js.org/
-* https://demo.kodcloud.com/#explorer
-* https://github.com/kalcaddle/kodbox
-* puterjs
-  * https://habr.com/ru/news/798321/
-  * I can’t believe this is real
-    * https://youtu.be/jYV1VDhw7E8
-    * https://github.com/HeyPuter/puter
-    * https://news.ycombinator.com/item?id=39597030
-* exaequOS
-  * https://www.exaequos.com/
-  * https://www.exaequos.com/start
-  * https://www.exaequos.com/doc/build/html/
-* Lisp-based in-browser toy operating system
-  * https://github.com/AlexNisnevich/ECMAchine
-* Pluto is a minimal but functional 'web OS' that aims to provide a desktop environment-like experience inside of a website.
-  * https://pluto-app.zeon.dev/
-
-### OS
-* VNC client web application
-  * https://github.com/novnc/noVNC
-* install old os in browser
-  * https://install.dos.zone/win98.html
-  * https://bellard.org/jslinux/faq.html
-* x86 PC emulator and x86-to-wasm JIT, running in the browser
-  * https://copy.sh/v86/
-  * https://github.com/copy/v86
-* Home of the original IBM PC emulator for browsers
-  * https://www.pcjs.org/
-* Halfix x86 Emulator
-  * https://nepx.github.io/halfix-demo/
-  * https://github.com/nepx/halfix
-  * https://pixelsuft.github.io/onwin/
-  * https://github.com/felixrieseberg/windows95
-* qt4 emscripten
-  * https://vps2.etotheipiplusone.com:30176/redmine/projects/emscripten-qt/wiki/Demos/Demos.html
-* 7-Zip for DOS and Windows 95
-  * https://github.com/dajhorn/retro7zip
-* Backport of .NET 2.0 - 3.5 to Windows 9x
-  * https://github.com/itsmattkc/dotnet9x
-  * https://github.com/itsmattkc/dotnet9x/discussions
-* I ported THOUSANDS of apps to Windows 95
-  * https://www.youtube.com/watch?v=CTUMNtKQLl8
-* винда 95 с программами
-  * https://github.com/felixrieseberg/windows95/releases
-  * https://github.com/felixrieseberg/windows95/blob/master/src/renderer/emulator.tsx
-* virtual Apple Macintosh with System 8, running in Electron. I'm sorry
-  * https://github.com/felixrieseberg/macintosh.js
-* Mac Plus emulator running Mac OS System 7
-  * https://jamesfriend.com.au/pce-js/
-* Basilisk II Classic Macintosh emulator
-  * https://jamesfriend.com.au/projects/basiliskii/BasiliskII-worker.html
-* Virtual Machine running on a Web browser 
-  * https://lrusso.github.io/VirtualXP/VirtualXP.htm
-  * https://lrusso.github.io/VirtualXP/VirtualXP.htm
-* Learn Linux from the safety of your chair using a remote private linux machine with root access
-  * https://linuxzoo.net/
-* PalmOS emulator for the web
-  * https://cloudpilot-emu.github.io/app
-  * https://cloudpilot-emu.github.io/
-  * https://github.com/cloudpilot-emu/cloudpilot-emu
-  * https://palmdb.net/app/palm-roms-complete
-* commodore 64 emulator written in vanilla JavaScript
-  * http://mborgbrant.github.io/c64js/
-  * https://github.com/mborgbrant/c64js
-* RetroArch in your browser
-  * https://binbashbanana.github.io/webretro/
-  * https://github.com/BinBashBanana/webretro
-
-#### софт
-* списки свободного софта
-  * https://delightful.club/
-* список бесплатных (нет) программ
-  * github.com/Axorax/awesome-free-apps
-* curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
-  * https://github.com/chubin/awesome-console-services
-* свободный софт и для линукса
-  * https://www.nixp.ru/soft
-* Guide to privacy settings for most major software and services
-  * github.com/StellarSand/privacy-settings
-* KolibriOS
-  * https://kolibrios.org/ru/download
-  * https://t.me/s/kolibrios_news
-  * Есть ли жизнь на Колибри ОС? Смотрим на самую маленькую операционную систему!
-    * https://www.youtube.com/watch?v=ak0K_XjT1gE
-  * 💾 Секреты КолибриОС - Промо / KolibriOS Secrets - Promo (ENG SUB)
-    * https://www.youtube.com/watch?v=NyikhKRow-Q
-  * A Modern Operating System in 1.44MBs
-    * https://www.youtube.com/watch?v=SATYQyIcimM
-
-### AI
-* AI App Directory
-  * https://huggingface.co/spaces
-* слоп
-  * https://en.m.wikipedia.org/wiki/AI_slop
-* новинки
-  * https://huggingface.co/spaces
-  * https://www.superhuman.ai/
-  * https://ailist.ru/free/
-* подборка
-  * https://t.me/ru2chvg/33811
-* дипфейки
-  * https://deepfacevideo.com/gallery
-* увеличение
-  * https://doevent-face-real-esrgan.hf.space/
-    * https://github.com/ai-forever/Real-ESRGAN
-    * https://github.com/Ser-Gen/Real-ESRGAN-Test
-  * https://huggingface.co/spaces/OAOA/InvSR
-    * https://github.com/zsyOAOA/InvSR
-* текст в картинку
-  * https://bytedance-sdxl-lightning.hf.space/?__theme=dark
-* текст
-  * https://labs.perplexity.ai/
-* !!! текст арена
-  * https://chat.lmsys.org/
-* чот про видео
-  * https://www.veed.io/edit/
-* текст в картинки
-  * https://www.midjourney.com/
-* !!! создание музыки
-  * https://www.suno.wiki/
-  * https://suno-ai.notion.site/FAQs-b72601b96de44e5cacd2cd6baa985448
-  * https://suno.com/explore
-  * Как сделать ТРЕК ЗА 5 МИНУТ с помощью НЕЙРОСЕТИ | SUNO.AI
-    * https://www.youtube.com/watch?v=ZNNebbWvKwk
-* нейро видео
-  * Luma Dream Machine
-    * lumalabs.ai/dream-machine
-    * Image To Video Ai 2024
-      * https://youtu.be/JoAAuWNTB48
-      * https://journal.tinkoff.ru/how-to-use-luma-ai/
-  * https://klingai.com/
-* генерация формул экселя
-  * https://gptexcel.uk/
-* генерация кода
-  * https://ollama.com/blog/continue-code-assistant
-* удаление вотермарков
-  * https://unwatermark.ai/
-* написание текста
-  * https://ultratext.ru/
-* перевод больших текстов
-  * x-doc.ai
-* геопозиция по фото
-  * pro.geospy.ai
-* генерация модели
-  * zoo.dev/text-to-cad
-* vectorizer.ai
-* !!! текст в видео
-  * https://hailuoai.video/
-  * текст в аудио
-    * hailuo.ai/audio
-    * https://ageofllms.com/ai-howto-prompts/ai-fun/hailuo-minimax-tutorial
-* OpenHands: Code Less, Make More
-  * github.com/All-Hands-AI/OpenHands
-  * https://t.me/dvachannel/152489
-* чат
-  * chat.qwenlm.ai/
-  * https://qwen-ai.com/
-* чат без авторизации
-  * blackbox.ai
-* Interact with your documents using the power of GPT privately
-  * github.com/zylon-ai/private-gpt
-* улучшение качества видео — не работает
-  * huggingface.co/spaces/SherryX/STAR
-* чат
-  * chat.deepseek.com
-* Bringing stable diffusion models to web browsers
-  * https://websd.mlc.ai/
-  * https://github.com/mlc-ai/web-stable-diffusion
-* High-performance In-browser LLM Inference Engine
-  * https://chat.webllm.ai/
-  * https://github.com/mlc-ai/web-llm
-
-### сделай сам
-* https://www.instructables.com/
-* научить всех на свете, как делать все что угодно
-  * https://ru.wikihow.com/wikiHow:%D0%9E-wikiHow
-
-### ВЕБГЛ
+### демо технологий
+* Awwwards
+  * https://www.awwwards.com/websites/sites_of_the_day/
+  * https://www.awwwards.com/websites/sites_of_the_year/
+* https://emupedia.net/emupedia-demo-3d-spatial-audio/
+* https://emupedia.net/emupedia-demo-voxel-space/
+* https://emupedia.net/emupedia-app-8-bit-palette-color-cycling/
+* демо медузы
+  * https://akirodic.com/p/jellyfish/
+* real time graphics
+  * https://www.derschmale.com/
+  * https://www.derschmale.com/lab/doodles/blueeyes/build/
+* Procedurally generated Chinese landscape painting
+  * https://github.com/LingDong-/shan-shui-inf
+* GPU-accelerated computing library for physics simulations and other mathematical calculations
+  * https://apps.amandaghassaei.com/gpu-io/examples/
+* Animated 3D backgrounds for your website
+  * https://www.vantajs.com/?effect=wav
+  * https://github.com/tengbao/vanta
+* retro synthwave "demo scene"
+  * https://victorqribeiro.github.io/retroSynthwave/
+  * https://github.com/victorqribeiro/retroSynthwave
+* Hexells Generative Unfoldings Submission 
+  * https://znah.net/hexells/
+  * https://github.com/znah/hexells
+  * https://news.ycombinator.com/item?id=31158717
+* starfield
+  * https://ashik-starfield.glitch.me/
+  * https://github.com/Ashikpaul/Starfield-effect
+  * https://hassanmo.dev/projects/starfield/
+  * https://draemm.li/various/3d/starflight/
+  * https://codepen.io/bts/pen/BygMzB
+* Three.js first-person shooter example game
+  * https://github.com/mohsenheydari/three-fps
+* https://play.google.com/store/apps/details?id=com.struckd.game
+* WebGL Juggler
+  * https://www.brianapps.net/juggle/webgl.html
 * https://thebookofshaders.com/
 * https://www.shadertoy.com/
   * https://www.shadertoy.com/view/mtyGWy
@@ -2476,7 +2432,7 @@ structuredjs
 * превращает звук в иллюстрации
   * https://kaleidoskopus.artlebedev.ru/
 
-### ВИДЕО
+## ВИДЕО
 * Running .NET on the NES | BRK252
   * https://youtu.be/ASTqqvQo0dM
 * ACE Engine - крышесносный мод Doom 2 под MS-DOS (Old-Hard №99)
@@ -2634,13 +2590,13 @@ structuredjs
 * неформальная, неформатная, фривольная и юмористическая интернет-энциклопедия на русском языке
   * https://neolurk.org/
 
-### история
+## история
 * книга история Смешариков
   * https://books.yandex.ru/books/WJDOoXfD
 * Filmmaking Process
   * https://disneyanimation.com/process/
 
-#### история игр
+### история игр
 * Video Game History Foundation Library
   * https://library.gamehistory.org/
   * https://t.me/yellow_room_nerdcave/1160
@@ -2725,7 +2681,7 @@ structuredjs
 * "realistic" graphics aren't about "graphics"
   * https://youtu.be/wAiiDncL8zM
 
-#### Энциклопедия профессора Фортрана
+### Энциклопедия профессора Фортрана
 * «Энциклопедия профессора Фортрана»: вспоминаем легендарную книгу из детства миллениалов
   * https://habr.com/ru/companies/ruvds/articles/856730/
 * Андрей Зарецкий, Александр Труханов: «Гонорара хватило, чтобы кофе попить»
@@ -2737,7 +2693,7 @@ structuredjs
 * в какой кодировке
   * https://bolknote.ru/all/v-kakoy-kodirovke/
 
-#### история русских игр
+### история русских игр
 * Книги, по которым мы в детстве учили программирование и будем учить детей
   * https://habr.com/ru/articles/265787/
 * Основы информатики и вычислительной техники. Школьный компьютер (1989)
@@ -2842,19 +2798,13 @@ structuredjs
   * https://habr.com/ru/company/ruvds/blog/686100/
   * https://habr.com/ru/company/ruvds/blog/687442/
 
-#### компьютерные клубы
+### компьютерные клубы
 * «Игровухи» — история компьютерных клубов в России
   * https://habr.com/ru/companies/vdsina/articles/554230/
 * https://www.proplay.ru/clubs/
   * https://www.proplay.ru/clubs/voronej/quad/
 
-#### розыгрыши
-* От мышей на экране до zip-бомбы: топ приложений-шуток из начала нулевых
-  * https://habr.com/ru/companies/ru_mts/articles/856866/
-* Как я писал «Вирус-бякус» на Delphi (шутка родом из конца 90-х)
-  * https://habr.com/ru/articles/857392/
-
-#### PlayStation history
+### PlayStation history
 * http://playstation.com/ru-ru/playstation-history/1994-ps-one/
 * https://blog.playstation.com/2019/12/05/how-takafumi-fujisawa-created-the-original-playstations-startup-sound/
 
@@ -2865,16 +2815,10 @@ structuredjs
   * https://youtu.be/hNFBzlGZWDM
 * https://tapochek.net/viewtopic.php?t=263686&start=0 пс5
 
-#### Delisted Games
+### Delisted Games
 * https://delistedgames.com/
 
-### list of /uses pages detailing developer setups, gear, software and configs
-* https://uses.tech/
-  * https://wesbos.com/uses
-  * https://jakubsoboczynski.pl/uses/
-  * https://agustinvaleriani.com/uses
-
-### ЛЮДИ
+## ЛЮДИ
 * https://habr.com/ru/hubs/games/articles/
 * https://habr.com/ru/hubs/antikvariat/articles/
 * https://t.me/GamerOldfag
@@ -3015,6 +2959,8 @@ structuredjs
 * https://bolknote.ru
 * Интернет-время «Своч»
   * https://bolknote.ru/all/internet-vremya-svoch/
+* https://neil.fraser.name/
+  * https://github.com/NeilFraser
 * https://fms.komkon.org/
 * https://habr.com/ru/users/GeeksCat/
 * https://habr.com/ru/users/Limows/publications/articles/
@@ -3063,8 +3009,100 @@ structuredjs
   * https://t.me/karnovdima/39
   * https://t.me/karnovdima/39?comment=50
 
+### list of /uses pages detailing developer setups, gear, software and configs
+* https://uses.tech/
+  * https://wesbos.com/uses
+  * https://jakubsoboczynski.pl/uses/
+  * https://agustinvaleriani.com/uses
+
 ## источники
 * https://github.com/DustinBrett/daedalOS/blob/main/README.md
   * https://github.com/DustinBrett/daedalOS/blob/main/public/CREDITS.md
   * https://github.com/DustinBrett/daedalOS/blob/main/IDEAS.md
 * https://github.com/Emupedia/emupedia.github.io/blob/master/beta/emuos/assets/data/desktop.json
+
+## AI
+* AI App Directory
+  * https://huggingface.co/spaces
+* слоп
+  * https://en.m.wikipedia.org/wiki/AI_slop
+* источники
+  * https://huggingface.co/spaces
+  * https://www.superhuman.ai/
+  * https://ailist.ru/free/
+* примеры запросов
+  * 1,000+ ChatGPT Prompts
+    * https://www.superhuman.ai/c/1000_chatgpt_prompts
+* подборка
+  * https://t.me/ru2chvg/33811
+* дипфейки
+  * https://deepfacevideo.com/gallery
+* увеличение
+  * https://doevent-face-real-esrgan.hf.space/
+    * https://github.com/ai-forever/Real-ESRGAN
+    * https://github.com/Ser-Gen/Real-ESRGAN-Test
+  * https://huggingface.co/spaces/OAOA/InvSR
+    * https://github.com/zsyOAOA/InvSR
+* текст в картинку
+  * https://bytedance-sdxl-lightning.hf.space/?__theme=dark
+* текст
+  * https://labs.perplexity.ai/
+* !!! текст арена
+  * https://chat.lmsys.org/
+* чот про видео
+  * https://www.veed.io/edit/
+* текст в картинки
+  * https://www.midjourney.com/
+* !!! создание музыки
+  * https://www.suno.wiki/
+  * https://suno-ai.notion.site/FAQs-b72601b96de44e5cacd2cd6baa985448
+  * https://suno.com/explore
+  * Как сделать ТРЕК ЗА 5 МИНУТ с помощью НЕЙРОСЕТИ | SUNO.AI
+    * https://www.youtube.com/watch?v=ZNNebbWvKwk
+* нейро видео
+  * Luma Dream Machine
+    * lumalabs.ai/dream-machine
+    * Image To Video Ai 2024
+      * https://youtu.be/JoAAuWNTB48
+      * https://journal.tinkoff.ru/how-to-use-luma-ai/
+  * https://klingai.com/
+* генерация формул экселя
+  * https://gptexcel.uk/
+* генерация кода
+  * https://ollama.com/blog/continue-code-assistant
+* удаление вотермарков
+  * https://unwatermark.ai/
+* написание текста
+  * https://ultratext.ru/
+* перевод больших текстов
+  * x-doc.ai
+* геопозиция по фото
+  * pro.geospy.ai
+* генерация модели
+  * zoo.dev/text-to-cad
+* vectorizer.ai
+* !!! текст в видео
+  * https://hailuoai.video/
+  * текст в аудио
+    * hailuo.ai/audio
+    * https://ageofllms.com/ai-howto-prompts/ai-fun/hailuo-minimax-tutorial
+* OpenHands: Code Less, Make More
+  * github.com/All-Hands-AI/OpenHands
+  * https://t.me/dvachannel/152489
+* чат
+  * chat.qwenlm.ai/
+  * https://qwen-ai.com/
+* чат без авторизации
+  * blackbox.ai
+* Interact with your documents using the power of GPT privately
+  * github.com/zylon-ai/private-gpt
+* улучшение качества видео — не работает
+  * huggingface.co/spaces/SherryX/STAR
+* чат
+  * chat.deepseek.com
+* Bringing stable diffusion models to web browsers
+  * https://websd.mlc.ai/
+  * https://github.com/mlc-ai/web-stable-diffusion
+* High-performance In-browser LLM Inference Engine
+  * https://chat.webllm.ai/
+  * https://github.com/mlc-ai/web-llm
