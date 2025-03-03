@@ -2775,6 +2775,7 @@ structuredjs
 * https://t.me/dartemugamer
 * https://t.me/spacewolfblog
 * https://t.me/retrodrom
+* https://t.me/gaming_blog
 * https://m.vk.com/retrogeekblog
 * https://t.me/addlist/qgux9R48RKJlMWEy
 * https://t.me/retrodevicesnerd
