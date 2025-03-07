@@ -621,6 +621,10 @@
 * https://audiomass.co/
   * https://github.com/pkalogiros/audiomass
 * https://editor.audio/
+* audio tools
+  * https://vocalremover.org/
+* mouse or keyboard to tap along while you listen to any song
+  * https://tunebat.com/BPM-Tempo-Tapper
 * https://www.beepbox.co/
   * https://twitter-archive.beepbox.co/
   * https://github.com/johnnesky/beepbox/releases/tag/v0.1
@@ -955,6 +959,8 @@
   * https://t.me/yellow_room_nerdcave/1131
 * Emscripten ported libraries. See emscripten-core for the core repos
   * https://github.com/orgs/emscripten-ports/repositories
+* video game preservation
+  * https://github.com/orgs/Emupedia/repositories
 
 ### источник игр, чтобы играть
 * https://archive.org/details/stream_only
@@ -1915,6 +1921,8 @@
   * https://bureau.ru/soviet/
 * Советы о тексте, редактуре и рекламе
   * https://soviet.glvrd.ru/
+* world-leading media conglomerate of renowned experts in UIs, UX and TVs
+  * https://grumpy.website/
 * collection of best practices that designers can consider when building user interfaces
   * https://lawsofux.com/
 * сложности разработки шрифта
@@ -1995,6 +2003,10 @@
   * https://github.com/sql-js/sql.js
   * https://sql.js.org/examples/GUI/
   * https://github.com/AlaSQL/alasql
+* Clojure
+  * https://www.mycompiler.io/new/clojure
+  * Материалы курсов по Clojure, бесплатно и онлайн
+    * https://clojurecourse.by/
 * JS
   * https://learn.javascript.ru/
   * https://react-tutorial.app/app.html?id=328
@@ -2847,6 +2859,14 @@ structuredjs
 * https://habr.com/ru/users/Limows/publications/articles/
 * История ритм-игр: от «Саймона» до Just Dance
   * https://habr.com/ru/companies/yandex/articles/806125/
+* https://tonsky.me/
+  * Моё разочарование в софте
+    * https://habr.com/ru/articles/423889/
+    * Долой "жирные" программы
+      * https://www.osp.ru/os/1996/06/179017
+  * https://habr.com/ru/users/tonsky/articles/
+  * https://tonsky.livejournal.com/
+  * https://t.me/nikitonsky_pub
 * Лёша Кластер
   * https://vk.com/clusterm
   * https://cluster.wtf/
@@ -2890,11 +2910,14 @@ structuredjs
   * https://t.me/karnovdima/39
   * https://t.me/karnovdima/39?comment=50
 
-### list of /uses pages detailing developer setups, gear, software and configs
-* https://uses.tech/
-  * https://wesbos.com/uses
-  * https://jakubsoboczynski.pl/uses/
-  * https://agustinvaleriani.com/uses
+### личное 
+* list of /uses pages detailing developer setups, gear, software and configs
+  * https://uses.tech/
+    * https://wesbos.com/uses
+    * https://jakubsoboczynski.pl/uses/
+    * https://agustinvaleriani.com/uses
+* list of developer portfolios for your inspiration
+  * https://github.com/emmabostian/developer-portfolios
 
 ## источники
 * https://github.com/DustinBrett/daedalOS/blob/main/README.md
