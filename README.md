@@ -340,6 +340,7 @@
   * https://design.bureau.ru/
 * форум стелс машины
   * https://paralay.iboards.ru/
+  * https://t.me/aviamemes
 * Руководства по лётной эксплуатации самолётов и вертолётов
   * https://www.avsim.su/wiki/РЛЭ
 * Genealogy of Technology and Power Since 1500
@@ -901,7 +902,6 @@
 * Игры с режимом CPU vs CPU
   * https://vk.com/topic-66162180_32573949
 
-
 ### источник игр
 * https://www.old-games.ru/game/download/4639.html
 * https://www.emu-land.net/consoles/
@@ -935,6 +935,7 @@
 * https://okgamer.ru
 * https://ytch.xyz/
 * https://t.me/malepeg/8277
+* http://www.nitrome.com/games/
 
 ### источники портов, в том числе браузерных
 * модификации для игр: патчи, наборы текстур, source-ports и т.д.
@@ -1010,8 +1011,18 @@
   * https://dos.zone/
     * https://dos.zone/multiplayer/
     * https://dos.zone/ru/
+      * https://dos.zone/ru/support/
     * https://js-dos.com/6.22/examples/
     * https://epicport.com/ru
+    * DOS zone browser steam deck
+      * https://flathub.org/apps/zone.dos.Browser
+    * бенчмарк дос
+      * https://dos.zone/dhrystone-2-test-jul-2020/
+    * https://dos.zone/offline/
+      * https://dos.zone/offline/dune-2-android
+      * https://dos.zone/offline/warcraft-ii-android/
+    * особенности производительности эмулятора
+      * https://t.me/gamebase54/1071
   * https://dosgamer.com/
   * https://dosgames.com/
   * https://dosdeck.com/
@@ -1048,58 +1059,7 @@
     * https://flasharch.com/en/archive/play/a6a8b09944d6a3d93d53ad504d4c0f43
 
 ### отдельные игры
-* хром дино
-  * chrome://dino/
-  * https://wayou.github.io/t-rex-runner/
-  * https://github.com/wayou/t-rex-runner
-  * labs.google/gendino/ — уничтожена
-* hover
-  * https://www.reddit.com/r/gamedev/comments/1nl5nk/i_worked_with_microsoft_to_bring_hover_to_html5/?rdt=58697
-  * https://www.geekwire.com/2013/windows-95-game-hover-reborn-indie-developer-happen/
-  * https://answers.microsoft.com/en-us/windows/forum/all/ways-to-play-hover-ie/ebfb778e-4e8a-4d8a-a835-8108a8ee1532
-  * http://web.archive.org/web/20140301000000*/hover.ie
-* doom 2d
-  * https://dosgamer.com/games/play/doom2d-8632.html
-* doom roguelike
-  * https://dosgames.com/game/doom-the-roguelike/
-  * https://drl.chaosforge.org/downloads
-* квейк мультиплеер
-  * https://www.netquake.io/multiplayer
-* квейк 3
-  * https://github.com/inolen/quakejs
-  * https://github.com/gionko/content.quakejs.com
-  * http://playminigames.ru/game/quake-3-arena-kveyk-3-arena
-  * https://thelongestyard.link/
-    * https://news.ycombinator.com/item?id=41330496
-    * https://github.com/jdarpinian/ioq3
-    * https://github.com/jdarpinian/HumbleNet
-  * https://openarena.live/
-  * https://news.ycombinator.com/item?id=18068275
-  * Quake III Arena ported to JavaScript and WebAssembly
-    * https://lrusso.github.io/Quake3/Quake3.htm
-    * https://github.com/lrusso/Quake3
-* syobon action
-  * https://www.jezng.com/open-syobon-action.js/
-  * https://sourceforge.net/projects/opensyobon/
-* puzzloop
-  * https://archive.org/details/arcade_puzzloop
-  * https://archive.org/details/arcade_pzloop2
-  * https://www.retrogames.cc/arcade-games/puzz-loop-usa.html
-  * https://www.emu-land.net/en/arcade/mame/roms?act=showonly&id=5959
-* Pipe Dream
-  * https://archive.org/details/win3_PipeDr3x
-* guitarflash3
-  * https://guitarflash3.com/
-* superhotline-miami
-  * https://albatr.itch.io/superhotline-miami
-* bloxd
-  * https://bloxd.io/
-* бенчмарк дос
-  * https://dos.zone/dhrystone-2-test-jul-2020/
-* minesweeper
-  * https://minesweeper.online/
-  * https://minesweepergame.com/
-  * https://minesweepergame.com/website/authoritative-minesweeper/wiki/Main_Page
+* Minesweeper
   * The Ultimate Beginners Guide to Minesweeper
     * https://youtu.be/ytKOmS8vJng
   * How the Heck Do You Speedrun Minesweeper?
@@ -1116,82 +1076,29 @@
     * https://hojamaka.com/game/mamono_sweeper_h2/html5/en.html
   * варианты сапёра
     * https://blog.doredel.com/14-minesweeper-variants/
-* supaplex
-  * https://www.supaplex.online/
-* Need For Kill
-  * https://github.com/NeedForKillTheGame/nfk-web
-  * https://github.com/NeedForKillTheGame/nfk-web/pull/2
-* Jedi knight
-  * https://github.com/lklacar/openjk-emscripten
-  * https://jk.qubit.rs/
-* пираты мультиплеер
-  * https://yohoho.io/
+* SimCity 2000
+  * Город детства: что будет, если продолжить игру в SimCity 2000 спустя 25 лет
+  * https://habr.com/ru/companies/timeweb/articles/871736/
+* про бесплатный майнкрафт
+  * https://youtu.be/0qOCuLgX_lw
+  * https://youtu.be/BKNx7chzuJ4
+  * https://youtu.be/qjIPf1d356U
 * Carnivores
   * https://github.com/Game3DEE/webcarnivores
   * https://www.old-games.ru/game/download/1738.html
-* serious sam demo
-  * https://martinmullins.github.io/ssam/
-* Binding of Isaac DEMO
-  * https://www.newgrounds.com/portal/view/581168
-* тетрис
-  * https://akouzoukos.com/apotris
-* inkball
-  * https://flashmuseum.org/inkball/
-* симулятор вождения
-  * https://avtoline-nsk.ru/c/simuljator-vozhdenija/besplatnyy-realistichnyy-simulyator-vojdeniya.html
-  * https://gameforge.com/en-US/littlegames/city-car-driving-simulator/#
-  * https://igroutka.ru/dlya-malchikov/gonki/50591-simulyator-vozhdeniya-gorodskogo-avtomobilya.html
-* Zuma
-  * http://zuma-deluxe.ru/flash/zuma-suma-lost-treasure.html
-  * http://zuma-deluxe.ru/games/flash
-  * http://zuma-deluxe.ru/02-zuma-history.html
-  * https://pikabu.ru/story/zumas_revenge_v_brauzere_11449836
-* Puzz Loop
-  * https://archive.org/details/arcade_puzzloop
-  * https://archive.org/details/arcade_pzloop2
-* xmoto
-  * https://github.com/michaelhoste/xmoto.js
-* cube2 Sauerbraten
-  * http://sauerbraten.org/
-  * https://dtf.ru/games/627319-horosho-zabytoe-staroe-the-cube-2-sauerbraten
-  * старый порт
-    * https://kripken.github.io/misc-js-benchmarks/banana/index.html
-    * https://kripken.github.io/BananaBread/cube2/bb.html
-  * cube2 Sauerbraten активная версия
-    * https://github.com/cfoust/sour
-    * https://sourga.me/
-* Cubes Game Engine
-  * https://github.com/kpreid/cubes/
-* Yet another block/voxel game
-  * https://github.com/kpreid/all-is-cubes
-* InTheCube
-  * https://github.com/ArthurSonzogni/InTheCube
-  * https://arthursonzogni.com/en/InTheCube
-* тетрис
-  * https://vk.com/topic-66162180_53675436
-* web-based rhythm game written in HTML, CSS and JavaScript
-  * https://chloeliang.github.io/rhythm-game/
-  * https://github.com/ChloeLiang/rhythm-game
+* Need For Kill
+  * https://github.com/NeedForKillTheGame/nfk-web
+  * https://github.com/NeedForKillTheGame/nfk-web/pull/2
 * JavaScript game inspired by Osmos 
   * https://github.com/rsamp/OsmoVirus
-* QWOP
-  * https://www.foddy.net/Athletics.html
-  * https://www.foddy.net/2017/09/plan-bee/
-* little master cricket
-  * https://www.foddy.net/2010/10/little-master-cricket/
-  * https://www.foddy.net/Cricket.html
-  * https://poki.com/ru/g/little-master-cricket
-* Super Hexagon
-  * https://en.gameslol.net/super-hexagon-933.html
-* worms-armageddon
-  * https://playminigames.ru/game/worms-armageddon-chervyachki-armageddon
-* http://www.nitrome.com/games/testsubjectgreen/
+* Doom
+  * https://speakerdeck.com/lorti/porting-doom-1993-to-webassembly
+    * https://github.com/Lorti/sdldoom.wasm
+  * https://fabiensanglard.net/gebbdoom/
+    * https://fabiensanglard.net/b/gebbdoom.pdf
+  * doom-captcha.vercel.app
+    * https://github.com/rauchg/doom-captcha
 * nethack
-  * https://www.nethack.org/
-  * https://alt.org/nethack/
-  * https://dos.zone/nethack-1992/
-  * https://ru.wikipedia.org/wiki/Roguelike
-  * https://ru.wikipedia.org/wiki/NetHack
   * https://www.reddit.com/r/nethack/comments/j1h273/best_way_to_play_nethack/?rdt=38764
   * Nethack. Советы на первые полсотни шагов
   * https://habr.com/ru/articles/70391/
@@ -1206,127 +1113,17 @@
   * http://coolwanglu.github.io/BrowserHack
   * https://github.com/coolwanglu/BrowserHack
   * https://github.com/coolwanglu/BrowserHack/wiki/BrowserHack-Help
-* Шахматы
-  * Шахматы Алана Тьюринга
-    * https://bolknote.ru/all/shahmaty-alana-tyuringa/
-    * https://en.m.wikipedia.org/wiki/Turochamp
-    * https://mdoege.github.io/nimTUROCHAMP/
-  * #1 Chess Site for Kids
-    * https://www.chesskid.com/
-    * chessboard3.js
-  * WebAssembly port of the strong chess engine Stockfish
-    * https://lichess.org/analysis
-    * https://github.com/lichess-org/stockfish.wasm
-    * https://jtiscione.github.io/chessboard3js/play.html
-    * https://jtiscione.github.io/chessboard3js/index.html
-* SimCity 2000
-  * https://dos.zone/sim-city-2000-1993/
-  * Город детства: что будет, если продолжить игру в SimCity 2000 спустя 25 лет
-  * https://habr.com/ru/companies/timeweb/articles/871736/
-* Snake
-  * https://github.com/KaeruCT/svanac
-* musicSnake
-  * http://kaeruct.github.io/musicSnake
-  * https://github.com/KaeruCT/musicSnake
-* SkiFree
-  * https://basicallydan.github.io/skifree.js/
-  * https://github.com/basicallydan/skifree.js
-  * http://www.danielhough.co.uk/blog/skifree-js/
-* Pico-8
-  * Port of Another World game engine & assets to PICO8
-    * https://freds72.itch.io/another-world
-  * doom-style game for pico8
-    * https://freds72.itch.io/poom
-  * tiny flight simulator based on a Cessna-172R with a G1000 glass cockpit
-    * https://freds72.itch.io/tiny-sim
-    * https://drive.google.com/file/d/1nuQb7-b5rt0Hrfiyq7UBZMbsBKLwfZhi/view
-  * Cab ride
-    * https://www.lexaloffle.com/bbs/?tid=41332#playing
-* Minecraft
-  * https://eaglercraft.com/
-  * про бесплатный майнкрафт
-  * https://youtu.be/0qOCuLgX_lw
-  * https://youtu.be/BKNx7chzuJ4
-  * https://youtu.be/qjIPf1d356U
-  * remake of Classic 0.0.23a_01, made to celebrate 10 years of Minecraft and was uploaded to the Minecraft website
-    * https://classic.minecraft.net/
-  * sandbox block game inspired by other similar sandbox block games
-    * https://www.classicube.net/
-    * https://github.com/UnknownShadow200/ClassiCube
-  * sandbox game in which you navigate challenging obstacle courses by timing your jumps and movements accurately.
-    * https://bloxd.io/
-* crazy taxi
-  * https://oldgameshelf.com/ru/games/gba/crazy-taxi-catch-a-ride-3503
-* flash
-  * Wolfenstein 1-D
-    * https://archive.org/details/wolfenstein-1-d
-  * moorhuhn
-    * https://flashmuseum.org/?s=moorhuhn
-* Game Boy Color
-  * Heroes of Might and Magic
-* Nintendo DS
-  * "Osu! Tatakae! Ouendan"!
-  * Freshly-Picked Tingle's Rosy Rupeeland
-* Sunday Drive
-  * https://vk.com/app51919721
-  * https://t.me/rdclr_chat/16591
-* AGLOBO
-  * https://daz.itch.io/aglobo
-* Cave Story
-  * https://thelongestyard.link/cave-story/
-* https://gooberdash.winterpixel.io/
-* https://krunker.io/
-* https://venge.io/
-* https://poncle.itch.io/vampire-survivors
-* Кто хочет стать миллионером?
-  * https://ru.wwbm.com/
-* Doom
-  * https://silentspacemarine.com/
-  * https://github.com/cloudflare/doom-wasm
-  * https://wadcmd.com/
-  * https://github.com/lazarv/wasm-doom
-  * https://speakerdeck.com/lorti/porting-doom-1993-to-webassembly
-  * doom-captcha.vercel.app
-    * https://github.com/rauchg/doom-captcha
-* Jazz Jackrabbit 2
-  * https://deat.tk/jazz2/
-  * https://github.com/deathkiller/jazz2-native
-* Wipeout
-  * https://phoboslab.org/wipegame/
-  * https://github.com/phoboslab/wipeout-rewrite
-  * https://phoboslab.org/log/2023/08/rewriting-wipeout
-* Diablo
-  * https://d07riv.github.io/diabloweb/
-* Minesweeper
-  * https://ziebelje.github.io/minesweeper/
-  * https://github.com/ziebelje/minesweeper
-  * https://mines.vercel.app/
-  * https://github.com/ShizukuIchi/minesweeper
-* S.U.R.F.
-  * https://surf.jackbuehner.com/
-  * https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.
-* Game of Life
-  * http://skeeto.github.io/webgl-game-of-life/
-  * https://github.com/skeeto/webgl-game-of-life/
-* Solitaire
-  * https://98.js.org/programs/js-solitaire/
-  * https://github.com/1j01/98/tree/master/programs/js-solitaire
-  * http://radovanjanjic.com/js-solitaire/
-  * https://github.com/rjanjic/js-solitaire
-* Heroes of Might and Magic II
-  * https://ihhub.github.io/fheroes2/
-  * https://github.com/ihhub/fheroes2
-* Doom 3
-  * https://wasm.continuation-labs.com/d3demo/
-* ClassiCube
-  * https://www.classicube.net/server/play/?warned=true
-  * https://www.classicube.net/
-* DX-Ball
-  * https://dx-ball.ru/
-  * https://habr.com/en/post/147339/
-* Space Cadet Pinball
-  * https://alula.github.io/SpaceCadetPinball/
-  * https://github.com/alula/SpaceCadetPinball
+* тетрис
+  * Apotris is a multiplatform open-source block stacking game
+    * https://akouzoukos.com/apotris
+  * Tetris XE+ (Tengen) (Levels &amp; Music Hack) RUS.nes
+    * https://vk.com/topic-66162180_53675436
+* симулятор вождения
+  * https://avtoline-nsk.ru/c/simuljator-vozhdenija/besplatnyy-realistichnyy-simulyator-vojdeniya.html
+  * https://gameforge.com/en-US/littlegames/city-car-driving-simulator/#
+  * https://igroutka.ru/dlya-malchikov/gonki/50591-simulyator-vozhdeniya-gorodskogo-avtomobilya.html
+* Zuma
+  * http://zuma-deluxe.ru/02-zuma-history.html
 
 ### игры в пдф
 * как создать документ пдф
@@ -1830,6 +1627,8 @@
 * commodore 64 emulator written in vanilla JavaScript
   * http://mborgbrant.github.io/c64js/
   * https://github.com/mborgbrant/c64js
+* Commodore 64 emulator
+  * https://ty64.krissz.hu/
 * RetroArch in your browser
   * https://binbashbanana.github.io/webretro/
   * https://github.com/BinBashBanana/webretro
@@ -2003,6 +1802,7 @@
   * https://github.com/sql-js/sql.js
   * https://sql.js.org/examples/GUI/
   * https://github.com/AlaSQL/alasql
+  * https://www.sql-practice.com/
 * Clojure
   * https://www.mycompiler.io/new/clojure
   * Материалы курсов по Clojure, бесплатно и онлайн
@@ -2040,6 +1840,8 @@
   * https://t.me/oldhard_news/618
   * https://habr.com/ru/articles/865198/
   * https://archive.org/details/101basiccomputer0000davi/page/198/mode/2
+* Collecting All Cheat Sheets
+  * https://overapi.com/
 
 ### изучение решением заданий
 * Тестовые задания для самостоятельного выполнения от разных it компани
@@ -2285,6 +2087,17 @@ structuredjs
 * Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
   * https://magnum.graphics/
   * https://magnum.graphics/showcase/
+* Cube 2 Sauerbraten
+  * редактор карт
+    * https://salatielsauer.github.io/OGZ-Editor/
+    * https://github.com/SalatielSauer/OGZ-Editor
+    * http://quadropolis.us/
+* Block-based WebGL game engine where the blocks are made out of blocks
+  * https://github.com/kpreid/cubes/
+* Yet another block/voxel game
+  * https://github.com/kpreid/all-is-cubes
+* Snake
+  * https://github.com/KaeruCT/svanac
 
 ### разработка под приставки
 #### нес
@@ -2499,6 +2312,14 @@ structuredjs
   * http://heroquest.no-ip.com/dgi/5gen/
 * Игры, в которые Nintendo не хотела дать поиграть: Tengen
   * https://habr.com/ru/articles/665140/
+* попкульт 1990
+  * https://vkvideo.ru/video-229086836_456239027
+* попкульт 2000
+  * https://vkvideo.ru/video-229086836_456239028
+* вот винтаж 2001
+  * https://vkvideo.ru/video-353324_456250718
+* вот винтаж 2000
+  * https://vkvideo.ru/video-353324_456249534
 * Как создавалась музыка для Super Nintendo
   * https://youtu.be/jvIzIAgRWV0
 * звук в играх
@@ -2540,6 +2361,8 @@ structuredjs
   * https://dtf.ru/s/590518-yakor/2313149-kak-geib-sozdal-samuyu-pofigisticheskuyu-igrovuyu-kompaniyu
 * гта
   * https://dtf.ru/gamedev/93505-grand-theft-auto
+* История Grand Theft Auto, Lemmings и DMA Design
+  * https://vkvideo.ru/video-80941151_456239829
 * история rockstar games
   * https://vkvideo.ru/video/playlist/-17833376_41591873
 * детали гта Вайс сити
@@ -2711,6 +2534,8 @@ structuredjs
 * https://delistedgames.com/
 
 ## ЛЮДИ
+* чаты по интересам
+  * https://t.me/infinite_read/186830/189868
 * https://habr.com/ru/hubs/games/articles/
 * https://habr.com/ru/hubs/antikvariat/articles/
 * https://t.me/GamerOldfag
@@ -2718,6 +2543,10 @@ structuredjs
   * https://dtf.ru/u/476855-oldfazhnyi-geimer
 * https://t.me/gamebase54
   * https://pikabu.ru/@Carter54
+  * https://archive.org/details/@gamespub_nik_carter_/uploads
+  * https://t.me/gamebase54
+  * https://pay.cloudtips.ru/p/0befe44f
+  * https://boosty.to/carter54
 * https://t.me/doszonechat
 * https://t.me/karnovdima/113
   * список каналов тех, кто работал или работает на StopGame.ru прямо сейчас
