@@ -1747,9 +1747,9 @@
 * Contrast Checker
   * https://webaim.org/resources/contrastchecker/
 * APCA contrast algorithm
-  * https://github.com/xi/apca-introduction
+  * https://www.datawrapper.de/blog/color-contrast-check-data-vis-wcag-apca
   * https://git.apcacontrast.com/
-  * https://www.myndex.com/
+  * https://www.myndex.com/APCA/
   * https://github.com/myndex
 * 152 Visual Phenomena & Optical Illusions with explanations by Michael Bach
   * https://michaelbach.de/ot/
