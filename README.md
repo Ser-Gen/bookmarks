@@ -1744,6 +1744,13 @@
   * https://habr.com/ru/company/edison/blog/480430/
 * biggest forum about the data compression software and algorithms
   * https://encode.su/
+* Contrast Checker
+  * https://webaim.org/resources/contrastchecker/
+* APCA contrast algorithm
+  * https://github.com/xi/apca-introduction
+  * https://git.apcacontrast.com/
+  * https://www.myndex.com/
+  * https://github.com/myndex
 * 152 Visual Phenomena & Optical Illusions with explanations by Michael Bach
   * https://michaelbach.de/ot/
 * Visual Test- and Stimulator Systems by Prof. Michael Bach
