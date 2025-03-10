@@ -1804,7 +1804,8 @@
   * https://github.com/sql-js/sql.js
   * https://sql.js.org/examples/GUI/
   * https://github.com/AlaSQL/alasql
-  * https://www.sql-practice.com/
+  * Practice SQL querys with an online terminal
+    * https://www.sql-practice.com/
 * Clojure
   * https://www.mycompiler.io/new/clojure
   * Материалы курсов по Clojure, бесплатно и онлайн
