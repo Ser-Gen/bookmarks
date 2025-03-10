@@ -2690,11 +2690,6 @@ structuredjs
   * https://bolknote.ru/all/internet-vremya-svoch/
 * https://neil.fraser.name/
   * https://github.com/NeilFraser
-* https://fms.komkon.org/
-* https://habr.com/ru/users/GeeksCat/
-* https://habr.com/ru/users/Limows/publications/articles/
-* История ритм-игр: от «Саймона» до Just Dance
-  * https://habr.com/ru/companies/yandex/articles/806125/
 * https://fabiensanglard.net/
   * The Best Tech Books I read
     * https://fabiensanglard.net/books_recommendations/index.php
@@ -2703,6 +2698,11 @@ structuredjs
   * Why fastDOOM is fast
     * https://fabiensanglard.net/fastdoom/index.html
     * https://habr.com/ru/articles/888166/
+* https://fms.komkon.org/
+* https://habr.com/ru/users/GeeksCat/
+* https://habr.com/ru/users/Limows/publications/articles/
+* История ритм-игр: от «Саймона» до Just Dance
+  * https://habr.com/ru/companies/yandex/articles/806125/
 * https://tonsky.me/
   * Моё разочарование в софте
     * https://habr.com/ru/articles/423889/
