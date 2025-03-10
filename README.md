@@ -510,6 +510,10 @@
   * https://artalar.github.io/csb-trpr1/
 
 ### memes
+* webcomic of romance, sarcasm, math, and language
+  * https://xkcd.com/
+* explain xkcd wiki
+  * https://www.explainxkcd.com/wiki/index.php/Main_Page
 * wiki dedicated to cataloging the tricks of the trade for writing fiction, also called 'Tropes.'
   * https://tvtropes.org
 * website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more
@@ -2316,6 +2320,8 @@ structuredjs
 * MS-DOS: 5 generations of gaming
   * http://heroquest.no-ip.com/dgi/
   * http://heroquest.no-ip.com/dgi/5gen/
+* Good vibrations
+  * https://fabiensanglard.net/happy/
 * Игры, в которые Nintendo не хотела дать поиграть: Tengen
   * https://habr.com/ru/articles/665140/
 * попкульт 1990
