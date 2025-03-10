@@ -374,6 +374,8 @@
   * https://eyes.nasa.gov/apps/solar-system/#/home
 * Astronomy Picture of the Day
   * https://apod.nasa.gov/apod/
+* ISS Docking
+  * https://iss-sim.spacex.com/
 * celestia for web
   * https://celestia.mobi/web
 * Stellarium Web
@@ -2169,6 +2171,9 @@ structuredjs
   * https://habr.com/ru/companies/ruvds/articles/780102/
 * Демо City In A Bottle – система рейкастинга в 256 байтах
   * https://habr.com/ru/articles/815653/
+* https://fabiensanglard.net/second_reality/
+  * https://archive.org/details/msdos_2ND_REAL_shareware
+  * https://github.com/mtuomi/SecondReality
 * https://retroscene.org/
 * https://www.demoscene.ru/
 * http://www.dihalt.org.ru/
@@ -2650,6 +2655,8 @@ structuredjs
   * https://youtube.com/@KinamaniaLive
 * https://youtube.com/@videogamedunkey
 * https://youtube.com/@GSTChannelVEVO
+* DidYouKnowGaming
+  * https://www.youtube.com/channel/UCyS4xQE6DK4_p3qXQwJQAyA
 * https://youtube.com/@Romero666
 * https://youtube.com/@ZnifferN
 * https://youtube.com/@Caiiiycuk
@@ -2688,6 +2695,14 @@ structuredjs
 * https://habr.com/ru/users/Limows/publications/articles/
 * История ритм-игр: от «Саймона» до Just Dance
   * https://habr.com/ru/companies/yandex/articles/806125/
+* https://fabiensanglard.net/
+  * The Best Tech Books I read
+    * https://fabiensanglard.net/books_recommendations/index.php
+  * To become a good C programmer
+    * https://fabiensanglard.net/c/index.php
+  * Why fastDOOM is fast
+    * https://fabiensanglard.net/fastdoom/index.html
+    * https://habr.com/ru/articles/888166/
 * https://tonsky.me/
   * Моё разочарование в софте
     * https://habr.com/ru/articles/423889/
