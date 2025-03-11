@@ -23,7 +23,7 @@
 [impressions.md](impressions.md)
 
 
-## Музыка
+## Медиа
 
 [media.md](media.md)
 
