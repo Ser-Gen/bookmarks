@@ -464,6 +464,8 @@
 * wiki dedicated to all things emulation
   * https://emulation.gametechwiki.com/
     * https://emulation.gametechwiki.com/index.php/List_of_games_that_support_pressure-sensitive_buttons#PlayStation_2_Emulation
+* список эмуляторов и инструментов
+  * https://github.com/sehugg/8bitworkshop#dependencies
 * список нативных эмуляторов и сравнение
   * https://tasvideos.org/EmulatorResources
 * The Old School Emulation Center (TOSEC)
