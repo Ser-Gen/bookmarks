@@ -60,7 +60,7 @@
 [video.md](video.md)
 
 
-## источники
+## источники инструментов и портов игр
 * https://github.com/DustinBrett/daedalOS/blob/main/README.md
   * https://github.com/DustinBrett/daedalOS/blob/main/public/CREDITS.md
   * https://github.com/DustinBrett/daedalOS/blob/main/IDEAS.md
