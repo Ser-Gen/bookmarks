@@ -28,7 +28,7 @@
 
 [games-emulators.md](games-emulators.md)
 
-[Порты игр](https://disk.yandex.ru/i/wNIgojiss6tfTA)
+[Порты игр](https://disk.yandex.ru/i/wNIgojiss6tfTA) — во многом от Carter54, в первую очередь отдельные порты игр, не ромы с dos.zone, например
 
 
 ## Учёба
