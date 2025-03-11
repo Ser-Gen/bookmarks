@@ -1,6 +1,4 @@
-# Достопримечательности интернета
-
-Инструменты для компьютерного творчества и отдыха.
+# Инструменты для компьютерного творчества и отдыха
 
 В интернете есть огромное количество интересных мест, инструменты, сделанные с любовью, подробные статьи от профессионалов. Слишком часто я терял эти места из виду, а найти почему-то было сложно. Буду рад, если вам пригодятся какие-то из этих находок.
 
@@ -16,7 +14,7 @@
 [tools.md](tools.md)
 
 
-## впечатления
+## Впечатления
 
 [impressions.md](impressions.md)
 
@@ -30,7 +28,7 @@
 
 [games-emulators.md](games-emulators.md)
 
-[порты игр](https://disk.yandex.ru/i/wNIgojiss6tfTA)
+[Порты игр](https://disk.yandex.ru/i/wNIgojiss6tfTA)
 
 
 ## Учёба
@@ -43,7 +41,7 @@
 [history.md](history.md)
 
 
-## ЛЮДИ
+## Люди
 
 [peoples.md](peoples.md)
 
@@ -53,12 +51,12 @@
 [ai.md](ai.md)
 
 
-## ВИДЕО
+## Видео
 
 [video.md](video.md)
 
 
-## источники инструментов и портов игр
+## Источники инструментов и портов игр
 * https://github.com/DustinBrett/daedalOS/blob/main/README.md
   * https://github.com/DustinBrett/daedalOS/blob/main/public/CREDITS.md
   * https://github.com/DustinBrett/daedalOS/blob/main/IDEAS.md
