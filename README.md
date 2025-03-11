@@ -32,6 +32,8 @@
 
 [games-emulators.md](games-emulators.md)
 
+[порты игр](https://disk.yandex.ru/i/wNIgojiss6tfTA)
+
 
 ## Учёба
 
