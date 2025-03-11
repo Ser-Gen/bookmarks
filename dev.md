@@ -406,10 +406,10 @@ structuredjs
   * https://github.com/KaeruCT/svanac
 
 ### разработка под приставки
-#### нес
+#### nes, atari, zx spectrum и другие
 * https://8bitworkshop.com/
   * https://github.com/sehugg/8bitworkshop
-  * книгу сюда же
+  * https://8bitworkshop.com/docs/books/
 #### геймбой
 * https://www.gbstudio.dev/
 * Game Boy Development Environment
