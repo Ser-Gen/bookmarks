@@ -243,28 +243,18 @@
 ## ФИЛЬМЫ
 * список сериалов нулевых
   * https://m.vk.com/topic-92492508_39021519
-* источник качать
-  * https://jacred.xyz/
 * источник смотреть фильмы
   * https://1rus.ru/
+* фильмы и сериалы онлайн
+  * https://rutube.ru/u/ru2ch/
+* аниме онлайн
+  * https://rutube.ru/u/animach/
+* документальные фильмы онлайн
+  * https://rutube.ru/u/obrazovach/
+* мультики онлайн
+  * https://rutube.ru/u/multach/
 * лампа
   * http://lampa.mx/
-  * https://t.me/lampa_plugins
-  * https://plugin.rootu.top/tv.js тв
-  * https://plugin.rootu.top/cub-rating.js медианная реакция
-  * https://plugin.rootu.top/fmplay.js радио нормальное
-  * http://plugin.rootu.top/kids.js детские разделы
-  * https://plugin.rootu.top/top100last5year.html топ по рейтингу
-  * https://cub-rating.rootu.top/ анализ рейтинга
-* ReYohoho
-  * https://reyohoho.github.io/reyohoho/
-  * https://github.com/reyohoho/reyohoho
-  * reyohoho.github.io/reyohoho
-  * reyohoho.serv00.net
-  * reyohoho.surge.sh
-  * reyohoho.vercel.app
-  * https://github.com/reyohoho/reyohoho-desktop
-  * https://t.me/ReYohoho/
 * minimal webapp for playing IPTV streams
   * https://hub.octt.eu.org/TiVuOcto/#/about
 
