@@ -636,6 +636,7 @@
   * https://ax.010.one/
   * https://github.com/xarantolus/ax
 * jor1k: OpenRISC OR1K Javascript Emulator Running Linux With Network Support
+  * https://github.com/s-macke/jor1k
   * https://s-macke.github.io/jor1k/demos/main.html?user=OA8d4HuICY&cpu=asm&n=1&relayURL=wss%3A%2F%2Frelay.widgetry.org%2F
 * Browsix is a Unix-like operating system for the browser
   * https://browsix.org/
