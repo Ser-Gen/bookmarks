@@ -5,6 +5,8 @@
   * https://yourbias.is/
 * Biggest Educational and training Platfrom in the world
   * https://mindluster.com
+* free distribution service and an open-access archive for nearly 2.4 million scholarly articles
+  * https://arxiv.org/
 * правила русского языка
   * https://therules.ru/
 * ффф
