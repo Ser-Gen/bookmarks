@@ -176,6 +176,10 @@
   * https://codeclubworld.org/
 
 ### материалы и инструменты
+* introduction to system programming and C
+  * https://cs-education.github.io/sys/#/lessons
+  * https://cs-education.github.io/sys/#VM
+  * https://github.com/angrave/SystemProgramming/wiki
 * collection of over 1000 RSS feeds for web developers, updated monthly
   * https://github.com/simevidas/web-dev-feeds
 * collection of Free Public APIs for Students and Developers.
