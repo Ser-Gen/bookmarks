@@ -269,33 +269,3 @@
 
 ### время
 * https://time.is/
-
-### поиск
-* файлообменник
-  * https://rapidgators.net/
-* игры
-  * zap-search.onrender.com
-* всё
-  * https://rutracker.org/
-* фильмы
-  * popcorn time
-  * https://4pda.to/forum/index.php?showtopic=572424&st=120
-  * https://jacred.xyz/
-* сериалы
-  * https://ru3.seasonvar.nl/
-* книги научные
-  * https://sci-hub.wf/
-  * https://libgen.li/
-  * libgen.io — не работает
-* книги
-  * http://flibusta.is/
-  * https://flibusta.su/ — была ссылка на литрес, видимо скам
-  * http://booktracker.org/
-  * bookfi.net — не работает
-  * b-ok.org — не работает
-  * b-ok.cc — не работает
-  * bookre.org — не работает
-  * электронная библиотека, предоставляющая пользователям возможность читать и скачивать тексты книг
-    * https://lib.rus.ec/
-* крупнейшая по-настоящему открытая библиотека в истории человечества
-  * https://ru.annas-archive.org/
