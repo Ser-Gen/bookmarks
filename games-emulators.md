@@ -738,7 +738,7 @@
   * https://github.com/novnc/noVNC
 * install old os in browser
   * https://install.dos.zone/win98.html
-  * https://bellard.org/jslinux/faq.html
+* https://bellard.org/jslinux/faq.html
 * x86 PC emulator and x86-to-wasm JIT, running in the browser
   * https://copy.sh/v86/
   * https://github.com/copy/v86
