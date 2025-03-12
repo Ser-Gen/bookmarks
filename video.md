@@ -117,3 +117,20 @@
   * https://m.youtube.com/watch?v=UDmtJIwSiIc
 * These games were unplayable…UNTIL NOW - PCem
   * https://youtu.be/mWEE2RJj3YI
+* Jurassic Park (nes) - level 1 metal cover
+  * https://www.youtube.com/watch?v=bxTW53_aJ6A
+* https://www.youtube.com/@zubareus/community
+  * https://vk.com/zubareusmusic
+  * https://zubareus.bandcamp.com/album/zubareus-4
+* Alien 3 (NES) Music / Soundtrack / エイリアン 3 (任天堂 ファミリーコンピュータ) 音楽
+  * https://www.youtube.com/watch?v=GOI_4-o9Iwg
+* Dendy Memories #3: Robocop 3
+  * https://www.youtube.com/watch?v=mmUdxv1X2Go
+* JEROEN TEL - NES ALIEN 3 LEVEL 1 COVER BY НЕРВНЫЙ
+  * https://www.youtube.com/watch?v=bjXtYoAfS8g
+* Jeroen Tel - "RoboCop 3 (NES) - Title Theme" [Oscilloscope View]
+  * https://www.youtube.com/watch?v=0GZYu_YuPjE
+* Jeroen Tel — Robocop 3 (live at Assembly 2012)
+  * https://www.youtube.com/watch?v=HiQrUDIah4E
+* Jeroen Tel Live @ Assembly 2012 HD
+  * https://www.youtube.com/watch?v=tEuWsYOV9tY
