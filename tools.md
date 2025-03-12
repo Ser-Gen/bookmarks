@@ -250,6 +250,8 @@
 * software-on-demand service that instantly delivers existing third-party SW applications to any web-browser equipped device over broadband/3G
   * https://www.rollapp.com/about
   * https://www.rollapp.com/app/blender#/app/blender/modal
+* online platform that allows you to test drive 50+ operating systems with 500+ different versions
+  * https://distrosea.com/
 
 ### Браузер
   * браузер есть в инструментах ОС онлайн
