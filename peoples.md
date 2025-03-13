@@ -107,6 +107,8 @@
 * https://t.me/RetroKhrapov
 * https://t.me/hyperduh
 * https://t.me/viperlong/
+* https://t.me/s/ilya_commander
+  * https://www.youtube.com/channel/UCsvsmFQ8eFRx5v6cdmuYBsg
 * https://youtube.com/@gstchannelvevo
 * https://youtube.com/@PodcastOGRU
 * https://youtube.com/@PxlDevil
