@@ -160,6 +160,7 @@
   * Why fastDOOM is fast
     * https://fabiensanglard.net/fastdoom/index.html
     * https://habr.com/ru/articles/888166/
+* https://bellard.org/
 * https://www.simonphipps.com/games/
 * https://fms.komkon.org/
 * https://habr.com/ru/users/GeeksCat/
