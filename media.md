@@ -262,6 +262,10 @@
 * fastest and most versatile JS EXIF reading library
   * https://mutiny.cz/exifr/
   * https://github.com/MikeKovarik/exifr
+* Exiftool-web, an interface for the CLI tool (running Perl in WASM)
+  * https://news.ycombinator.com/item?id=43160762
+  * https://github.com/lucasgelfond/exiftool-web
+  * https://exiftool.lucasgelfond.online/
 * Create short shareable screen recordings – all using web APIs 
   * https://clips.formidable.dev/
   * https://github.com/FormidableLabs/clips
@@ -284,6 +288,10 @@
 * видеоредактор
   * https://pikimov.com/app/
   * https://news.ycombinator.com/item?id=40843867
+* video editing SDK that runs in the browser
+  * https://playground.rendley.com/
+  * https://news.ycombinator.com/item?id=41108843
+  * https://rendley.com/
 * субтитры для видео
   * https://subtitles.fframes.studio/
   * https://github.com/dmtrKovalenko/subtitler

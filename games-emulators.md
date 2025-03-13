@@ -353,6 +353,8 @@
   * How To Explain Things Real Good (Stanford mini-talk)
     * https://www.youtube.com/watch?v=b-M2U3Jl1Cg
   * https://notdotteam.github.io/trust/
+* https://neal.fun/
+  * https://neal.fun/stimulation-clicker/
 * https://explorabl.es/
 * https://mslivo.itch.io/sandtrix
 * https://helloenjoy.itch.io/hellorun — нет текстур, не поддерживается разработчиками
@@ -459,6 +461,8 @@
   * https://thecode.media/
 * social news website focusing on computer science and entrepreneurship
   * https://news.ycombinator.com/
+  * search
+    * https://hn.algolia.com/
 
 ## эмуляторы
 * wiki dedicated to all things emulation
@@ -601,6 +605,7 @@
   * https://github.com/danoon2/Boxedwine/issues/80
   * https://ktock.github.io/container2wasm-demo/
   * https://github.com/ktock/container2wasm
+  * https://ktock.github.io/qemu-wasm-demo/
 * Спектрум
   * игры Спектрум
     * http://zxonline.ru/

@@ -1,4 +1,3 @@
-
 ### Клавиатурный тренажёр
 * https://solo.nabiraem.ru/study/rus#typingtest
 * https://typerun.top/#rus_basic
@@ -216,6 +215,8 @@
 ### перевод
 * https://translate.yandex.ru/
 * https://www.deepl.com/translator
+* Translate between about 400 languages using the MADLAD400 7 billion parameter language model
+  * https://textsynth.com/translation.html
 
 ### делиться файлами
 * https://wormhole.app/

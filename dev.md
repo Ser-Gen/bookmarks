@@ -14,6 +14,8 @@
 * https://waitbutwhy.com/
   * Статьи Тима Урбана (Wait But Why) на русском
     * https://habr.com/ru/articles/506124/
+* https://ciechanow.ski/archives/
+  * https://ciechanow.ski/moon/
 * ководство Лебедева
   * https://www.artlebedev.ru/kovodstvo/sections/
 * советы бюро Горбунова
@@ -98,19 +100,34 @@
 * Go
   * https://github.com/gopherjs/gopherjs
   * https://gopherjs.github.io/playground/
+* TinyGo
+  * Lightweight Go Compiler for Microcontrollers and WASM
+    * https://tinygo.org/play/
+    * https://github.com/tinygo-org/tinygo
+    * https://news.ycombinator.com/item?id=41691222
 * R
   * https://github.com/georgestagg/webR
   * https://webr.r-wasm.org/latest/
 * Jupyter
+  * https://jupyterlite.github.io/demo/lab/index.html
   * https://github.com/jupyterlite/jupyterlite
   * https://jupyterlite.readthedocs.io/en/stable/try/lab
   * https://jupyterlite.readthedocs.io/en/stable/try/tree
+  * https://news.ycombinator.com/item?id=41728199
 * SQL
   * https://github.com/sql-js/sql.js
   * https://sql.js.org/examples/GUI/
   * https://github.com/AlaSQL/alasql
   * Practice SQL querys with an online terminal
     * https://www.sql-practice.com/
+* Postgres
+  * https://www.crunchydata.com/blog/learn-postgres-at-the-playground
+    * https://www.crunchydata.com/developers/tutorials
+    * https://www.crunchydata.com/developers/playground/psql-basics
+  * PGlite is a WASM Postgres build packaged into a TypeScript/JavaScript client library
+    * https://pglite.dev/repl/
+    * https://news.ycombinator.com/item?id=41224689
+    * https://pglite.dev/
 * Clojure
   * https://www.mycompiler.io/new/clojure
   * Материалы курсов по Clojure, бесплатно и онлайн
@@ -605,7 +622,14 @@ structuredjs
 * simple fireworks library
   * https://fireworks.js.org/
   * https://github.com/crashmax-dev/fireworks-js
+* Large Collection of Interactive(WASM) Creative Coding Demos C99 OpenGL/WebGL
+  * https://jaysmito101.github.io/cgl/
+  * https://news.ycombinator.com/item?id=42910284
 * Overlay for running GPU shaders on top of Windows desktop
   * github.com/mausimus/ShaderGlass
 * превращает звук в иллюстрации
   * https://kaleidoskopus.artlebedev.ru/
+* Sine Wave Speech, a real-time audio effect in Rust->WASM
+  * https://www.sinewavespeech.com/live/
+  * https://news.ycombinator.com/item?id=42531744
+  * https://vvolhejn.com/2024/11/16/sinewavespeech-com-live.html
