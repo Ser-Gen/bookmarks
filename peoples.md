@@ -148,8 +148,8 @@
 * https://hub.octt.eu.org/
 * https://managore.itch.io/
 * https://bolknote.ru
-* Интернет-время «Своч»
-  * https://bolknote.ru/all/internet-vremya-svoch/
+  * Интернет-время «Своч»
+  *.  https://bolknote.ru/all/internet-vremya-svoch/
 * https://neil.fraser.name/
   * https://github.com/NeilFraser
 * https://fabiensanglard.net/
@@ -161,6 +161,7 @@
     * https://fabiensanglard.net/fastdoom/index.html
     * https://habr.com/ru/articles/888166/
 * https://bellard.org/
+* https://www.antvaset.com/
 * https://www.simonphipps.com/games/
 * https://fms.komkon.org/
 * https://habr.com/ru/users/GeeksCat/
@@ -185,10 +186,10 @@
   * http://www.retrosouls.net/
   * https://www.mobygames.com/person/688236/denis-grachev/
   * https://www.pouet.net/user.php?who=100568
-* Игры RetroSouls
-  * https://docs.google.com/spreadsheets/d/1e2gNjXy9KiKDmmwZ3z8TxF4AHXUbD5SUk7orGI02zpE/htmlview
-  * Золото отечественного ретродева: RetroSouls
-    * https://habr.com/ru/companies/ruvds/articles/876682/
+  * Игры RetroSouls
+    * https://docs.google.com/spreadsheets/d/1e2gNjXy9KiKDmmwZ3z8TxF4AHXUbD5SUk7orGI02zpE/htmlview
+    * Золото отечественного ретродева: RetroSouls
+      * https://habr.com/ru/companies/ruvds/articles/876682/
 * Александр Семенов
   * http://shiru.untergrund.net/
   * https://www.mobygames.com/person/308958/alexander-semenov/
@@ -205,8 +206,8 @@
   * Сычевальня в жёлтой комнате
     * https://t.me/nerdcave_live
     * https://t.me/yellow_room_nerdcave
-* Вне границ: Краткая история пиксельной графики
-  * https://www.youtube.com/watch?v=dJCUjORKMfw
+  * Вне границ: Краткая история пиксельной графики
+    * https://www.youtube.com/watch?v=dJCUjORKMfw
 * Fallout и Крис Аввелон
   * https://archive.org/details/fallout-bible-rus/
   * https://chrisavellone.medium.com/

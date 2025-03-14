@@ -500,13 +500,15 @@
 * https://web.libretro.com/
 * https://neptunjs.xyz/
   * https://github.com/lyarinet/NeptunJS
-* https://tic80.com/
+* TIC-80
+  * https://tic80.com/
   * https://github.com/nesbox/TIC-80
   * https://tic80.com/dev?id=2178
   * tic!osu
     * https://tic80.com/play?cart=1058
 * https://exoticorn.github.io/microw8/
-* https://www.pico-8-edu.com/
+* PICO-8
+  * https://www.pico-8-edu.com/
   * https://lexaloffle.com/pico-8.php?page=resources
   * https://github.com/pico-8/awesome-PICO-8
   * https://memalign.github.io/p/pico8.html
@@ -543,9 +545,16 @@
     * https://youtu.be/__1zxu8_ttc
   * https://github.com/PixelVision8/PixelVision8
   * https://pixelvision8.github.io/Website/
-* https://wasm4.org/play/
+* WASM4
+  * https://wasm4.org/play/
   * https://github.com/aduros/wasm4
   * https://wasm4.org/docs/guides/multiplayer/
+  * https://wasm4.org/play/untangle/
+* MEG4
+  * Very performant fantasy console with lots of features and multiple languages
+  * https://bztsrc.gitlab.io/meg4/
+  * https://news.ycombinator.com/item?id=36358952
+  * https://bztsrc.gitlab.io/meg4/manual_en.html
 * https://dos.zone/
   * https://github.com/caiiiycuk/js-dos
 * https://github.com/copy/v86

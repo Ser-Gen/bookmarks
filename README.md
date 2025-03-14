@@ -60,4 +60,8 @@
 * https://github.com/DustinBrett/daedalOS/blob/main/README.md
   * https://github.com/DustinBrett/daedalOS/blob/main/public/CREDITS.md
   * https://github.com/DustinBrett/daedalOS/blob/main/IDEAS.md
+* https://t.me/s/gamebase54
+* https://hn.algolia.com
+  * https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=emscripten&sort=byPopularity&type=story
+  * https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=wasm&sort=byPopularity&type=story
 * https://github.com/Emupedia/emupedia.github.io/blob/master/beta/emuos/assets/data/desktop.json
