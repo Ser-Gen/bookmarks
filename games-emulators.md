@@ -550,6 +550,7 @@
   * https://github.com/aduros/wasm4
   * https://wasm4.org/docs/guides/multiplayer/
   * https://wasm4.org/play/untangle/
+  * https://news.ycombinator.com/item?id=42278295
 * MEG4
   * Very performant fantasy console with lots of features and multiple languages
   * https://bztsrc.gitlab.io/meg4/
@@ -615,6 +616,10 @@
   * https://ktock.github.io/container2wasm-demo/
   * https://github.com/ktock/container2wasm
   * https://ktock.github.io/qemu-wasm-demo/
+* Qemu.js source code with proof-of-concept machine-code-to-WASM JIT
+  * https://atrosinenko.github.io/qemujs-demo/
+  * https://github.com/atrosinenko/qemujs
+  * https://habr.com/ru/articles/315770/
 * Спектрум
   * игры Спектрум
     * http://zxonline.ru/

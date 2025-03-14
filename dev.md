@@ -108,12 +108,6 @@
 * R
   * https://github.com/georgestagg/webR
   * https://webr.r-wasm.org/latest/
-* Jupyter
-  * https://jupyterlite.github.io/demo/lab/index.html
-  * https://github.com/jupyterlite/jupyterlite
-  * https://jupyterlite.readthedocs.io/en/stable/try/lab
-  * https://jupyterlite.readthedocs.io/en/stable/try/tree
-  * https://news.ycombinator.com/item?id=41728199
 * SQL
   * https://github.com/sql-js/sql.js
   * https://sql.js.org/examples/GUI/
@@ -142,6 +136,9 @@
     * https://bellard.org/quickjs/pi.html
     * https://github.com/justjake/quickjs-emscripten
     * https://dev.to/sebastian_wessel/execute-javascript-in-a-webassembly-quickjs-sandbox-14nn
+  * JavaScript engine that can run on top of your browser’s JavaScript engine (JavaScriptCore)
+    * https://mbbill.github.io/JSC.js/demo/index.html
+    * https://mbbill.github.io/JSC.js/
 * Python
   * https://pyodide.org/
   * https://pyodide.org/en/stable/console.html
@@ -157,6 +154,18 @@
     * https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html
   * Karel Helper is an interactive tool where students and teachers can visualize problem-solving approaches,even remotely
     * https://karelhelper.com/
+* Jupyter
+  * https://jupyterlite.github.io/demo/lab/index.html
+  * https://github.com/jupyterlite/jupyterlite
+  * https://jupyterlite.readthedocs.io/en/stable/try/lab
+  * https://jupyterlite.readthedocs.io/en/stable/try/tree
+  * https://news.ycombinator.com/item?id=41728199
+* Marimo – open-source reactive Python notebook – running in WASM
+  * https://marimo.app/
+  * https://marimo.app/l/c7h6pz — tutorial
+  * https://github.com/marimo-team/marimo
+  * https://docs.marimo.io/faq/#how-is-marimo-different-from-jupyter
+  * https://news.ycombinator.com/item?id=39552882
 * Scratch
   * https://scratch.mit.edu/projects/editor/?tutorial=getStarted
   * https://tiei.ru/wp-content/uploads/Scratch-dlya-yunyih-programmistov.pdf
@@ -231,6 +240,11 @@ structuredjs
   * https://operating-system-in-1000-lines.vercel.app/en/
 * Your language isn't broken, it's doing floating point math
   * https://0.30000000000000004.com/
+* Browser-based HAR extraction tool, portable, self-contained in HTML
+  * https://jc3.github.io/harextract/harextract.html
+  * https://github.com/JC3/harextract
+* runtime for multimedia wasm apps that runs native and in browsers
+  * https://github.com/contextfreeinfo/taca
 
 ### тренировка программирования
 * https://leetcode.com/problemset/
@@ -296,6 +310,10 @@ structuredjs
   * https://playcanvas.com/
 * браузерный редактор игр
   * https://editor.construct.net/
+* pure WASM based game engine/editor that aims to recreate the vibe of Flash games
+  * https://news.ycombinator.com/item?id=37663270
+  * https://github.com/raverie-us/raverie-engine
+  * https://raverie-us.github.io/raverie-engine/
 * бесплатный онлайн игровой движок
   * https://microstudio.dev/ru/
   * https://microstudio.dev/tutorials/
@@ -564,6 +582,10 @@ structuredjs
 * https://emupedia.net/emupedia-demo-3d-spatial-audio/
 * https://emupedia.net/emupedia-demo-voxel-space/
 * https://emupedia.net/emupedia-app-8-bit-palette-color-cycling/
+* Old SGI demos running in the browser
+  * https://sgi-demos.github.io/
+  * https://news.ycombinator.com/item?id=35247535
+  * https://github.com/sgi-demos/
 * демо медузы
   * https://akirodic.com/p/jellyfish/
 * real time graphics
