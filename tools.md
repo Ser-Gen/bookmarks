@@ -234,6 +234,8 @@
 
 ### проверка на вирусы
 * https://www.virustotal.com/
+* https://opentip.kaspersky.com/
+* https://vms.drweb.com/scan_file/
 
 ### временная почта
 * https://temp-mail.org/ru/

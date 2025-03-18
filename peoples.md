@@ -162,6 +162,10 @@
     * https://habr.com/ru/articles/888166/
 * https://bellard.org/
 * https://www.antvaset.com/
+* https://floooh.github.io/
+  * https://github.com/floooh
+  * Emulators as embedded file viewers
+    * https://floooh.github.io/2019/01/05/wasm-embedding.html
 * https://www.simonphipps.com/games/
 * https://fms.komkon.org/
 * https://habr.com/ru/users/GeeksCat/

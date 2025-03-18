@@ -137,6 +137,10 @@
   * https://dev.to/devdevcharlie/playing-beat-saber-in-the-browser-with-body-movements-using-posenet-tensorflow-js-36km
 * free tool for generating sound effects
   * https://sfbgames.itch.io/chiptone
+* synthesizer and tracker software for native C/C++ and JS
+  * https://phoboslab.org/synth/
+  * https://github.com/phoboslab/pl_synth
+  * https://phoboslab.org/log/2025/01/synth
 
 ## графика
 * https://www.photopea.com/

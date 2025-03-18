@@ -479,6 +479,12 @@
 * Visual Transistor-level Simulation of the 6502 CPU and other chips!
   * http://visual6502.org/
   * http://www.visual6502.org/JSSim/
+* Visual6502 and VisualZ80 Remixed
+  * https://floooh.github.io/visualz80remix
+  * https://floooh.github.io/2019/12/13/cycle-stepped-6502.html
+* 8-bit chip and system emulators in standalone C headers
+  * https://floooh.github.io/tiny8bit/
+  * https://github.com/floooh/chips
 * Integrated Circuit (IC) Reverse Engineering (RE) Wiki
   * https://siliconpr0n.org/
 * guide to your perfect gaming handheld
