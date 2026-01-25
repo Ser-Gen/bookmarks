@@ -6,21 +6,20 @@
 
 ### Текст и код
 * https://github.com/coolwanglu/vim.js
-* https://www.tiny.cloud/tinymce/ ❌
-* https://www.typescriptlang.org/play/
-* https://vscode.dev/
+* https://www.tiny.cloud/tinymce/ ❌ ⭐
+* https://www.typescriptlang.org/play/ ⭐
 * Code Playground That Just Works!  
   * https://livecodes.io/ ❌
   * https://github.com/live-codes/livecodes
-    * https://ser-gen.ru/livecodes/ ✅
+    * https://ser-gen.ru/livecodes/ ✅ ⭐
 * ESM Playground is a web-based playground for ESM modules
   * https://code.esm.sh/
 * Sandboxed runtime for programming languages and WASI binaries. Works in the browser or on your server
   * https://runno.dev/
   * https://github.com/taybenlor/runno
 * https://ace.c9.io/kitchen-sink.html?doc=Markdown
-* https://codemirror.net/try/
-* https://stackblitz.com/ ❌
+* https://codemirror.net/try/ ⭐
+* https://stackblitz.com/ ❌ ⭐
 * просмотр джсона
   * https://discoveryjs.github.io/discovery/
   * open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed
@@ -31,13 +30,13 @@
   * https://github.com/cure53/DOMPurify
 * https://emupedia.net/emupedia-app-notepad/ ❌
 * https://emupedia.net/emupedia-app-vscode/ ❌
-* https://vslite.dev/ ❌
+* https://vslite.dev/ ❌ ⭐
   * https://github.com/kat-tax/vslite/issues
-* https://vscode.dev/
+* https://vscode.dev/ ⭐
 * https://stackblitz.com/ ❌
 * https://hexed.it/ ❌
   * https://www.reddit.com/r/AskProgramming/comments/6gdusz/how_does_httpshexedit_work/?rdt=47599
-* https://web.imhex.werwolv.net/
+* https://web.imhex.werwolv.net/ ⭐
   * https://github.com/WerWolv/ImHex
 * https://github.com/jens-duttke
   * https://www.duttke.de/en/ ❌
@@ -66,7 +65,7 @@
   * https://github.com/ben-sb/webunpack
 
 ### pandoc
-* https://pandoc.org/ ❌
+* https://pandoc.org/ ❌ ⭐
   * https://pandoc.org/try/ ❌
   * https://github.com/jgm/pandoc
 * https://tweag.github.io/pandoc-wasm/ ❌
@@ -98,7 +97,7 @@
 
 ### терминал
 * https://xtermjs.org/
-* https://terminal.jcubic.pl/
+* https://terminal.jcubic.pl/ ⭐
 	
 ### калькулятор
 * https://mcalculator.muzam1l.com/
@@ -134,8 +133,10 @@
   * https://github.com/SuperYesifang/excel-viewer
   * https://github.com/Djemchik/excell-viewer
   * https://rajaniraiyn.github.io/windows11/src/apps/excel.html ❌
-  * https://github.com/dream-num/Luckysheet
-  * https://github.com/dream-num/univer
+  * https://dream-num.github.io/LuckysheetDemo/ ⭐
+    * https://github.com/dream-num/Luckysheet
+  * https://univer.ai/ ⭐
+    * https://github.com/dream-num/univer
 * libreoffice
   * https://wasm-test.libreoffice.org/
   * https://lab.allotropia.de/ ❌
@@ -176,21 +177,21 @@
   * https://www.mermaidchart.com/play
 * Security-first diagramming for teams
   * https://app.diagrams.net/
-  * https://www.drawio.com/
+  * https://www.drawio.com/ ⭐
 
 ### общение
-* https://web.telegram.org/
+* https://web.telegram.org/ ⭐
 * Next generation of the Kiwi IRC web client
   * https://kiwiirc.com/ ❌
   * https://github.com/kiwiirc/kiwiirc
 
 ### созвоны
-* https://meet.jit.si/
+* https://meet.jit.si/ ⭐
 * https://salutejazz.ru/#/calls
 * https://stream.wb.ru/login
 * Best of WebRTC: Elevate with Top Projects!
   * https://github.com/webRTCv1/Best-of-webRTC
-* https://letsmeet.no/
+* https://letsmeet.no/ ⭐
   * https://github.com/edumeet/edumeet
 * https://demo.mediasoup.org/ ❌
   * https://mediasoup.org/ ❌
@@ -198,11 +199,11 @@
 * https://v3demo.mediasoup.org/ ❌
 
 ### совместная работа
-* https://app.kosmi.io/createRoom ❌
-* https://coroom.app/go?visibility=private ❌
+* https://app.kosmi.io/createRoom ❌ ⭐
+* https://coroom.app/go?visibility=private ❌ ⭐
 * https://oorja.io/ ❌
 * совместное редактирование текста
-  * https://rustpad.io/
+  * https://rustpad.io/ ⭐
   * https://conclave.tech/ — не тянет текст большой ❌
     * https://conclave-team.github.io/conclave-site/
   * https://share-monaco.vercel.app/ — теряет место, где пишет человек ❌
@@ -218,19 +219,19 @@
   * https://winstonfassett.github.io/y-webrtc-trystero/
   * very good whiteboard infinite canvas SDK
     * https://github.com/tldraw/tldraw ❌
-    * https://tldraw.dev/ ❌
+    * https://tldraw.dev/ ❌ ⭐
   * open source virtual hand-drawn style whiteboard, collaborative and end-to-end encrypted
     * https://excalidraw.com/ ❌
     * https://github.com/excalidraw/excalidraw
 
 ### перевод
-* https://translate.yandex.ru/
+* https://translate.yandex.ru/ ⭐
 * https://www.deepl.com/translator ❌
 * Translate between about 400 languages using the MADLAD400 7 billion parameter language model
   * https://textsynth.com/translation.html ❌
 
 ### делиться файлами
-* https://wormhole.app/
+* https://wormhole.app/ ⭐
 * https://webtorrent.io/intro ❌
   * https://webtorrent.io/faq ❌
 * https://www.10minutehosting.com/info/faq ❌
@@ -244,7 +245,7 @@
   * https://github.com/quiet/quiet-js/
 
 ### проверка на вирусы
-* https://www.virustotal.com/
+* https://www.virustotal.com/ ⭐
 * https://opentip.kaspersky.com/
 * https://vms.drweb.com/scan_file/
 
@@ -254,11 +255,11 @@
 ### ос онлайн
 * onworks
   * до 5 минут неактивности
-  * https://www.onworks.net/ ❌
+  * https://www.onworks.net/ ❌ ⭐
   * https://www.onworks.net/os-distributions/ubuntu-based ❌
   * https://www.onworks.net/os-distributions ❌
   * https://www.onworks.net/programs/emcc-online ❌
-* https://terminator.aeza.net/ ❌
+* https://terminator.aeza.net/ ❌ ⭐
   * Бесплатный тестовый сервер на 15 минут
   * https://wiki.aeza.net/oblachnye-servery-vps/besplatnyi-testovyi-server ❌
 * software-on-demand service that instantly delivers existing third-party SW applications to any web-browser equipped device over broadband/3G
@@ -270,10 +271,10 @@
 ### Браузер
   * браузер есть в инструментах ОС онлайн
   * в некоторых эмуляторах старых систем
-  * https://archive.org/help/wayback_api.php
+  * https://archive.org/help/wayback_api.php ⭐
     * `http://archive.org/wayback/available?url=example.com`
   * User friendly web proxy powered by testcafe-hammerhead
-    * https://browser.rammerhead.org/ ❌
+    * https://browser.rammerhead.org/ ❌ ⭐
     * https://github.com/binary-person/rammerhead
 * "Proxy" Chromium Browser 
   * https://github.com/DustinBrett/daedalOS/discussions/282
