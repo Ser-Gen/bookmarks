@@ -8,6 +8,8 @@
 * https://stream.antenne.com/
 * https://oldtime.radio/ ❌
 * http://radio.garden/ ⭐
+* https://somafm.com/ ⭐
+  * https://somafm.com/player24/station/groovesalad ⭐
 * http://websdr.org/
   * http://websdr.ewi.utwente.nl:8901/ ⭐
 * https://fmplay.ru/ ⭐
@@ -262,6 +264,7 @@
   * https://youtu.be/J9YpU_5YXJM ❌
 * https://github.com/buzz/mediainfo.js
   * https://mediainfo.js.org/ ⭐
+  * https://mediainfo.js.org/demo/ ⭐
 * Audio Tag Analyzer
   * https://audio-tag-analyzer.netlify.app/ ❌
 * fastest and most versatile JS EXIF reading library

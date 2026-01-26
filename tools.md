@@ -135,6 +135,8 @@
   * https://rajaniraiyn.github.io/windows11/src/apps/excel.html ❌
   * https://dream-num.github.io/LuckysheetDemo/ ⭐
     * https://github.com/dream-num/Luckysheet
+    * https://github.com/dream-num/Luckyexcel/blob/master/src/index.html
+    * https://github.com/dream-num/Luckyexcel
   * https://univer.ai/ ⭐
     * https://github.com/dream-num/univer
 * libreoffice
@@ -166,6 +168,10 @@
   * markdown parser and compiler. Built for speed
     * https://marked.js.org/demo/ ❌
     * https://github.com/markedjs/marked
+* archive
+  * JavaScript 7-Zip 25.01 - a fast, multi-threaded, dependency-free, versatile archive handler for use in Web Browsers, Node.js or WebAssembly projects
+    * https://7z.m-h.org.uk/ ❌ ⭐
+    * https://github.com/GMH-Code/JS7z
 
 ### infographics
 * free infographics generator
