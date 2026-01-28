@@ -2,7 +2,7 @@
 ### коллекции и архивы
 * Archive.org
   * non-profit library of millions of free texts, movies, software, music, websites, and more
-  * https://archive.org/
+  * https://archive.org/ ⭐ ⭐ ⭐
   * https://blog.archive.org/
   * https://blog.archive.org/2024/10/30/vanishing-culture-a-report-on-our-fragile-cultural-record/
     * https://archive.org/details/vanishing-culture-report/
@@ -15,20 +15,22 @@
 * Google arts and culture
   * https://artsandculture.google.com/
 * interactive Google Easter eggs
-  * https://elgoog.im/
+  * https://elgoog.im/ ❌
 * коллекция отсканированных книг о шрифтах и каллиграфии разных периодов и стран
   * https://bibliotekus.artlebedev.ru/
 * коллекции ссылок с коллекциями в том числе
   * https://design.bureau.ru/
-* форум стелс машины
-  * https://paralay.iboards.ru/
+* авиа
+  * https://paralay.iboards.ru/ ❌
+  * http://old.sukhoi.ru/forum/forum.php
+  * https://www.avsim.su/wiki/Avsim_Wiki
   * https://t.me/aviamemes
 * Руководства по лётной эксплуатации самолётов и вертолётов
   * https://www.avsim.su/wiki/РЛЭ
 * Genealogy of Technology and Power Since 1500
-  * calculatingempires.net
+  * http://calculatingempires.net/ ❌
 * TikTok-style interface for exploring random Wikipedia articles.
-  * wikitok.vercel.app
+  * https://wikitok.vercel.app/
 
 ### карты
 * панорамы
@@ -40,9 +42,9 @@
   * https://www.skylinewebcams.com/ru/top-live-cams.html
   * https://zoo.mos.ru/manul/
 * гуглоземля
-  * earth.google.com
+  * https://earth.google.com/web/ ⭐
 * положение солнца
-  * http://suncalc.net/
+  * http://suncalc.net/ ❌
   * https://github.com/mourner/suncalc
   * https://github.com/sentriz/wlr-sunclock
 * interactive map of history
@@ -50,37 +52,40 @@
   * https://news.ycombinator.com/item?id=42397550
 * карта с фотками прошлого
   * https://pastvu.com/
+* OpenStreetMap is a map of the world, created by people like you and free to use under an open license
+  * https://www.openstreetmap.org/
 
 ### планетарий
 * наса
-  * https://eyes.nasa.gov/apps/solar-system/#/home
+  * https://eyes.nasa.gov/apps/solar-system/#/home ❌
 * Astronomy Picture of the Day
   * https://apod.nasa.gov/apod/
 * ISS Docking
   * https://iss-sim.spacex.com/
 * celestia for web
-  * https://celestia.mobi/web
+  * https://celestia.mobi/web ⭐
 * Stellarium Web
-  * https://stellarium-web.org/
+  * https://stellarium-web.org/ ⭐
   * https://github.com/Stellarium/stellarium-web-engine
 * See a satellite tonight
-  * https://james.darpinian.com/satellites/
+  * https://james.darpinian.com/satellites/ ❌
 * catalog and showcase every known object in space
-  * https://www.spacereference.org/
+  * https://www.spacereference.org/ ❌
 * древняя земля
-  * https://dinosaurpictures.org/ancient-earth
+  * https://dinosaurpictures.org/ancient-earth ❌
 * Spacekit is an open-source JavaScript library for creating interactive 3D space visualizations
   * https://typpo.github.io/spacekit/
 * карты молний
-  * https://www.lightningmaps.org/#
+  * https://www.lightningmaps.org/
 * карта пожаров
   * https://firms.modaps.eosdis.nasa.gov/map/
 * расписание затмений
   * https://eclipse.gsfc.nasa.gov/
+  * https://science.nasa.gov/eclipses/
 * Позволяет почувствовать масштаб колоссального количества людей, лет, молекул и еще чего угодно
   * https://razmerus.artlebedev.ru/
 * Drag and drop countries around the map to compare their relative size
-  * https://www.thetruesize.com/
+  * https://www.thetruesize.com/ ❌
 * geoquiz
   * https://xem.github.io/games/geoquiz.html
   * http://xem.github.io/articles/js13k15.html
@@ -91,16 +96,17 @@
 
 ### погода
 * https://www.ventusky.com/
-* https://github.com/chubin/wttr.in
+* https://wttr.in/ ❌
+  * https://github.com/chubin/wttr.in
 * комплексный прогноз Гидрометцентра
-  * https://method.meteorf.ru/ansambl/complex.html
+  * https://method.meteorf.ru/ansambl/complex.html ⭐
 * https://rp5.ru/
 
 ### National Health Service
-* https://www.nhs.uk/
+* https://www.nhs.uk/ ❌ ⭐
 
 ### сделай сам
-* https://www.instructables.com/
+* https://www.instructables.com/ ❌
 * научить всех на свете, как делать все что угодно
   * https://ru.wikihow.com/wikiHow:%D0%9E-wikiHow
 
@@ -112,28 +118,30 @@
   * https://64.media.tumblr.com/64f27e087fb1105cb9eb785e5893d0d8/a3b11c1c47faa839-4b/s1280x1920/cc18af86525b434fe7cd8b94f5aefc2cd6412cf5.png
 * https://www.linux.org.ru/gallery/archive/
 * дефрагментация симуляция
-  * http://defrag98.com
+  * http://defrag98.com ❌
 * дизайнерский архив нокия
   * https://nokiadesignarchive.aalto.fi/
 * graphical user interface gallery
   * https://guidebookgallery.org/index
 * https://github.com/pi0/clippyjs
-* https://github.com/Adrianotiger/web-esheep
+* https://adrianotiger.github.io/web-esheep/
+  * https://github.com/Adrianotiger/web-esheep
 * 90's Cursor Effects
-  * https://tholman.com/cursor-effects/
+  * https://tholman.com/cursor-effects/ ❌
 * floor796
   * https://floor796.com/
   * https://runet.news/interview/50112
   * https://www.youtube.com/channel/UCribkEGzOuMQ9ozb0ektMCQ
   * Отрисовка в браузере большой анимации или как я ушел с mp4 к своему формату видео
   * https://habr.com/ru/companies/floor796/articles/673318/
-  * https://www.artstation.com/floor796
+  * https://www.artstation.com/floor796 ❌
   * https://floor796.com/editor/l0
 * Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
-  * https://magenta.tensorflow.org/lofi-player
+  * https://magenta.github.io/lofi-player/
   * https://github.com/magenta/lofi-player
+  * https://magenta.tensorflow.org/lofi-player
 * интерактивные комнаты
-  * https://rooms.xyz/welcome
+  * https://rooms.xyz/welcome ❌
 * Million dollar homepage
   * http://www.milliondollarhomepage.com/
 
@@ -144,40 +152,43 @@
   * https://habr.com/ru/articles/857392/
 
 ### старый интернет
-* https://web.archive.org/
+* https://web.archive.org/ ⭐ ⭐ ⭐
   * https://web.archive.org/web/20190530004539/http://herculeskv.narod.ru/documents/mustdie.htm
   * https://web.archive.org/web/20191006061442/http://blog.gamedeff.com/?p=64
   * https://web.archive.org/web/20210616065539/http://blog.gamedeff.com/
 * list of the various projects to get vintage computers connected to the internet 
   * https://github.com/ssshake/retro-computing-internet-resources
-* https://theoldnet.com/
+* https://theoldnet.com/ ❌
 * Browse emulated browsers connected to old web sites in your browser!
-  * https://oldweb.today/
+  * https://oldweb.today/ ⭐
 * поисковик старых сайтов
   * https://wiby.me/
   * https://t.me/retrodevicesnerd/12371
 * World’s Oldest Web Page (I have it)
   * https://www.ibiblio.org/pjones/blog/worlds-oldest-web-page-i-have-it/
 * https://www.reddit.com/r/web_design/comments/r5kvp1/tips_for_a_90s_looking_website/
-* https://www.cameronsworld.net/
+* https://www.cameronsworld.net/ ❌
 * https://www.spacejam.com/1996/
 * http://www.funkychickens.com/main.asp
 * https://www.arngren.net/
-* https://poolsuite.net/
+* https://poolsuite.net/ ❌
 
 ### хранитель экрана
 * https://github.com/maze95/maze95-js
   * https://ibid-11962.github.io/Windows-95-3D-Maze-Screensaver/maze.html
   * https://github.com/ibid-11962/Windows-95-3D-Maze-Screensaver
 * https://github.com/kevin-shannon/3D-FlowerBox
+  * https://kevinshannon.com/3D-FlowerBox/ ❌
 * https://github.com/1j01/pipes
+  * https://1j01.github.io/pipes/
 * https://github.com/khang-nd/bubbles
+  * https://khang-nd.github.io/bubbles/
 * https://rezmason.github.io/matrix/?version=operator
 * https://ser-gen.github.io/sandbox/clocks/cifra/
 * Recreating After Dark screensavers in CSS
-  * http://bryanbraun.github.io/after-dark-css/
+  * http://www.bryanbraun.com/after-dark-css/ ❌
   * https://github.com/bryanbraun/after-dark-css
-* https://www.bouncingdvdlogo.com/
+* https://www.bouncingdvdlogo.com/ ❌
 * open-source tribute to the macOS Drift screensaver
   * https://flux.sandydoo.me/
   * https://github.com/sandydoo/flux
@@ -187,7 +198,7 @@
   * https://github.com/xesf/castaway
   * http://www.hunterdavis.com/johnnycastawaywine/
   * https://hunterdavis.com/2019/12/12/launch_blog_post.html
-  * https://castaway.xesf.net/
+  * https://castaway.xesf.net/ ❌
 * https://t.me/artalog/331
   * https://artalar.github.io/csb-trpr1/
 
@@ -195,11 +206,11 @@
 * webcomic of romance, sarcasm, math, and language
   * https://xkcd.com/
 * explain xkcd wiki
-  * https://www.explainxkcd.com/wiki/index.php/Main_Page
+  * https://www.explainxkcd.com/wiki/index.php/Main_Page ❌
 * wiki dedicated to cataloging the tricks of the trade for writing fiction, also called 'Tropes.'
   * https://tvtropes.org
 * website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more
-  * https://knowyourmeme.com/
+  * https://knowyourmeme.com/ ❌
 * неформальная, неформатная, фривольная и юмористическая интернет-энциклопедия на русском языке
   * https://neolurk.org/
 * IMG_0416
